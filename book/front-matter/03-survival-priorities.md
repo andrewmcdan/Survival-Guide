@@ -82,3 +82,21 @@ Examples
 - Check‑in times and durations
 - Message format (WHO/WHERE/WHEN/WHAT/INTENT)
 - Rendezvous points (primary/alternate)
+
+## Scenarios
+
+> 🧭 Scenario (Temperate forest, fog): The trail vanishes in cloud. Wind chills sweat. Phone at 36%.
+> 🔍 Decisions: Push forward vs STOP and reset; water now vs shelter; signal cadence.
+> ✅ Outcome: STOP → layer up → small wind break → whistle schedule; you become findable and warm before worrying about water.
+> 🧠 Lessons:
+> - Rule of 3s: thermal outranks water/food
+> - STOP resets panic into action
+> 🏋️ Drill: Practice a 2‑minute STOP under a cold fan.
+
+> 🧭 Scenario (Urban blackout): Power down, cell data jammed, elderly neighbor on oxygen.
+> 🔍 Decisions: Check neighbor vs drive; signal family; power priorities.
+> ✅ Outcome: You check neighbor, send WHO/WHERE/WHEN/WHAT/INTENT by SMS, set hourly check‑ins, and avoid risky driving.
+> 🧠 Lessons:
+> - PACE plan + short message format
+> - Battery discipline preserves options
+> 🏋️ Drill: Write your family’s 1‑line message template.

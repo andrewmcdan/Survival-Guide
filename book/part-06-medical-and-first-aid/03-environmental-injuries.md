@@ -89,3 +89,17 @@ Examples
 - 📝 Survival Priorities → STOP (avoid panic after bites/stings): ../front-matter/03-survival-priorities.html#stop
 - 📝 Survival Priorities → OODA (monitor progression and pivot to evac): ../front-matter/03-survival-priorities.html#ooda
 - ☑️ Survival Priorities → PACE Comms Plan (contact and rendezvous during evac): ../front-matter/03-survival-priorities.html#pace-communications-plan
+
+## Scenarios
+
+> 🧭 Scenario (Regional park, snakebite): Ankle bite; triangular head, rattling nearby.
+> 🔍 Decisions: Cut/suck vs pressure vs immobilize; move or stay; evac plan.
+> ✅ Outcome: You immobilize, keep limb at heart level, mark swelling times, and evacuate without walking far; you call Poison Control.
+> 🧠 Lessons: No cutting/sucking; immobilize and go
+> 🏋️ Drill: Practice a snug pressure wrap on a partner (elapid regions).
+
+> 🧭 Scenario (Bee swarm, urban): Two stings; hives spread; wheeze starts.
+> 🔍 Decisions: Epi now or wait; antihistamine; EMS.
+> ✅ Outcome: You give Epi promptly, call EMS, and monitor airway.
+> 🧠 Lessons: Early Epi saves lives
+> 🏋️ Drill: Train with an Epi trainer until it’s automatic.

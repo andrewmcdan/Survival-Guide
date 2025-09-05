@@ -64,3 +64,11 @@ Examples
 - 📝 Survival Priorities → STOP (don’t rush into unsafe roadside actions): ../front-matter/03-survival-priorities.html#stop
 - 📝 Survival Priorities → OODA (triage symptoms, choose next step): ../front-matter/03-survival-priorities.html#ooda
 - ☑️ Survival Priorities → PACE Comms Plan (inform contacts of delays): ../front-matter/03-survival-priorities.html#pace-communications-plan
+
+## Scenario
+
+> 🧭 Scenario (Grocery lot no‑start): Rapid clicks, dome light dim.
+> 🔍 Decisions: Battery vs starter; jump pack vs call; immobilizer light?
+> ✅ Outcome: You spot a loose terminal, tighten, jump with a pack, and drive to test the alternator.
+> 🧠 Lessons: Terminals first; jump packs are gold
+> 🏋️ Drill: Identify your fuse box and battery tie‑downs at home.

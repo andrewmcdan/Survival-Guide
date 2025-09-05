@@ -51,3 +51,11 @@ Examples
 ## Cross-Links
 - 💡 Survival Priorities → Rule of 3s (tools serve thermal/water priorities): ../front-matter/03-survival-priorities.html#rule-of-3s
 - 📝 Survival Priorities → STOP (pause if conditions become unsafe): ../front-matter/03-survival-priorities.html#stop
+
+## Scenario
+
+> 🧭 Scenario (Saw bind avoided): Limb under load; saw starts to pinch.
+> 🔍 Decisions: Force vs wedge; change cut; PPE.
+> ✅ Outcome: You wedge the kerf, change the angle, and finish safely.
+> 🧠 Lessons: Let the saw cut; wedge binds
+> 🏋️ Drill: Practice kerf wedging on scrap wood.

@@ -98,3 +98,19 @@ Sand/soil hourglass:
 - 📝 Survival Priorities → STOP (reset when rushed): ../front-matter/03-survival-priorities.html#stop
 - 📝 Survival Priorities → OODA (re‑estimate ETA on a loop): ../front-matter/03-survival-priorities.html#ooda
 - ☑️ Survival Priorities → PACE Comms Plan (timed check‑ins): ../front-matter/03-survival-priorities.html#pace-communications-plan
+
+## Scenarios
+
+> 🧭 Scenario (Temperate forest): You set a shadow stick and mark two points. Two fist‑widths to sunset.
+> 🔍 Decisions: Push to the overlook or set camp now?
+> ✅ Outcome: You set a hard turnaround time and pitch before dark. You eat warm and signal on schedule.
+> 🧠 Lessons:
+> - Timeboxing beats wishful thinking
+> - Fist rule + turnaround saves daylight
+> 🏋️ Drill: Count fist‑widths to sunset three evenings in a row.
+
+> 🧭 Scenario (Alpine morning): You need 90 minutes to traverse talus before storms.
+> 🔍 Decisions: Pace count vs phone timer; rest cadence.
+> ✅ Outcome: You use beads and 30‑min checks; you beat the storm line.
+> 🧠 Lessons: Pace + schedule = predictability
+> 🏋️ Drill: Calibrate 100 m pace in boots.

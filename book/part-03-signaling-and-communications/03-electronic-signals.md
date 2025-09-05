@@ -70,3 +70,11 @@ Examples
 - 📝 Survival Priorities → STOP (pause before SOS, verify need): ../front-matter/03-survival-priorities.html#stop
 - 📝 Survival Priorities → OODA (iterate on a schedule, update intent): ../front-matter/03-survival-priorities.html#ooda
 - ☑️ Survival Priorities → PACE Comms Plan (primary/alternate paths): ../front-matter/03-survival-priorities.html#pace-communications-plan
+
+## Scenario
+
+> 🧭 Scenario (Backcountry injury): No cell, two bars sometimes on a ridge, inReach on shoulder.
+> 🔍 Decisions: Preset vs custom; move for sky view vs stay.
+> ✅ Outcome: You send a preset with precise coords and intent to shelter; you keep the device with sky view and duty‑cycle checks.
+> 🧠 Lessons: Presets + sky view + patience
+> 🏋️ Drill: Program three useful presets today.

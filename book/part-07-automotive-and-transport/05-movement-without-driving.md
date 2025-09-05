@@ -53,3 +53,11 @@ Examples
 ## Cross-Links
 - 📝 Survival Priorities → STOP (don’t rush into crush zones): ../front-matter/03-survival-priorities.html#stop
 - 📝 Survival Priorities → OODA (choose push vs tow vs wait): ../front-matter/03-survival-priorities.html#ooda
+
+## Scenario
+
+> 🧭 Scenario (Garage push): Dead battery, car nose‑in.
+> 🔍 Decisions: Shift lock; pushers; chocks; comms.
+> ✅ Outcome: You use the shift lock, assign one driver + two pushers + one spotter, set small chocks, and roll out cleanly for a jump.
+> 🧠 Lessons: Roles + signals = safe micro‑moves
+> 🏋️ Drill: Find and test your shift‑lock release.

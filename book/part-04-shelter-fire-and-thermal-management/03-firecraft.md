@@ -101,3 +101,17 @@ Examples
 - 📝 Survival Priorities → STOP (decide if fire is worth the time/fuel): ../front-matter/03-survival-priorities.html#stop
 - 📝 Survival Priorities → OODA (monitor wind/fuel; adapt lay): ../front-matter/03-survival-priorities.html#ooda
 - ☑️ Survival Priorities → PACE Comms Plan (set signal schedules if using fire for signaling): ../front-matter/03-survival-priorities.html#pace-communications-plan
+
+## Scenarios
+
+> 🧭 Scenario (Wet forest): Kindling soaked; morale low.
+> 🔍 Decisions: Burn time on a fire vs layers; tinder choice.
+> ✅ Outcome: You split to dry cores, carve feather sticks, light cotton/vaseline with a ferro rod, and build a small log cabin; hot drink restores morale.
+> 🧠 Lessons: Dry inner wood + structure + patience
+> 🏋️ Drill: Start a fire in rain under a tarp edge.
+
+> 🧭 Scenario (High fire danger):
+> 🔍 Decisions: Fire vs stove vs no flame.
+> ✅ Outcome: You skip open flame, use a stove on mineral soil, and rely on insulation.
+> 🧠 Lessons: “No fire” is often the safest choice
+> 🏋️ Drill: Pack a “hot drink without fire” kit.

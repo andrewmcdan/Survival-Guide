@@ -62,3 +62,17 @@ Examples
 - 💡 Survival Priorities → Rule of 3s (air/shelter decisions): ../front-matter/03-survival-priorities.html#rule-of-3s
 - 📝 Survival Priorities → STOP (reset, then act deliberately): ../front-matter/03-survival-priorities.html#stop
 - ☑️ Survival Priorities → PACE Comms Plan (alerts, rendezvous): ../front-matter/03-survival-priorities.html#pace-communications-plan
+
+## Scenarios
+
+> 🧭 Scenario (Flash flood reroute): Underpass pooled with fast water.
+> 🔍 Decisions: Push through vs turn around; alt route time.
+> ✅ Outcome: You turn, take a higher parallel street, and arrive late but safe.
+> 🧠 Lessons: “Turn around, don’t drown” saves lives
+> 🏋️ Drill: Identify three low spots on your commute and alternates.
+
+> 🧭 Scenario (Quake aftershock): Stairs or shelter in place?
+> 🔍 Decisions: Wait for shaking to stop; check for hazards; exit path.
+> ✅ Outcome: You wait, grab go‑bag, avoid glass curtain wall, and descend via stairs to the rally point.
+> 🧠 Lessons: Two exits known in advance beat panic
+> 🏋️ Drill: Walk two exits for home/work/school.

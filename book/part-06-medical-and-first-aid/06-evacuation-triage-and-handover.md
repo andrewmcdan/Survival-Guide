@@ -59,3 +59,11 @@ Examples
 - 📝 Survival Priorities → STOP (reset if overwhelmed): ../front-matter/03-survival-priorities.html#stop
 - 📝 Survival Priorities → OODA (update triage and plan as resources change): ../front-matter/03-survival-priorities.html#ooda
 - ☑️ Survival Priorities → PACE Comms Plan (coordinate rendezvous/transport): ../front-matter/03-survival-priorities.html#pace-communications-plan
+
+## Scenario
+
+> 🧭 Scenario (Multi‑car collision): Three patients, varied injuries.
+> 🔍 Decisions: START vs jumping to treatment; who is Red/Yellow/Green; what to tell EMS.
+> ✅ Outcome: You START triage quickly, control a Red bleed, hypo‑wrap, and deliver a MIST report with times.
+> 🧠 Lessons: Sort fast, lifesave first, then transport
+> 🏋️ Drill: Practice START with friends in 3 minutes.

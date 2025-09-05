@@ -76,6 +76,16 @@ Example — River crossing decision (shoulder‑season):
 - Decide: No‑Go. Walk upstream to bridge; if none by 60 minutes, shelter and signal.
 - Act: Reverse to warm, wind‑sheltered spot; hot drink; dry layer; reassess route.
 
+## Scenario
+
+> 🧭 Scenario (Desert wash): A usually dry arroyo runs brown after storms. Daylight is fading.
+> 🔍 Decisions: Cross now vs detour; risk matrix labels? Backstop time?
+> ✅ Outcome: You label it Red (high impact), set a 60‑minute detour cap, choose higher ground, and reach camp late but dry.
+> 🧠 Lessons:
+> - GAR language makes stop/Go obvious
+> - Decision points + backstops prevent creeping risk
+> 🏋️ Drill: Write 3 Go/No‑Go thresholds you’ll actually follow.
+
 ---
 
 ## Key Takeaways

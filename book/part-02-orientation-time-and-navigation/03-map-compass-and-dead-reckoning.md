@@ -108,3 +108,11 @@ Examples
 - 📝 Survival Priorities → STOP (reset if lost): ../front-matter/03-survival-priorities.html#stop
 - 📝 Survival Priorities → OODA (re‑orient and iterate): ../front-matter/03-survival-priorities.html#ooda
 - ☑️ Survival Priorities → PACE Comms Plan (timed check‑ins and rendezvous): ../front-matter/03-survival-priorities.html#pace-communications-plan
+
+## Scenario
+
+> 🧭 Scenario (Whiteout timberline): Trail vanishes; you can see two distinct peaks briefly through clouds.
+> 🔍 Decisions: Wander vs resection; write bearings or keep in head.
+> ✅ Outcome: You take two magnetic bearings, convert to true, draw back‑bearings, and fix position in a small triangle; you choose a handrail to a shelter.
+> 🧠 Lessons: Resection > wandering; write both true/mag
+> 🏋️ Drill: Do a two‑point resection at a city park.

@@ -42,3 +42,11 @@ Examples
 
 ## Cross-Links
 - 📝 Survival Priorities → OODA (light checks on a schedule to manage power): ../front-matter/03-survival-priorities.html#ooda
+
+## Scenario
+
+> 🧭 Scenario (Improvised lantern): Kitchen dark; kids nervous.
+> 🔍 Decisions: Headlamp vs handheld; diffuser setup.
+> ✅ Outcome: You strap a headlamp around a water jug for diffuse light and keep one handheld for hallway checks.
+> 🧠 Lessons: Diffuse for tasks; reserve thrower for checks
+> 🏋️ Drill: Build your favorite diffuser and snap a photo for memory.

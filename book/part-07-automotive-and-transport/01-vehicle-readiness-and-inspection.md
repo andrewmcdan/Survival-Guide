@@ -59,3 +59,11 @@ Examples
 - 📝 Survival Priorities → STOP (pause and reassess when a warning light appears): ../front-matter/03-survival-priorities.html#stop
 - 📝 Survival Priorities → OODA (decide to continue vs pull over safely): ../front-matter/03-survival-priorities.html#ooda
 - ☑️ Survival Priorities → PACE Comms Plan (check‑ins on long drives): ../front-matter/03-survival-priorities.html#pace-communications-plan
+
+## Scenario
+
+> 🧭 Scenario (Pre‑trip save): A drywall screw in a rear tire on the walkaround.
+> 🔍 Decisions: Drive anyway vs plug now; compressor ready?
+> ✅ Outcome: You plug the tread, air to placard pressure, and avoid a freeway shoulder change at night.
+> 🧠 Lessons: Five minutes saves hours
+> 🏋️ Drill: Plug a tire on an old carcass or practice on a demo kit.

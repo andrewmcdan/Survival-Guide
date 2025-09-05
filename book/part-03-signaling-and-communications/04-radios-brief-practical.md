@@ -74,3 +74,11 @@ Examples
 - 📝 Survival Priorities → STOP (reset before cluttered radio traffic): ../front-matter/03-survival-priorities.html#stop
 - 📝 Survival Priorities → OODA (iterate check‑ins and decisions): ../front-matter/03-survival-priorities.html#ooda
 - ☑️ Survival Priorities → PACE Comms Plan (this entire section operationalizes it): ../front-matter/03-survival-priorities.html#pace-communications-plan
+
+## Scenario
+
+> 🧭 Scenario (Neighborhood after storm): Power out, cell congested. Family and two neighbors check in on FRS Ch 2.
+> 🔍 Decisions: Check‑in cadence; message format; who logs.
+> ✅ Outcome: You run top‑of‑hour check‑ins with WHO/WHERE/WHEN/WHAT/INTENT; readbacks confirm; you log decisions.
+> 🧠 Lessons: Cadence + format + readbacks = clarity
+> 🏋️ Drill: Do a 10‑minute radio net with prowords at home.

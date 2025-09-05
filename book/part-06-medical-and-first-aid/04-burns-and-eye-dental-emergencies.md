@@ -59,3 +59,17 @@ Examples
 - 📝 Survival Priorities → STOP (prevent frantic, harmful actions): ../front-matter/03-survival-priorities.html#stop
 - 📝 Survival Priorities → OODA (cool, cover, reassess, plan care): ../front-matter/03-survival-priorities.html#ooda
 - ☑️ Survival Priorities → PACE Comms Plan (coordinate evac and handoff): ../front-matter/03-survival-priorities.html#pace-communications-plan
+
+## Scenarios
+
+> 🧭 Scenario (Kitchen scald): Pot tips on forearm.
+> 🔍 Decisions: Ice vs cool water; ointments; rings.
+> ✅ Outcome: You cool under running water 15 minutes, remove ring, cover with clean film, and monitor.
+> 🧠 Lessons: Cool‑water rule; remove constrictors early
+> 🏋️ Drill: Time yourself cooling for the full 15 minutes.
+
+> 🧭 Scenario (Shop lye splash): Eye burning.
+> 🔍 Decisions: Flush vs patch; duration; contacts.
+> ✅ Outcome: You flush continuously 20 minutes, remove contacts, shield, and evacuate.
+> 🧠 Lessons: Irrigate early, long, and lots; shield don’t press
+> 🏋️ Drill: Stage a 1‑L eyewash at home/shop.

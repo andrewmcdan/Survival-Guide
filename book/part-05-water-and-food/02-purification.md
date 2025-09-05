@@ -94,3 +94,11 @@ Examples
 - 📝 Survival Priorities → STOP (slow down and choose the right method): ../front-matter/03-survival-priorities.html#stop
 - 📝 Survival Priorities → OODA (re‑assess after pre‑filtering and testing taste/odor): ../front-matter/03-survival-priorities.html#ooda
 - ☑️ Survival Priorities → PACE Comms Plan (check‑ins during long treatment times): ../front-matter/03-survival-priorities.html#pace-communications-plan
+
+## Scenario
+
+> 🧭 Scenario (Desert pool, murky): Sun drops in 90 minutes.
+> 🔍 Decisions: Boil muddy water vs settle/filter/chemical.
+> ✅ Outcome: You settle, decant, cloth pre‑filter, filter 0.1 µm, then chlorine dioxide for Crypto overnight; you sip your reserve with salt while waiting.
+> 🧠 Lessons: Multi‑barrier tailored to turbidity
+> 🏋️ Drill: Time how much clearer water gets after 30 minutes of settling.

@@ -45,3 +45,11 @@ Examples
 ## Cross-Links
 - 📝 Survival Priorities → OODA (power check cycles and priorities): ../front-matter/03-survival-priorities.html#ooda
 - ☑️ Survival Priorities → PACE Comms Plan (charging windows, device priorities): ../front-matter/03-survival-priorities.html#pace-communications-plan
+
+## Scenario
+
+> 🧭 Scenario (Winter headlamp save): 0°C and windy; light dims.
+> 🔍 Decisions: Swap cell now; warm spare; duty cycle.
+> ✅ Outcome: You warm a spare 18650 in a pocket, swap, and finish safely on low mode.
+> 🧠 Lessons: Warm cells work; spares buy safety
+> 🏋️ Drill: Standardize your devices on one cell type if possible.

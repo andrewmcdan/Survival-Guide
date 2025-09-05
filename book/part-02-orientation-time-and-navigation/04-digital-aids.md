@@ -87,3 +87,11 @@ Examples
 - 📝 Survival Priorities → STOP (pause when devices mislead): ../front-matter/03-survival-priorities.html#stop
 - 📝 Survival Priorities → OODA (iterate checks on a schedule): ../front-matter/03-survival-priorities.html#ooda
 - ☑️ Survival Priorities → PACE Comms Plan (Primary/Alternate/Contingency/Emergency): ../front-matter/03-survival-priorities.html#pace-communications-plan
+
+## Scenario
+
+> 🧭 Scenario (Canyon, 9% phone): The dot is jittery under cliff walls.
+> 🔍 Decisions: Trust GPS vs terrain; battery burn vs duty cycle.
+> ✅ Outcome: You switch to airplane + GPS, check position on a 30‑minute cadence, and use handrails; power bank stays warm in jacket.
+> 🧠 Lessons: Duty cycle + terrain association prevents dead‑battery detours
+> 🏋️ Drill: Configure offline maps and a 30‑minute reminder.

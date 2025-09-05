@@ -63,3 +63,14 @@ Environmental variability and risk:
 Accuracy and updates:
 
 - Content reflects current best practices at the time of writing but may change. Cross-check critical steps with up-to-date, authoritative sources (e.g., local EMS guidance, park/land management advisories, manufacturer manuals).
+
+## Scenario
+
+> 🧭 Scenario (Roadside crash): You arrive first. Two cars, one person seated, bleeding from forearm; fuel smell faintly present.
+> 🔍 Decisions: Approach or hold? Consent? Move the person or not? Call before touching?
+> ✅ Outcome: You park safely, hazards on, place a triangle, call 911 with location and hazards, ask the patient if you may help, glove up, control bleeding with pressure, keep them warm, and do not move them without immediate danger.
+> 🧠 Lessons:
+> - Scene safety and consent come first
+> - You are protected by Good Samaritan concepts only within your training and local laws
+> - Document times and actions for handoff
+> 🏋️ Drill: Write a 3‑line script you’ll say on arrival and when asking for consent.

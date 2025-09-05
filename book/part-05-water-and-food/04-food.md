@@ -72,3 +72,11 @@ Examples
 - 📝 Survival Priorities → STOP (pause before risky foraging): ../front-matter/03-survival-priorities.html#stop
 - 📝 Survival Priorities → OODA (adjust rations vs effort/temps): ../front-matter/03-survival-priorities.html#ooda
 - ☑️ Survival Priorities → PACE Comms Plan (coordinate group meals/resupply times): ../front-matter/03-survival-priorities.html#pace-communications-plan
+
+## Scenario
+
+> 🧭 Scenario (No‑cook 48 h): Power out; you shelter in place.
+> 🔍 Decisions: Ration plan; morale food; protein balance.
+> ✅ Outcome: You set 3 small meals/day with nuts, bars, tuna, crackers; add broth and a square of chocolate for morale.
+> 🧠 Lessons: Simple, dense, low‑risk foods keep you sharp
+> 🏋️ Drill: Build a 48‑hour no‑cook menu from your pantry today.

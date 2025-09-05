@@ -45,3 +45,11 @@ Examples
 - 💡 Survival Priorities → Rule of 3s (air/thermal considerations drive decision): ../front-matter/03-survival-priorities.html#rule-of-3s
 - 📝 Survival Priorities → STOP (avoid panic, choose deliberately): ../front-matter/03-survival-priorities.html#stop
 - ☑️ Survival Priorities → PACE Comms Plan (alerts, rendezvous, check‑ins): ../front-matter/03-survival-priorities.html#pace-communications-plan
+
+## Scenarios
+
+> 🧭 Scenario (Apartment smoke in hall): Alarm sounds; door feels cool.
+> 🔍 Decisions: SIP vs stairs; materials to seal; keys.
+> ✅ Outcome: You gather keys, phone, go‑bag; crack door cautiously; stairwell is clear; you evacuate. If smoke, you’d seal and signal.
+> 🧠 Lessons: Door control + pre‑staged kit
+> 🏋️ Drill: Time your grab‑and‑go to the stair door.

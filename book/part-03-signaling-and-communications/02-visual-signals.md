@@ -77,3 +77,17 @@ Examples
 - 📝 Survival Priorities → STOP (choose the next best signal method): ../front-matter/03-survival-priorities.html#stop
 - 📝 Survival Priorities → OODA (scan skies/routes, then iterate): ../front-matter/03-survival-priorities.html#ooda
 - ☑️ Survival Priorities → PACE Comms Plan (who/when to signal): ../front-matter/03-survival-priorities.html#pace-communications-plan
+
+## Scenarios
+
+> 🧭 Scenario (Coastal kayak, day): Ferry lane 1 km offshore.
+> 🔍 Decisions: Mirror vs smoke; shoreline V vs open beach.
+> ✅ Outcome: You sweep mirror flashes toward the lane and tramp a giant V on the sand near a headland.
+> 🧠 Lessons: Contrast + movement near handrails = detection
+> 🏋️ Drill: Practice mirror sighting at 500 m.
+
+> 🧭 Scenario (Snowfield): Helicopter heard faintly.
+> 🔍 Decisions: Symbol choice; stroke length.
+> ✅ Outcome: You stamp a huge X and stand clear; they spot you.
+> 🧠 Lessons: Big, simple, high‑contrast symbols work
+> 🏋️ Drill: Pace out 10 m strokes and memorize the look.

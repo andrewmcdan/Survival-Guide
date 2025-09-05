@@ -46,3 +46,11 @@ Examples
 - Redundancy + encryption protect your identity and enable faster recovery.
 - Keep small cash reserves for no‑power transactions.
 - A single grab folder saves minutes under stress.
+
+## Scenario
+
+> 🧭 Scenario (Grab‑folder win): Tree falls on roof; you need a hotel and to start a claim.
+> 🔍 Decisions: Which docs to bring; where copies live; cash for deposits.
+> ✅ Outcome: You grab the folder, pay with small bills while ATMs are down, and file a claim the same day.
+> 🧠 Lessons: Copies + cash accelerate recovery
+> 🏋️ Drill: Do a 10‑minute “grab‑folder audit” tonight.

@@ -89,3 +89,11 @@ Examples
 - 📝 Survival Priorities → STOP (reset if overwhelmed): ../front-matter/03-survival-priorities.html#stop
 - 📝 Survival Priorities → OODA (iterate assessment and actions): ../front-matter/03-survival-priorities.html#ooda
 - ☑️ Survival Priorities → PACE Comms Plan (who calls, when, and how): ../front-matter/03-survival-priorities.html#pace-communications-plan
+
+## Scenario
+
+> 🧭 Scenario (Bike crash): Rider down, bleeding, breathing fast, shivering in drizzle.
+> 🔍 Decisions: Bleeding vs airway first; hypothermia now or later; who calls.
+> ✅ Outcome: You control bleeding with pressure/TQ, open airway, seal chest abrasion, insulate from ground, assign a caller with exact location, and monitor.
+> 🧠 Lessons: MARCH‑E sequence + insulation early
+> 🏋️ Drill: Say MARCH‑E out loud while laying out your kit.

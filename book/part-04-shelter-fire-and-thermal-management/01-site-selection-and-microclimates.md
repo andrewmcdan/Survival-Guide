@@ -82,3 +82,17 @@ Examples
 - 📝 Survival Priorities → STOP (reset before choosing a site): ../front-matter/03-survival-priorities.html#stop
 - 📝 Survival Priorities → OODA (update plan as weather shifts): ../front-matter/03-survival-priorities.html#ooda
 - ☑️ Survival Priorities → PACE Comms Plan (share location and timing): ../front-matter/03-survival-priorities.html#pace-communications-plan
+
+## Scenarios
+
+> 🧭 Scenario (Temperate storm): Two benches—one near creek, one lee of a low ridge.
+> 🔍 Decisions: Drainage vs wind vs overhead hazards.
+> ✅ Outcome: You pick the lee bench, stake low, trench lightly where allowed, and stay dry.
+> 🧠 Lessons: Drainage + wind break beats “pretty view”
+> 🏋️ Drill: Walk a park after rain and map water flow.
+
+> 🧭 Scenario (Urban smoke): AQI spikes; ash falling.
+> 🔍 Decisions: SIP room vs leave; sealing; ventilation.
+> ✅ Outcome: You choose an interior room, seal, run HEPA, and monitor alerts.
+> 🧠 Lessons: Interior, sealable rooms win smoke days
+> 🏋️ Drill: Stage tape/towels in your chosen room.

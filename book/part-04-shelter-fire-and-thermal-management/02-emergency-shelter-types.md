@@ -86,3 +86,17 @@ Examples
 - 📝 Survival Priorities → STOP (reset before committing to a build): ../front-matter/03-survival-priorities.html#stop
 - 📝 Survival Priorities → OODA (iterate as weather and energy change): ../front-matter/03-survival-priorities.html#ooda
 - ☑️ Survival Priorities → PACE Comms Plan (signal schedule from shelter): ../front-matter/03-survival-priorities.html#pace-communications-plan
+
+## Scenarios
+
+> 🧭 Scenario (Squall line): Wind shifts and rain hits hard.
+> 🔍 Decisions: Low A‑frame vs lean‑to; beak or not; vent gap.
+> ✅ Outcome: You pitch a low A‑frame, beak one end, keep a small vent, and sleep dry.
+> 🧠 Lessons: Small/low/vented beats flappy palaces
+> 🏋️ Drill: Time yourself pitching low in 3 minutes.
+
+> 🧭 Scenario (Deep snow, calm):
+> 🔍 Decisions: Trench vs quinzhee; venting; platform.
+> ✅ Outcome: You dig a trench with a tarp roof and a raised sleeping shelf; vent hole open.
+> 🧠 Lessons: Cold‑air sump + raised bed = warmest sleep
+> 🏋️ Drill: Build a mock trench without snow using gear layout.

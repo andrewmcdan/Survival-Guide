@@ -47,3 +47,11 @@ Examples
 - 💡 Survival Priorities → Rule of 3s (prioritize thermal and water in kits): ../front-matter/03-survival-priorities.html#rule-of-3s
 - 📝 Survival Priorities → STOP (reset during kit use to avoid waste): ../front-matter/03-survival-priorities.html#stop
 - ☑️ Survival Priorities → PACE Comms Plan (backup contacts and times in kits): ../front-matter/03-survival-priorities.html#pace-communications-plan
+
+## Scenario
+
+> 🧭 Scenario (Office evac walk): Transit down, 14 km home.
+> 🔍 Decisions: Shoes vs dress flats; water; route; weight.
+> ✅ Outcome: You change to trail runners and socks from the GHB, sip steadily, and walk a safe route in 3 hours.
+> 🧠 Lessons: Weight you carry is the kit you use
+> 🏋️ Drill: Weigh your GHB and try a 5 km loop.

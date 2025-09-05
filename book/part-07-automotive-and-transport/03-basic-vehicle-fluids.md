@@ -61,3 +61,11 @@ Examples
 ## Cross-Links
 - 📝 Survival Priorities → STOP (cool down before opening caps): ../front-matter/03-survival-priorities.html#stop
 - 📝 Survival Priorities → OODA (decide whether to continue vs service now): ../front-matter/03-survival-priorities.html#ooda
+
+## Scenario
+
+> 🧭 Scenario (Coolant mixup averted): Steam after a climb; you’re low.
+> 🔍 Decisions: Open hot cap vs overflow; type check; limp vs stop.
+> ✅ Outcome: You cool, top the overflow with correct mix, avoid opening the cap hot, and get service later.
+> 🧠 Lessons: Don’t mix unknown coolants; never open hot
+> 🏋️ Drill: Find your coolant spec on the cap/manual.

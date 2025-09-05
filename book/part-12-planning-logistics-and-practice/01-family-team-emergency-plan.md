@@ -48,3 +48,11 @@ Examples
 
 ## Cross-Links
 - ☑️ Survival Priorities → PACE Comms Plan (operational details): ../front-matter/03-survival-priorities.html#pace-communications-plan
+
+## Scenario
+
+> 🧭 Scenario (Hurricane advisory): 36 hours out.
+> 🔍 Decisions: Stay vs go; FAR rendezvous; comms windows.
+> ✅ Outcome: You decide to leave 24 hours before landfall, text the out‑of‑area contact the plan, and meet at FAR if comms fail.
+> 🧠 Lessons: Early, written plans beat last‑minute debates
+> 🏋️ Drill: Print the one‑page plan and put it on the fridge.

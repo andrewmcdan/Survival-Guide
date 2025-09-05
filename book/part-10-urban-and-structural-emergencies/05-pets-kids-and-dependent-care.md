@@ -42,3 +42,11 @@ Examples
 
 ## Cross-Links
 - ☑️ Survival Priorities → PACE Comms Plan (family rendezvous, check‑ins): ../front-matter/03-survival-priorities.html#pace-communications-plan
+
+## Scenario
+
+> 🧭 Scenario (Wildfire evac with pets): Ash drifts; advisory issued.
+> 🔍 Decisions: Pack now vs wait; hotel that takes pets; meds.
+> ✅ Outcome: You load car seats, pet carriers, meds folder, and go‑bags; you depart on the primary route before congestion.
+> 🧠 Lessons: Pet‑friendly plans + meds docs = smoother evac
+> 🏋️ Drill: Call two pet‑friendly hotels today and note policy.

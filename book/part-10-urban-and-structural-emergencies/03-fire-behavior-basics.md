@@ -43,3 +43,11 @@ Examples
 ## Cross-Links
 - 💡 Survival Priorities → Rule of 3s (air first): ../front-matter/03-survival-priorities.html#rule-of-3s
 - 📝 Survival Priorities → STOP (avoid panic, act in order): ../front-matter/03-survival-priorities.html#stop
+
+## Scenario
+
+> 🧭 Scenario (Closed‑door survivability): Night fire on another floor.
+> 🔍 Decisions: Door closed vs open; stay or go; window signal.
+> ✅ Outcome: You keep the door closed, seal gaps, signal at the window, and survive until firefighters arrive.
+> 🧠 Lessons: Close before you doze; door control saves lives
+> 🏋️ Drill: Close bedroom doors nightly.

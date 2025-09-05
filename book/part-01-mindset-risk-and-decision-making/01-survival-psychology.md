@@ -110,3 +110,13 @@ Keep cycling decisions with reality.
 - 📝 Survival Priorities → STOP: ../front-matter/03-survival-priorities.html#stop
 - 📝 Survival Priorities → OODA: ../front-matter/03-survival-priorities.html#ooda
 - ☑️ Survival Priorities → PACE Comms Plan: ../front-matter/03-survival-priorities.html#pace-communications-plan
+
+## Scenarios
+
+> 🧭 Scenario (Fog ridge): Wind bites; visibility 30 m; your pulse spikes.
+> 🔍 Decisions: Run downslope vs STOP and breathe; push time vs set a turnaround.
+> ✅ Outcome: Two minutes of box breathing; STOP → observe wind and terrain; plan a measured backtrack with a 20‑minute check.
+> 🧠 Lessons:
+> - Physiology control first
+> - Next safe, useful action beats perfection
+> 🏋️ Drill: Box‑breathe while reading a map until your hands stop shaking.

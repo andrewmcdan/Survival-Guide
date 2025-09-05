@@ -74,3 +74,13 @@ Examples
 - 📝 Survival Priorities → STOP (reset before consequential choices): ../front-matter/03-survival-priorities.html#stop
 - 📝 Survival Priorities → OODA (iterate decisions as conditions change): ../front-matter/03-survival-priorities.html#ooda
 - ☑️ Survival Priorities → PACE Comms Plan (contact trees, rendezvous, alternates): ../front-matter/03-survival-priorities.html#pace-communications-plan
+
+## Scenario
+
+> 🧭 Scenario (Storm, locked lobby): A glass‑walled office tower is the only dry place in a hailstorm. A person is bleeding outside.
+> 🔍 Decisions: Break in vs shelter under overhang; call security or 911; consent to treat?
+> ✅ Outcome: You move under the overhang, call 911 and building security, control bleeding with pressure, and avoid illegal entry.
+> 🧠 Lessons:
+> - Render aid within training and consent
+> - Prefer legal, safe alternatives; involve authorities
+> 🏋️ Drill: Write your “why I didn’t break in” note to yourself now, so it’s easy later.

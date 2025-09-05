@@ -44,3 +44,11 @@ Examples
 ## Cross-Links
 - 💡 Survival Priorities → Rule of 3s (air/thermal over schedule): ../front-matter/03-survival-priorities.html#rule-of-3s
 - 📝 Survival Priorities → STOP (avoid impulsive crossings): ../front-matter/03-survival-priorities.html#stop
+
+## Scenario
+
+> 🧭 Scenario (Underpass fills fast): Rain bursts; water rises around cars.
+> 🔍 Decisions: Proceed vs back out; alternate route.
+> ✅ Outcome: You reverse out early and reroute; later you learn cars were stranded.
+> 🧠 Lessons: Early retreat beats getting stuck
+> 🏋️ Drill: Save an alt route in your map app.
