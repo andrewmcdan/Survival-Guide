@@ -11,3 +11,4 @@ Welcome. Start with the Front Matter, then dive into Parts I–XII, or jump to A
 - Main Content: [Table of Contents](book/README.html)
 - Appendices: see the bottom of the Table of Contents
 - Download: [Single-file PDF (built by CI)](book/Fieldcraft-for-the-Unplanned.pdf)
+  • [EPUB](book/Fieldcraft-for-the-Unplanned.epub)

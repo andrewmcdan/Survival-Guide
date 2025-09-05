@@ -27,7 +27,11 @@ jobs:
             --from=markdown+yaml_metadata_block \
             --resource-path=book \
             --toc --toc-depth=2 \
+            --top-level-division=chapter \
             --pdf-engine=xelatex \
+            --number-sections \
+            -V documentclass=book \
+            -V classoption=oneside,openany \
             -V geometry:margin=1in \
             -V colorlinks=true -V linkcolor=blue \
             --metadata=title:"Fieldcraft for the Unplanned" \
@@ -35,11 +39,25 @@ jobs:
             -o dist/Fieldcraft-for-the-Unplanned.pdf \
             $(tr '\n' ' ' < book/manifest.txt)
 
+      - name: Build single EPUB with Pandoc
+        run: |
+          pandoc \
+            --from=markdown+yaml_metadata_block \
+            --resource-path=book \
+            --toc --toc-depth=2 \
+            --top-level-division=chapter \
+            --metadata=title:"Fieldcraft for the Unplanned" \
+            --metadata=subtitle:"A Practical Guide to Emergencies & Survival" \
+            -o dist/Fieldcraft-for-the-Unplanned.epub \
+            $(tr '\n' ' ' < book/manifest.txt)
+
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v4
         with:
           name: Fieldcraft-for-the-Unplanned
-          path: dist/Fieldcraft-for-the-Unplanned.pdf
+          path: |
+            dist/Fieldcraft-for-the-Unplanned.pdf
+            dist/Fieldcraft-for-the-Unplanned.epub
 
   commit-pdf:
     needs: build-pdf
@@ -58,8 +76,10 @@ jobs:
       - name: Commit PDF to repo
         run: |
           cp dist/Fieldcraft-for-the-Unplanned.pdf book/Fieldcraft-for-the-Unplanned.pdf
+          cp dist/Fieldcraft-for-the-Unplanned.epub book/Fieldcraft-for-the-Unplanned.epub
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add book/Fieldcraft-for-the-Unplanned.pdf
+          git add book/Fieldcraft-for-the-Unplanned.epub
           git commit -m "Update book PDF [skip ci]" || echo "No changes to commit"
           git push

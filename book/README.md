@@ -8,7 +8,7 @@ layout: default
 This folder contains the scaffolded structure for the book based on `outline.md`.
 Each chapter is a placeholder Markdown file with headings ready to draft.
 
-Download: [Single-file PDF (built by CI)](Fieldcraft-for-the-Unplanned.pdf)
+Download: [Single-file PDF (built by CI)](Fieldcraft-for-the-Unplanned.pdf) • [EPUB](Fieldcraft-for-the-Unplanned.epub)
 
 ## Front Matter
 - [Disclaimer & Scope](front-matter/01-disclaimer-and-scope.html)
