@@ -1,4 +1,12 @@
+---
+title: Knots & Lashings
+layout: default
+---
+
 # Knots & Lashings
 
-TODO: Provide one-page visuals and notes for core knots and lashings.
+## Core Knots
+TODO: Visuals and quick notes for key knots.
 
+## Lashings
+TODO: Visuals for square, diagonal, and shear.

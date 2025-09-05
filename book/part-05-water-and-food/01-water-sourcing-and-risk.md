@@ -1,4 +1,15 @@
+---
+title: Water Sourcing & Risk
+layout: default
+---
+
 # Water Sourcing & Risk
 
-TODO: Cover moving vs stagnant water, surface clues, and urban sources like heater tanks and cisterns.
+## Moving vs Stagnant Water
+TODO: Prefer sources and assess contamination risks.
 
+## Surface Clues
+TODO: Color, odor, algae, animal sign; upstream checks.
+
+## Urban Sources
+TODO: Water heater tanks, cisterns, plumbing; safety notes.

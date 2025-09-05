@@ -1,4 +1,15 @@
+---
+title: Signal Library
+layout: default
+---
+
 # Signal Library
 
-TODO: Include Morse code, whistle patterns, and ground-to-air symbols (full page visuals).
+## Morse Code
+TODO: Full alphabet and numerals.
 
+## Whistle Patterns
+TODO: Standard calls for attention and distress.
+
+## Ground-to-Air Symbols
+TODO: Full-page symbol reference.

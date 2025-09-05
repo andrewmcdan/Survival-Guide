@@ -1,4 +1,21 @@
+---
+title: Food
+layout: default
+---
+
 # Food
 
-TODO: Cover energy planning, rationing, safe foraging heuristics, fishing/trapping ethics and legality; GI risk avoidance.
+## Energy Planning
+TODO: Calorie needs by activity and environment.
 
+## Rationing
+TODO: Prioritize slow-burn foods; avoid bingeing.
+
+## Safe Foraging Heuristics
+TODO: Avoid unknowns; regional guides and seasons.
+
+## Fishing & Trapping (Ethics & Legality)
+TODO: Observe laws; humane methods and sustainability.
+
+## GI Risk Avoidance
+TODO: Food safety basics exceed calorie gains from risky sources.

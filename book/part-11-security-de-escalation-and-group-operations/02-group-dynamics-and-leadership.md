@@ -1,4 +1,24 @@
+---
+title: Group Dynamics & Leadership
+layout: default
+---
+
 # Group Dynamics & Leadership
 
-TODO: Cover roles, check-ins, span of control, morale and rest cycles; briefs and debriefs; simple logs and task boards.
+## Roles
+TODO: Assign clear responsibilities.
 
+## Check-Ins
+TODO: Regular status and location updates.
+
+## Span of Control
+TODO: Keeper size for supervision and safety.
+
+## Morale & Rest Cycles
+TODO: Rotate tasks; manage fatigue.
+
+## Briefs & Debriefs
+TODO: Share plans, lessons, and adjustments.
+
+## Logs & Task Boards
+TODO: Simple tools for coordination.

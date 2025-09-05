@@ -1,4 +1,15 @@
+---
+title: How to Use This Book
+layout: default
+---
+
 # How to Use This Book
 
-TODO: Describe color tabs, icons, and at-a-glance cards; explain navigation.
+## Color Tabs
+TODO: Explain section color coding and quick navigation cues.
 
+## Icons
+TODO: Define iconography (tips, cautions, legal notes, medical alerts).
+
+## At-a-Glance Cards
+TODO: Describe usage and where to find printable/reference cards.

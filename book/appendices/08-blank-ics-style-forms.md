@@ -1,4 +1,15 @@
+---
+title: Blank ICS-Style Forms
+layout: default
+---
+
 # Blank ICS-Style Forms
 
-TODO: Include simple message form, task log, and situation board templates.
+## Message Form
+TODO: Sender, receiver, time, and content blocks.
 
+## Task Log
+TODO: Assignments, status, and timestamps.
+
+## Situation Board
+TODO: Incident overview, resources, and actions.

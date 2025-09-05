@@ -1,4 +1,12 @@
+---
+title: Radio Cheat Sheet
+layout: default
+---
+
 # Radio Cheat Sheet
 
-TODO: Provide simple channel plan templates and the phonetic alphabet.
+## Channel Plans
+TODO: Family/group templates and check-in times.
 
+## Phonetic Alphabet
+TODO: A–Z and numerals pronunciation.

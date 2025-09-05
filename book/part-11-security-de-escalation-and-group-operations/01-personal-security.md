@@ -1,4 +1,21 @@
+---
+title: Personal Security
+layout: default
+---
+
 # Personal Security
 
-TODO: Cover avoidance, boundary setting, verbal de-escalation, travel posture; noise/light/odor discipline.
+## Avoidance
+TODO: Route selection and situational choices.
 
+## Boundary Setting
+TODO: Verbal and physical boundaries.
+
+## Verbal De-Escalation
+TODO: Tone, language, and exit strategies.
+
+## Travel Posture
+TODO: Carry, stance, and attention management.
+
+## Noise/Light/Odor Discipline
+TODO: Reduce signature in close quarters.

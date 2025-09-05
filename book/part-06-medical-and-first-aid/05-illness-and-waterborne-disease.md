@@ -1,4 +1,15 @@
+---
+title: Illness & Waterborne Disease
+layout: default
+---
+
 # Illness & Waterborne Disease
 
-TODO: Cover diarrhea management, ORS recipe, when to use/avoid anti-diarrheals.
+## Diarrhea Management
+TODO: Hydration focus; red flags for escalation.
 
+## ORS Recipe
+TODO: Ingredients, proportions, and administration guidance.
+
+## Anti-Diarrheals — When to Use/Avoid
+TODO: Indications and contraindications.

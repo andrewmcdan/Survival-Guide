@@ -1,4 +1,21 @@
+---
+title: Checklists
+layout: default
+---
+
 # Checklists
 
-TODO: Include EDC, Get-Home Bag, 72-Hour Bag, Vehicle Kit, and Home Blackout Kit checklists.
+## EDC
+TODO: Everyday carry essentials.
 
+## Get-Home Bag
+TODO: Items for 12–24h travel on foot.
+
+## 72-Hour Bag
+TODO: Multi-day self-sufficiency kit.
+
+## Vehicle Kit
+TODO: Tools, recovery, and seasonal items.
+
+## Home Blackout Kit
+TODO: Power, light, heat, and comms.

@@ -1,0 +1,7 @@
+title: Fieldcraft for the Unplanned
+description: A practical guide to emergencies and survival
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: GFM
+

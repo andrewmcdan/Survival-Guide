@@ -1,4 +1,15 @@
+---
+title: At-a-Glance Cards
+layout: default
+---
+
 # At-a-Glance Cards
 
-TODO: Prepare quick-reference cards for MARCH-E, hypothermia/hyperthermia, and dehydration ORS recipe.
+## MARCH-E
+TODO: One-page checklist and flow.
 
+## Hypothermia/Hyperthermia
+TODO: Signs and immediate actions.
+
+## Dehydration ORS Recipe
+TODO: Ingredients and mixing guidance.

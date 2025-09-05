@@ -1,4 +1,15 @@
+---
+title: Shelter-in-Place vs Evacuate
+layout: default
+---
+
 # Shelter-in-Place vs Evacuate
 
-TODO: Cover decision triggers, gas/electric/water shut-off, ventilation and smoke control.
+## Decision Triggers
+TODO: Criteria for staying vs leaving.
 
+## Utility Shut-Off
+TODO: Gas, electric, and water safety steps.
+
+## Ventilation & Smoke Control
+TODO: Filtered airflow and sealing methods.

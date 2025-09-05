@@ -1,4 +1,21 @@
+---
+title: Distress Fundamentals
+layout: default
+---
+
 # Distress Fundamentals
 
-TODO: Cover SOS, Rule of Three (3 blasts, fires, flashes), whistle use, shouting considerations, and legal/safe use of gunshots.
+## SOS
+TODO: · · · — — — · · · timing and mediums.
 
+## Rule of Three
+TODO: 3 blasts, fires, flashes; spacing and repetition.
+
+## Whistle Signals
+TODO: Three blasts for distress; cadence and pairing with light.
+
+## Shouting
+TODO: When it helps vs harms; conserve energy and avoid panic.
+
+## Gunshots (Legal/Safety)
+TODO: Only where safe and legal; assess risks and backstop.

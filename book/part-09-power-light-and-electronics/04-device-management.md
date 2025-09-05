@@ -1,4 +1,15 @@
+---
+title: Device Management
+layout: default
+---
+
 # Device Management
 
-TODO: Cover burn-down priorities, airplane mode, and dark-theme/night discipline.
+## Burn-Down Priorities
+TODO: Task-based power allocation.
 
+## Airplane Mode
+TODO: Radio management and duty cycling.
+
+## Dark Theme/Night Discipline
+TODO: Preserve night vision; reduce signature.
