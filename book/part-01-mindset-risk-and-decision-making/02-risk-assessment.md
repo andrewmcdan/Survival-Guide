@@ -5,20 +5,87 @@ layout: default
 
 # Risk Assessment
 
+## Overview
+Risk isn’t eliminated; it’s traded. Your job is to surface the biggest threats quickly, choose controls that reduce harm, and set clear thresholds that trigger plan changes. Tie these decisions to the survival priorities so you’re solving the right problem first.
+
 ## Rapid Hazard Triage
-TODO: Identify immediate threats and mitigations quickly.
+Start wide, then narrow. Address life‑threats, then plan.
+
+- People: bleeding, airway/breathing, consciousness, exposure risk.
+- Place: weather (now/next), terrain traps (cliffs, avalanche, flood), route options.
+- Things: gear status (light, warm layers, water, comms), vehicle condition if applicable.
+
+⛑️ First Aid: Run MARCH‑E first for any injured person, then continue assessment.
 
 ## Risk Matrix
-TODO: Likelihood vs impact and simple scoring.
+Simple, fast way to grade hazards by expected harm.
+
+- Likelihood: Unlikely / Possible / Likely
+- Impact (Severity): Minor / Serious / Catastrophic
+- Combine to flag: Green (proceed), Amber (proceed with controls), Red (stop or change plan).
+
+💡 Tip: You don’t need numbers. A quick “Amber/Red” label triggers controls or postponement.
 
 ## Go/No-Go Thresholds
-TODO: Define clear abort criteria and contingency points.
+Write down the lines you will not cross—before you’re at the line.
+
+- Time to dark: “If off trail 90 minutes before sunset, stop to shelter.”
+- Weather: “If thunder < 30/30 rule or winds > 25 kt on ridge, descend.”
+- People: “If anyone is hypothermic or injured beyond basic care, halt movement and signal.”
+- Gear: “If we lose primary light or comms, switch to contingency route back.”
+
+⚠️ Caution: If any Red threshold is met, stop arguing. Pivot to the pre‑agreed plan.
 
 ## Solo vs Group Decisions
-TODO: Roles, check-backs, and shared mental models.
+Decide how you’ll decide—before decisions get hard.
+
+- Designate a leader (can rotate by domain) and a red‑team voice to challenge assumptions.
+- Closed‑loop comms: Each tasking is repeated back and acknowledged.
+- Short briefs: “Purpose, key tasks, end state” before movement.
+- Check‑backs: Every 15–30 minutes or at terrain features, confirm status vs plan.
 
 ## Leader’s Intent
-TODO: Communicate purpose, key tasks, and end state.
+Boil the plan to its essence so teammates can improvise if separated.
+
+- Purpose: Why are we doing this?
+- Key Tasks: The few critical actions that must happen.
+- End State: What success looks like (location, time, condition).
+
+Example — Day hike with incoming storm:
+- Purpose: Return everyone to trailhead safely before storm.
+- Key Tasks: Stay on handrail ridge; regroup at saddles; shelter if thunder heard.
+- End State: At vehicle by 15:30, all dry and uninjured.
 
 ## Contingency Triggers
-TODO: Predefine conditions to switch plans or evacuate.
+Write explicit “if/then” branches tied to observations.
+
+- If visibility < 150 m → Switch to handrail navigation and buddy tether.
+- If creek > mid‑shin or opaque → No crossing; choose higher route.
+- If pace < 2 km/h by 14:00 → Shift to nearest shelter site; signal schedule on the hour.
+- If battery < 20% → Airplane mode + text check‑ins only on the hour.
+
+☑️ Checklist — Quick GAR (Green/Amber/Red)
+- People: Warm? Hydrated? Or injured/cold?
+- Environment: Weather window stable? Terrain hazards?
+- Equipment: Light? Layers? Comms? Navigation?
+- Plan: Go/No‑Go thresholds defined? Decision points marked?
+
+Example — River crossing decision (shoulder‑season):
+- Observe: Water 8–10°C, knee‑deep but fast, opaque, no safe exit downstream.
+- Orient: Cold shock risk + entrapment hazard; one person is cold already.
+- Decide: No‑Go. Walk upstream to bridge; if none by 60 minutes, shelter and signal.
+- Act: Reverse to warm, wind‑sheltered spot; hot drink; dry layer; reassess route.
+
+---
+
+## Key Takeaways
+- Decide in advance what conditions trigger a stop, detour, or shelter decision.
+- Use simple Green/Amber/Red language to make risk visible and actionable.
+- Share Leader’s Intent so teammates can improvise toward the same end state.
+- Write clear if/then triggers tied to observable conditions; rehearse them.
+
+## Cross-Links
+- 💡 Survival Priorities → Rule of 3s (set correct priorities): ../front-matter/03-survival-priorities.html#rule-of-3s
+- 📝 Survival Priorities → STOP (reset before deciding): ../front-matter/03-survival-priorities.html#stop
+- 📝 Survival Priorities → OODA (iterate decisions): ../front-matter/03-survival-priorities.html#ooda
+- ☑️ Survival Priorities → PACE Comms Plan (check-ins, alternates): ../front-matter/03-survival-priorities.html#pace-communications-plan

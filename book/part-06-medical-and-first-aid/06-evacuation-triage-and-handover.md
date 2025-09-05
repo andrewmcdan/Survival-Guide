@@ -6,13 +6,56 @@ layout: default
 # Evacuation, Triage & Handover
 
 ## START
-TODO: Simple Triage and Rapid Treatment basics.
+Simple triage to prioritize care in multi‑patient incidents.
+
+- RPM: Respirations, Perfusion, Mental status.
+- Respirations: Not breathing → open airway; if still not breathing, tag Black (deceased/expectant). Breathing >30/min → Red (immediate).
+- Perfusion: Cap refill >2 s or no radial pulse → Red.
+- Mental status: Cannot follow commands → Red; can follow → Yellow (delayed) if not Red; walking wounded → Green (minor).
 
 ## SALT
-TODO: Sort, Assess, Lifesaving interventions, Treatment/Transport.
+Structured approach from initial sort to transport.
+
+- Sort: Identify those who can/will walk (Green), wave (Yellow), and still (possible Red/Black).
+- Assess: Quick look for life‑threats.
+- Lifesaving interventions: Control major bleed, open airway, chest seals, recovery position.
+- Treatment/Transport: Assign priority based on condition and resources.
 
 ## Packaging Patients
-TODO: Immobilization, litter use, and hypothermia prevention.
+Protect the patient during movement.
+
+- Spinal considerations: Inline stabilization if mechanism suggests; minimize movement.
+- Litter: Use commercial or improvised (poles + tarp/blankets). Practice before you need it.
+- Hypothermia: Wrap in insulating layers and a wind/water barrier (hypo wrap/bivy); insulate from ground.
+- Monitor: Reassess vitals en route; secure dressings and splints.
 
 ## Handoff Information
-TODO: Concise patient info and treatment log.
+Give a concise, structured report to higher care.
+
+- MIST: Mechanism of injury/illness, Injuries found, Signs (vitals), Treatments given.
+- SAMPLE: Symptoms, Allergies, Medications, Past history, Last intake, Events.
+- Times: Onset, treatment times (tourniquet application, medications), last vitals.
+
+☑️ Checklist — Evac/Triage/Handover
+- Triage tags or clear prioritization (Red/Yellow/Green/Black)
+- Immediate lifesaving interventions done (bleeding, airway, chest)
+- Hypothermia prevention in place
+- Safe packaging for transport; monitor en route
+- Handoff uses MIST + SAMPLE; times documented
+
+Examples
+- Multi‑bike crash: Direct pressure/TQ on severe bleed; START triage assigns Red/Yellow/Green; call EMS; MIST handoff with TQ time, vitals trends.
+- Remote ankle fracture: Splint and hypo wrap; slow carry with frequent checks; handoff with mechanism, neuro checks before/after splint, pain course.
+
+---
+
+## Key Takeaways
+- Triage fast and fairly; lifesaving interventions come before detailed treatment.
+- Prevent hypothermia and secure packaging; reassess continuously during movement.
+- Deliver structured handoffs (MIST/SAMPLE) with times to speed higher care.
+
+## Cross-Links
+- 💡 Survival Priorities → Rule of 3s (airway/bleeding/thermal): ../front-matter/03-survival-priorities.html#rule-of-3s
+- 📝 Survival Priorities → STOP (reset if overwhelmed): ../front-matter/03-survival-priorities.html#stop
+- 📝 Survival Priorities → OODA (update triage and plan as resources change): ../front-matter/03-survival-priorities.html#ooda
+- ☑️ Survival Priorities → PACE Comms Plan (coordinate rendezvous/transport): ../front-matter/03-survival-priorities.html#pace-communications-plan

@@ -1,0 +1,50 @@
+name: Build Book PDF
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main, master ]
+    paths-ignore:
+      - 'book/Fieldcraft-for-the-Unplanned.pdf'
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+    # Use a container image that includes pandoc + LaTeX
+    container:
+      image: pandoc/latex:latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build single PDF with Pandoc
+        run: |
+          mkdir -p dist
+          pandoc \
+            --from=markdown+yaml_metadata_block \
+            --resource-path=book \
+            --toc --toc-depth=2 \
+            --pdf-engine=xelatex \
+            -V geometry:margin=1in \
+            -V colorlinks=true -V linkcolor=blue \
+            --metadata=title:"Fieldcraft for the Unplanned" \
+            --metadata=subtitle:"A Practical Guide to Emergencies & Survival" \
+            -o dist/Fieldcraft-for-the-Unplanned.pdf \
+            $(tr '\n' ' ' < book/manifest.txt)
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Fieldcraft-for-the-Unplanned
+          path: dist/Fieldcraft-for-the-Unplanned.pdf
+
+      - name: Commit PDF to repo (optional)
+        if: ${{ github.ref == 'refs/heads/main' && github.actor != 'github-actions[bot]' }}
+        run: |
+          cp dist/Fieldcraft-for-the-Unplanned.pdf book/Fieldcraft-for-the-Unplanned.pdf
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add book/Fieldcraft-for-the-Unplanned.pdf
+          git commit -m "Update book PDF [skip ci]" || echo "No changes to commit"
+          git push
+

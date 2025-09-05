@@ -5,14 +5,40 @@ layout: default
 
 # Lighting
 
+## Overview
+Light enables navigation, work, and signaling. Headlamps keep hands free; handhelds reach farther. Control spill to preserve night vision and reduce signature.
+
 ## Headlamps vs Handheld
-TODO: Use cases and trade-offs.
+Headlamps for tasks, handhelds for reach/ID.
+
+- Headlamps: Low modes for close work; red mode for night vision; lockout to prevent pocket turn‑on.
+- Handhelds: Higher candela for distance ID; use with a clip or lanyard.
 
 ## Beam Control
-TODO: Spill, throw, and red-light discipline.
+Aim low; shield spill; use red/low modes. Avoid pointing lights at faces (night blindness) or into traffic.
 
 ## Improvised Lanterns
-TODO: Diffusers and reflective setups.
+Diffuse a light through a translucent bottle or bag; bounce beams off a white surface/ceiling for wide, soft light.
 
 ## Signaling with Light
-TODO: Patterns and visibility considerations.
+Use SOS or Rule of Three; high strobe for distance; steady low for task. Avoid blinding rescuers.
+
+☑️ Checklist — Light Discipline
+- Keep lights on low for tasks; red mode for night
+- Use higher modes for signaling only
+- Carry spare cells; standardize batteries across devices
+- Angle beams down; avoid light pollution outside shelter
+
+Examples
+- Trail at night: Headlamp low; handheld for long checks; red mode in camp.
+- Urban outage: Lantern made with headlamp + water jug; windows covered to avoid broadcasting.
+
+---
+
+## Key Takeaways
+- Use the right light for the job; preserve night vision.
+- Diffuse for working, strobe for signaling.
+- Carry spares and standardize cells.
+
+## Cross-Links
+- 📝 Survival Priorities → OODA (light checks on a schedule to manage power): ../front-matter/03-survival-priorities.html#ooda

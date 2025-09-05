@@ -5,21 +5,50 @@ layout: default
 
 # OBD-II for Humans
 
+## Overview
+OBD‑II readers turn warning lights into clues. Read codes, interpret the severity, and decide whether to stop, continue cautiously, or seek service. Don’t clear codes blindly—you may erase valuable diagnostic data.
+
 ## Code Readers
-TODO: Basic readers vs Bluetooth apps.
+Simple tools that pay for themselves quickly.
+
+- Standalone: Plug in, read/clear codes, see freeze‑frame data.
+- Bluetooth: Pair with phone apps for more data and logging.
 
 ## Common Codes
 ### Misfire (P0300-series)
-TODO: Symptoms and severity.
+Rough running, flashing MIL (malfunction indicator light) = severe misfire. Reduce speed; avoid heavy load; stop if flashing persists to prevent catalytic damage.
 
 ### EVAP System
-TODO: Gas cap, small leaks, and tests.
+Loose/faulty gas cap common; tighten/replace. Usually safe to drive; schedule service.
 
 ### O2 Sensor
-TODO: Sensor roles and failure clues.
+Upstream sensor affects fuel mixture; downstream monitors catalytic converter. Codes may reduce fuel economy/performance; usually not immediate emergencies.
 
 ## When to Stop vs Continue
-TODO: Severity cues and risk trade-offs.
+Stop now: Oil pressure light, temperature in red, brake warning with soft pedal, steering failure, flashing MIL with power loss.
+
+Continue cautiously: Solid MIL with stable performance; EVAP codes; O2 sensor codes—avoid hard acceleration/heavy loads; plan service.
 
 ## Clearing Codes Pitfalls
-TODO: Erasing data; inspection and warranty issues.
+Clearing codes erases freeze‑frame and readiness monitors. This can hide intermittent problems and cause inspection failures until monitors reset.
+
+☑️ Checklist — OBD‑II Use
+- Read codes before changing anything; note freeze‑frame data
+- Decide stop/continue based on severity, not annoyance
+- Don’t clear codes unless directed; record codes for the shop
+- Recheck after repairs; ensure readiness monitors complete before inspection
+
+Examples
+- Solid MIL after fuel stop: Read EVAP small leak; tighten cap; drive 2–3 cycles; light may clear on its own.
+- Flashing MIL on hill: Back off throttle; exit safely; tow to shop to avoid damage.
+
+---
+
+## Key Takeaways
+- OBD‑II gives you the why behind the light; act on severity.
+- Many codes allow cautious driving; some demand immediate stop.
+- Don’t clear codes blindly—you erase the evidence a tech needs.
+
+## Cross-Links
+- 📝 Survival Priorities → STOP (pull over safely before investigating): ../front-matter/03-survival-priorities.html#stop
+- 📝 Survival Priorities → OODA (decide stop vs continue, then reassess): ../front-matter/03-survival-priorities.html#ooda

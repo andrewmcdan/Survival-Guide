@@ -5,17 +5,57 @@ layout: default
 
 # Vehicle Readiness & Inspection
 
+## Overview
+Most roadside emergencies are preventable. A 5–10 minute pre‑trip inspection reduces breakdowns and makes minor issues manageable. Keep a minimal kit in the vehicle and adapt for season and terrain.
+
 ## Pre-Trip Checks
-TODO: Walkaround, fluids, and dashboard indicators.
+Quick walkaround + dash scan.
+
+- Tires: Pressure (placard in door jamb), tread depth (≥3 mm/4⁄32" for wet), sidewall damage, valve caps.
+- Fluids: Oil, coolant overflow level, washer fluid; look for leaks under vehicle.
+- Lights: Headlights, brake, reverse, turn signals, hazards.
+- Wipers: Condition and operation; carry spares in harsh climates.
+- Dash: Warning lights off? Check engine/service lights noted.
 
 ## Belts & Hoses
-TODO: Wear signs, tension, and leaks.
+Inspect for cracks, glazing, fraying; hoses for bulges, soft spots, or leaks. Squeeze radiator hoses (cool engine) — firm, not mushy.
 
 ## Tire Health
-TODO: Tread, pressure, sidewall damage; spare readiness.
+Use a gauge; inspect tread wear patterns (center wear = overinflated, edges = underinflated, cupping = suspension issues). Verify spare or repair kit readiness.
 
 ## Lights
-TODO: Headlights, signals, and brake lights.
+Carry a spare bulb/fuse where practical; clean lenses; aim headlights properly.
 
 ## Critical Spares
-TODO: Fuses, bulbs, tire repair, fluids, tools.
+Pack items that fix common issues:
+
+- Tire repair: Plug kit, compact compressor, pressure gauge
+- Electrical: Assorted fuses, basic test light
+- Fluids: Washer fluid; small oil/coolant top‑off (correct type)
+- Tools: Jack, lug wrench, gloves, flashlight, triangle/flares, jumper cables or jump pack
+- Seasonal: Blanket, shovel, traction aids (sand, mats), ice scraper, water
+
+☑️ Checklist — Readiness Kit (Basic)
+- Tire plug kit + compressor
+- Jumper cables or jump pack (charged)
+- Triangle/flares/high‑viz vest
+- Gloves, flashlight/headlamp, shop towels
+- Fuses, basic tools (screwdrivers, pliers, adjustable wrench)
+- Fluids: washer, correct oil/coolant
+- Blanket, water, snacks (season/region specific)
+
+Examples
+- Mountain trip: Increase tire pressure to placard; pack chains if required; add coolant rated for low temps; bring extra washer fluid.
+- Summer highway: Check AC belt condition; test spare; pack water and sun protection.
+
+---
+
+## Key Takeaways
+- Ten minutes of checks prevent hours of roadside problems.
+- Tires, fluids, and lights are the high‑value items; pack a minimal repair kit.
+- Adjust kit and checks for season and terrain.
+
+## Cross-Links
+- 📝 Survival Priorities → STOP (pause and reassess when a warning light appears): ../front-matter/03-survival-priorities.html#stop
+- 📝 Survival Priorities → OODA (decide to continue vs pull over safely): ../front-matter/03-survival-priorities.html#ooda
+- ☑️ Survival Priorities → PACE Comms Plan (check‑ins on long drives): ../front-matter/03-survival-priorities.html#pace-communications-plan

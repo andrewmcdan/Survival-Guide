@@ -6,10 +6,44 @@ layout: default
 # Blank ICS-Style Forms
 
 ## Message Form
-TODO: Sender, receiver, time, and content blocks.
+From: ____  To: ____  Date/Time: ____  Priority: [ ] Routine [ ] Urgent [ ] Emergency
+
+Subject: _______________________________
+
+Message:
+________________________________________
+________________________________________
+________________________________________
+
+Reply/Action:
+________________________________________
+________________________________________
+
+Logged by: ____  Time: ____  Method: [ ] Radio [ ] Phone [ ] In person
 
 ## Task Log
-TODO: Assignments, status, and timestamps.
+Task #: ____  Owner: ____  Start: ____  Due: ____  Status: [ ] Planned [ ] In Progress [ ] Done
+
+Description:
+________________________________________
+
+Notes/Updates (time‑stamped):
+- ____ — ___________________________________
+- ____ — ___________________________________
+
 
 ## Situation Board
-TODO: Incident overview, resources, and actions.
+Incident: ______________________________  Start: ____  Current: ____
+
+Objectives (top 3):
+1) ______________________________________
+2) ______________________________________
+3) ______________________________________
+
+Resources/Constraints:
+- ________________________________________
+- ________________________________________
+
+Actions/Decisions (time‑stamped):
+- ____ — ___________________________________
+- ____ — ___________________________________
