@@ -57,10 +57,6 @@ Examples
 - Back up slippery/simple hitches; inspect under load.
 - Use appropriate cord/rope sizes; avoid shock loading improvised systems.
 
-## Cross-Links
-- 📝 Survival Priorities → STOP (retie if unsure): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (adjust tension as conditions change): ../front-matter/03-survival-priorities.html#ooda
-
 ## Scenario
 
 > 🧭 Scenario (Storm tarp holds): Wind shifts at 02:00.

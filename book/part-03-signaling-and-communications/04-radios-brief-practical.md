@@ -69,12 +69,6 @@ Examples
 - Standardize channels, tones, and message format; schedule check‑ins.
 - Keep transmissions short and clear; confirm with readbacks.
 
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (safety and shelter before comms marathons): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (reset before cluttered radio traffic): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (iterate check‑ins and decisions): ../front-matter/03-survival-priorities.html#ooda
-- ☑️ Survival Priorities → PACE Comms Plan (this entire section operationalizes it): ../front-matter/03-survival-priorities.html#pace-communications-plan
-
 ## Scenario
 
 > 🧭 Scenario (Neighborhood after storm): Power out, cell congested. Family and two neighbors check in on FRS Ch 2.

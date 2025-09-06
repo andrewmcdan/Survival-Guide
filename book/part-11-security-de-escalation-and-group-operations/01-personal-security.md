@@ -66,10 +66,6 @@ Examples
 - Project calm confidence; manage distance and exits.
 - Reduce signatures when discretion is safer.
 
-## Cross-Links
-- 📝 Survival Priorities → STOP (reset fear, choose actions): ../front-matter/03-survival-priorities.html#stop
-- ☑️ Survival Priorities → PACE Comms Plan (check‑ins, code words): ../front-matter/03-survival-priorities.html#pace-communications-plan
-
 ## Scenario
 
 > 🧭 Scenario (Boundary at bus stop): Someone closes distance, asks for money aggressively.

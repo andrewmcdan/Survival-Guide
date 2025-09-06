@@ -95,8 +95,3 @@ The shirt was already soaked. You dropped to a knee, gloved, and pushed a wad of
 - Pack deep wounds with hemostatic gauze and hold pressure long enough to clot.
 - Splint and dress to protect; reassess circulation and bleeding frequently.
 
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (bleeding outranks water/food): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (reset to avoid frantic errors): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (reassess bleeding, adjust interventions): ../front-matter/03-survival-priorities.html#ooda
-- ☑️ Survival Priorities → PACE Comms Plan (call for help early, relay TQ time): ../front-matter/03-survival-priorities.html#pace-communications-plan

@@ -48,10 +48,6 @@ Examples
 - PPE and discipline prevent most injuries.
 - Maintain tools; small, frequent sharpening avoids big repairs.
 
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (tools serve thermal/water priorities): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (pause if conditions become unsafe): ../front-matter/03-survival-priorities.html#stop
-
 ## Scenario
 
 > 🧭 Scenario (Saw bind avoided): Limb under load; saw starts to pinch.

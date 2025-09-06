@@ -8,7 +8,7 @@ layout: default
 This folder contains the scaffolded structure for the book based on `outline.md`.
 Each chapter is a placeholder Markdown file with headings ready to draft.
 
-Download: [Single-file PDF (built by CI)](Fieldcraft-for-the-Unplanned.pdf) • [EPUB](Fieldcraft-for-the-Unplanned.epub)
+Download: [Latest Release (PDF & EPUB)](https://github.com/andrewmcdan/Survival-Guide/releases/latest)
 
 ## Front Matter
 - [Disclaimer & Scope](front-matter/01-disclaimer-and-scope.html)
@@ -16,10 +16,10 @@ Download: [Single-file PDF (built by CI)](Fieldcraft-for-the-Unplanned.pdf) • 
 - [Survival Priorities](front-matter/03-survival-priorities.html)
 
 ## Part I — Mindset, Risk & Decision-Making
-- [1. Survival Psychology](part-01-mindset-risk-and-decision-making/01-survival-psychology.md)
-- [2. Risk Assessment](part-01-mindset-risk-and-decision-making/02-risk-assessment.md)
-- [3. Situational Awareness](part-01-mindset-risk-and-decision-making/03-situational-awareness.md)
-- [4. Ethics & Legal Considerations](part-01-mindset-risk-and-decision-making/04-ethics-and-legal-considerations.md)
+- [1. Survival Psychology](part-01-mindset-risk-and-decision-making/01-survival-psychology.html)
+- [2. Risk Assessment](part-01-mindset-risk-and-decision-making/02-risk-assessment.html)
+- [3. Situational Awareness](part-01-mindset-risk-and-decision-making/03-situational-awareness.html)
+- [4. Ethics & Legal Considerations](part-01-mindset-risk-and-decision-making/04-ethics-and-legal-considerations.html)
 
 ## Part II — Orientation, Time & Navigation
 - [1. Timekeeping Without a Clock](part-02-orientation-time-and-navigation/01-timekeeping-without-a-clock.html)

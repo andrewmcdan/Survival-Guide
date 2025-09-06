@@ -60,9 +60,6 @@ Your phone stayed off in a jacket pocket next to the warm power bank. Your partn
 - Airplane mode + offline data saves power.
 - Dark themes + low brightness preserve vision and battery.
 
-## Cross-Links
-- ☑️ Survival Priorities → PACE Comms Plan (who carries comms and when): ../front-matter/03-survival-priorities.html#pace-communications-plan
-
 ## Scenario
 
 > 🧭 Scenario (Family power ladder): Outage for two days.

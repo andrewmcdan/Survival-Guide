@@ -100,12 +100,6 @@ The power was out, and the faucet sputtered. You found a stockpot, two clean jar
 - Boiling is broadly effective but fuel‑intensive; filters don’t remove viruses; chemicals need clear water and time.
 - Prevent re‑contamination by separating clean/dirty gear and labeling containers.
 
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (water urgency vs thermal): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (slow down and choose the right method): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (re‑assess after pre‑filtering and testing taste/odor): ../front-matter/03-survival-priorities.html#ooda
-- ☑️ Survival Priorities → PACE Comms Plan (check‑ins during long treatment times): ../front-matter/03-survival-priorities.html#pace-communications-plan
-
 ## Scenario
 
 > 🧭 Scenario (Desert pool, murky): Sun drops in 90 minutes.

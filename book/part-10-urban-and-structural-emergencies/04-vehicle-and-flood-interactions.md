@@ -44,10 +44,6 @@ Examples
 - Don’t drive/walk through flood waters; roads may not exist under the surface.
 - If entrapped, act quickly: seatbelts, windows, exit, higher ground.
 
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (air/thermal over schedule): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (avoid impulsive crossings): ../front-matter/03-survival-priorities.html#stop
-
 ## Scenario
 
 > 🧭 Scenario (Underpass fills fast): Rain bursts; water rises around cars.

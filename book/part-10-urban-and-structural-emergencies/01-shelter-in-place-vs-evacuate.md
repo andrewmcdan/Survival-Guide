@@ -41,11 +41,6 @@ Examples
 - Know shut‑off procedures; never re‑light gas yourself.
 - Keep a go‑bag and a room‑sealing kit ready.
 
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (air/thermal considerations drive decision): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (avoid panic, choose deliberately): ../front-matter/03-survival-priorities.html#stop
-- ☑️ Survival Priorities → PACE Comms Plan (alerts, rendezvous, check‑ins): ../front-matter/03-survival-priorities.html#pace-communications-plan
-
 ## Scenarios
 
 > 🧭 Scenario (Apartment smoke in hall): Alarm sounds; door feels cool.

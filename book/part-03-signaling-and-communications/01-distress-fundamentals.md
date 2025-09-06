@@ -82,12 +82,6 @@ Examples
 - Choose positions that maximize detection: contrast, height, proximity to handrails.
 - Prefer whistles, lights, panels, and radios/PLBs over hazardous or illegal methods.
 
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (shelter/thermal vs signaling): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (reset before you act): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (set signal cycles, then reassess): ../front-matter/03-survival-priorities.html#ooda
-- ☑️ Survival Priorities → PACE Comms Plan (who/when/how): ../front-matter/03-survival-priorities.html#pace-communications-plan
-
 ## Scenario
 
 > 🧭 Scenario (Temperate forest, lost): Drizzle, late day. You have a whistle and a tiny light.

@@ -72,12 +72,6 @@ Examples
 - Mirrors are high‑payoff in sun; fires require strict safety and may be illegal.
 - Panels work best near search handrails and from open vantage points.
 
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (signal vs shelter): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (choose the next best signal method): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (scan skies/routes, then iterate): ../front-matter/03-survival-priorities.html#ooda
-- ☑️ Survival Priorities → PACE Comms Plan (who/when to signal): ../front-matter/03-survival-priorities.html#pace-communications-plan
-
 ## Scenarios
 
 > 🧭 Scenario (Coastal kayak, day): Ferry lane 1 km offshore.

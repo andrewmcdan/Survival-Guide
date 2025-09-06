@@ -40,9 +40,6 @@ Examples
 - Maintain medication lists and small reserves; keep documents handy.
 - Confirm shelters/hotels for pets; have caregiver consents ready.
 
-## Cross-Links
-- ☑️ Survival Priorities → PACE Comms Plan (family rendezvous, check‑ins): ../front-matter/03-survival-priorities.html#pace-communications-plan
-
 ## Scenario
 
 > 🧭 Scenario (Wildfire evac with pets): Ash drifts; advisory issued.

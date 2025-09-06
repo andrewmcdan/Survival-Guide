@@ -85,12 +85,6 @@ Examples
 - Think in three layers: drainage (ground), wind (air), radiation (surfaces/sky).
 - In towns, pick interior rooms away from glass; in wild, pick benches away from lows/highs.
 
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (thermal outranks water/food): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (reset before choosing a site): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (update plan as weather shifts): ../front-matter/03-survival-priorities.html#ooda
-- ☑️ Survival Priorities → PACE Comms Plan (share location and timing): ../front-matter/03-survival-priorities.html#pace-communications-plan
-
 ## Scenarios
 
 > 🧭 Scenario (Temperate storm): Two benches—one near creek, one lee of a low ridge.

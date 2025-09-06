@@ -85,8 +85,3 @@ Examples
 - Pre‑build 2–3 what‑if branches for top risks; tie them to triggers and actions.
 - Control light, sound, and scent signatures deliberately; don’t let them control you.
 
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (prioritize shelter/thermal vs movement): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (reset to avoid panic): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (cycle observe→act): ../front-matter/03-survival-priorities.html#ooda
-- ☑️ Survival Priorities → PACE Comms Plan (standard callouts/check-ins): ../front-matter/03-survival-priorities.html#pace-communications-plan

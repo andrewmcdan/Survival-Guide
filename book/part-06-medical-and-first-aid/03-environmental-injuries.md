@@ -5,6 +5,9 @@ layout: default
 
 # Environmental Injuries
 
+## Overview
+Environmental conditions and bites/stings can deteriorate quickly. For venomous bites, immobilize and evacuate—don’t cut, suck, or apply arterial tourniquets. Treat stings by recognizing anaphylaxis early and using epinephrine when indicated. Manage heat and cold injuries decisively with insulation or active cooling, and descend immediately with altitude red flags.
+
 ## Snake Bites
 ### What Not To Do
 No cutting, sucking, ice, electric shocks, or alcohol. Do not apply arterial tourniquets (can worsen damage). Don’t try to catch/kill the snake.
@@ -79,16 +82,18 @@ Examples
 
 ---
 
+## Common Mistakes
+- Cutting/sucking snakebites, applying ice, or using arterial tourniquets on pit viper bites.
+- Walking a snakebite victim any distance when immobilization and evac are feasible.
+- Rewarming frostbite when refreezing risk remains; rubbing or massaging frozen tissue.
+- Treating anaphylaxis too late; delaying epinephrine at first systemic signs (wheeze, facial swelling, widespread hives).
+- Mistaking heat stroke for exhaustion and under‑cooling; not calling EMS with altered mental status.
+- Continuing ascent with AMS symptoms or delaying descent with HACE/HAPE signs.
+
 ## Key Takeaways
 - Immobilize and evacuate snakebites; use pressure immobilization only in appropriate regions/species.
 - Treat allergic reactions early; epinephrine saves lives—use it with systemic signs.
 - Prevent and reverse thermal injuries with insulation or cooling; descend immediately with altitude red flags.
-
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (thermal and breathing outrank movement): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (avoid panic after bites/stings): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (monitor progression and pivot to evac): ../front-matter/03-survival-priorities.html#ooda
-- ☑️ Survival Priorities → PACE Comms Plan (contact and rendezvous during evac): ../front-matter/03-survival-priorities.html#pace-communications-plan
 
 ## Scenarios
 

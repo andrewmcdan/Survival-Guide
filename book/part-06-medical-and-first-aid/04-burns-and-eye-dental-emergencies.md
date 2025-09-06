@@ -5,6 +5,9 @@ layout: default
 
 # Burns & Eye/Dental Emergencies
 
+## Overview
+Cool burns promptly, protect tissues, and evacuate when severity, location, or mechanism demands. For chemical eye exposures, irrigate early and continuously; for penetrating eye injuries, shield without pressure. For dental avulsions, handle by the crown and reimplant immediately when feasible or store in a tooth preservation medium.
+
 ## Burns
 ### Cool-Water Rule
 Cool the burn promptly with cool (not cold) clean water for 10–20 minutes. Start as soon as possible, up to 3 hours after injury. Avoid ice/ice water which can worsen tissue damage.
@@ -35,7 +38,7 @@ For minor corneal abrasions (no vision change, no foreign body): Light patch for
 Rinse mouth gently; cover sharp edges with dental wax/sugarless gum; pain control per OTC guidance; avoid heat/cold extremes.
 
 ### Preservation Medium
-For an avulsed (knocked‑out) adult tooth: Handle by the crown (white part), not the root; gently rinse debris (don’t scrub); if the patient is conscious and cooperative, reimplant immediately and have them bite on gauze. If not, store in Save‑a‑Tooth solution, cold milk, or saliva (cheek pouch). Seek dental care urgently—best outcomes within 30–60 minutes.
+For an avulsed (knocked‑out) adult tooth: Handle by the crown (white part), not the root; gently rinse debris (don’t scrub); if the patient is conscious and cooperative, reimplant immediately and have them bite on gauze. If not, store in tooth preservation solution (e.g., Save‑a‑Tooth), cold milk, or saliva (cheek pouch). Seek dental care urgently—best outcomes within 30–60 minutes.
 
 ☑️ Checklist — Burns/Eye/Dental
 - Cool burns 10–20 minutes; no ice/oils; remove constricting items
@@ -49,16 +52,17 @@ Examples
 
 ---
 
+## Common Mistakes
+- Using ice or very cold water on burns (worsens tissue damage); applying oils/ointments immediately.
+- Leaving rings/watches on swelling limbs; removing skin or popping blisters.
+- Pressure‑patching a suspected penetrating eye injury instead of shielding.
+- Irrigating chemical eye burns too briefly; failing to remove contact lenses during irrigation.
+- Scrubbing or touching the root of an avulsed tooth; storing it dry instead of in a preservation medium.
+
 ## Key Takeaways
 - Prompt cooling limits burn depth; avoid ice and home remedies.
 - Protect the airway and eyes; shield, don’t press, for penetrating injuries.
 - Reimplant adult teeth immediately when feasible; time is critical.
-
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (airway/thermal considerations): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (prevent frantic, harmful actions): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (cool, cover, reassess, plan care): ../front-matter/03-survival-priorities.html#ooda
-- ☑️ Survival Priorities → PACE Comms Plan (coordinate evac and handoff): ../front-matter/03-survival-priorities.html#pace-communications-plan
 
 ## Scenarios
 

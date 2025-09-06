@@ -47,12 +47,6 @@ Examples
 - Avoid anti‑diarrheals in bloody diarrhea or high fever; seek care.
 - Prevent spread with strict hygiene and better water treatment.
 
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (hydration priority vs exertion): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (pause to prevent group spread): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (reassess hydration status, adapt plan): ../front-matter/03-survival-priorities.html#ooda
-- ☑️ Survival Priorities → PACE Comms Plan (check‑ins if deteriorating): ../front-matter/03-survival-priorities.html#pace-communications-plan
-
 ## Scenario
 
 > 🧭 Scenario (Camp GI spread): Two of four have diarrhea after a river swim.

@@ -43,11 +43,6 @@ Examples
 - Seasonalize quarterly; rotate food/water/batteries.
 - Keep PACE card and local maps in each layer.
 
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (prioritize thermal and water in kits): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (reset during kit use to avoid waste): ../front-matter/03-survival-priorities.html#stop
-- ☑️ Survival Priorities → PACE Comms Plan (backup contacts and times in kits): ../front-matter/03-survival-priorities.html#pace-communications-plan
-
 ## Scenario
 
 > 🧭 Scenario (Office evac walk): Transit down, 14 km home.

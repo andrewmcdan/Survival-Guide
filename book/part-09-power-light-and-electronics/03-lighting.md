@@ -81,9 +81,6 @@ Examples
 - Diffuse for working, strobe for signaling.
 - Carry spares and standardize cells.
 
-## Cross-Links
-- 📝 Survival Priorities → OODA (light checks on a schedule to manage power): ../front-matter/03-survival-priorities.html#ooda
-
 ## Scenario
 
 > 🧭 Scenario (Improvised lantern): Kitchen dark; kids nervous.

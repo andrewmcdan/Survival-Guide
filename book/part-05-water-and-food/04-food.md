@@ -70,12 +70,6 @@ Dinner didn’t need a flame. You laid out tortillas, tuna packets, and a squeez
 - Plan calories by activity and temperature; ration fairly; keep morale foods.
 - Follow laws and ethics for any foraging/fishing; when in doubt, skip it.
 
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (food is lower priority early): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (pause before risky foraging): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (adjust rations vs effort/temps): ../front-matter/03-survival-priorities.html#ooda
-- ☑️ Survival Priorities → PACE Comms Plan (coordinate group meals/resupply times): ../front-matter/03-survival-priorities.html#pace-communications-plan
-
 ## Scenario
 
 > 🧭 Scenario (No‑cook 48 h): Power out; you shelter in place.

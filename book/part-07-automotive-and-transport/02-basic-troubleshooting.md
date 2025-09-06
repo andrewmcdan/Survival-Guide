@@ -5,6 +5,9 @@ layout: default
 
 # Basic Troubleshooting
 
+## Overview
+When a car won’t start or overheats, a simple, safe triage beats random part swaps. Start with battery/terminals, fuses/relays, and immobilizer clues; then separate no‑crank from crank‑no‑start. Use jump packs carefully, avoid opening hot cooling systems, and decide early whether to stop or limp home.
+
 ## No-Start Triage
 ### Battery
 Common cause. Dome lights dim? Clicking? Measure if you can: <12.0 V = low, ~12.6 V = full. Look for corrosion/loose terminals.
@@ -97,11 +100,6 @@ Examples
 - Diagnose simply: battery/terminals, fuel, fuses, immobilizer.
 - Jump safely; avoid opening hot cooling systems; decide prudently to stop vs limp.
 - Basic kit covers 80% of roadside problems.
-
-## Cross-Links
-- 📝 Survival Priorities → STOP (don’t rush into unsafe roadside actions): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (triage symptoms, choose next step): ../front-matter/03-survival-priorities.html#ooda
-- ☑️ Survival Priorities → PACE Comms Plan (inform contacts of delays): ../front-matter/03-survival-priorities.html#pace-communications-plan
 
 ## Scenario
 

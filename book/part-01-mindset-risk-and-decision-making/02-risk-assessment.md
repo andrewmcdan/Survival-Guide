@@ -94,8 +94,3 @@ Example — River crossing decision (shoulder‑season):
 - Share Leader’s Intent so teammates can improvise toward the same end state.
 - Write clear if/then triggers tied to observable conditions; rehearse them.
 
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (set correct priorities): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (reset before deciding): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (iterate decisions): ../front-matter/03-survival-priorities.html#ooda
-- ☑️ Survival Priorities → PACE Comms Plan (check-ins, alternates): ../front-matter/03-survival-priorities.html#pace-communications-plan

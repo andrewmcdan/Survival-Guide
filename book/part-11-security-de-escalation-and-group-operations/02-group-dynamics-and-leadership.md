@@ -70,10 +70,6 @@ Examples
 - Closed‑loop comms and short check‑ins keep teams aligned.
 - Rest cycles and morale checks prevent quiet failures.
 
-## Cross-Links
-- 📝 Survival Priorities → OODA (loop decisions and checks): ../front-matter/03-survival-priorities.html#ooda
-- ☑️ Survival Priorities → PACE Comms Plan (roles, check‑ins, rendezvous): ../front-matter/03-survival-priorities.html#pace-communications-plan
-
 ## Scenario
 
 > 🧭 Scenario (Trail team cadence): Four hikers, changing weather.

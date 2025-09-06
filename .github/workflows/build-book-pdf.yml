@@ -1,4 +1,4 @@
-name: Build Book PDF
+name: Build Book PDF & Release
 
 on:
   workflow_dispatch:
@@ -51,35 +51,15 @@ jobs:
             -o dist/Fieldcraft-for-the-Unplanned.epub \
             $(tr '\n' ' ' < book/manifest.txt)
 
-      - name: Upload PDF artifact
-        uses: actions/upload-artifact@v4
+      - name: Create GitHub Release with assets
+        uses: softprops/action-gh-release@v2
+        if: github.ref == 'refs/heads/main'
         with:
-          name: Fieldcraft-for-the-Unplanned
-          path: |
+          tag_name: book-v${{ github.run_number }}
+          name: "Fieldcraft for the Unplanned — Build #${{ github.run_number }}"
+          body: |
+            Automated build of the single-file PDF and EPUB.
+            Manifest: book/manifest.txt
+          files: |
             dist/Fieldcraft-for-the-Unplanned.pdf
             dist/Fieldcraft-for-the-Unplanned.epub
-
-  commit-pdf:
-    needs: build-pdf
-    runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Download built PDF artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: Fieldcraft-for-the-Unplanned
-          path: dist
-
-      - name: Commit PDF to repo
-        run: |
-          cp dist/Fieldcraft-for-the-Unplanned.pdf book/Fieldcraft-for-the-Unplanned.pdf
-          cp dist/Fieldcraft-for-the-Unplanned.epub book/Fieldcraft-for-the-Unplanned.epub
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add book/Fieldcraft-for-the-Unplanned.pdf
-          git add book/Fieldcraft-for-the-Unplanned.epub
-          git commit -m "Update book PDF [skip ci]" || echo "No changes to commit"
-          git push

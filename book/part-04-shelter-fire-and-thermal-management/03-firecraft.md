@@ -104,12 +104,6 @@ Examples
 - Structure airflow and dry inner wood; build small and controlled, especially in wind/wet.
 - Extinguish to true cold‑out; follow laws and Leave No Trace.
 
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (choose thermal strategies): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (decide if fire is worth the time/fuel): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (monitor wind/fuel; adapt lay): ../front-matter/03-survival-priorities.html#ooda
-- ☑️ Survival Priorities → PACE Comms Plan (set signal schedules if using fire for signaling): ../front-matter/03-survival-priorities.html#pace-communications-plan
-
 ## Scenarios
 
 > 🧭 Scenario (Wet forest): Kindling soaked; morale low.

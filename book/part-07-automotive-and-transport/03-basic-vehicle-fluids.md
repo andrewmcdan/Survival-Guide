@@ -58,10 +58,6 @@ Examples
 - Check levels safely; hot systems can injure.
 - Keep separate funnels/containers to avoid contamination.
 
-## Cross-Links
-- 📝 Survival Priorities → STOP (cool down before opening caps): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (decide whether to continue vs service now): ../front-matter/03-survival-priorities.html#ooda
-
 ## Scenario
 
 > 🧭 Scenario (Coolant mixup averted): Steam after a climb; you’re low.

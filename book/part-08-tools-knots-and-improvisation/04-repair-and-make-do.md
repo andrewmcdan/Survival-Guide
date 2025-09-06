@@ -36,7 +36,7 @@ Space blanket as signal or radiant barrier; nested bags/liners to store water; l
 - Laces: Replace with paracord inner strands in a pinch; tape lace tips to form aglets.
 
 ## Adhesives & Cure Windows
-Contact cements (Barge, repair glues) need time: apply thin coats to both surfaces, wait until tacky, then press. Epoxies vary—carry the label or note cure times.
+Contact cements (e.g., Barge) need time: apply thin coats to both surfaces, wait until tacky, then press. Epoxies vary—carry the label or note cure times.
 
 ☑️ Checklist — Micro Repair Kit
 - 2 m heavy tape (flat‑packed), 2 m electrical tape
@@ -58,9 +58,6 @@ Examples
 - Tape + wire + needle + epoxy fix most field failures.
 - Deburr and reinforce; label containers as clean/dirty.
 - Flat‑pack supplies to fit every kit layer.
-
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (repairs support shelter/water priorities): ../front-matter/03-survival-priorities.html#rule-of-3s
 
 ## Scenario
 

@@ -105,12 +105,6 @@ Keep cycling decisions with reality.
 - Use STOP for rapid resets and OODA for ongoing navigation of uncertainty.
 - Write down thresholds and backstops in calm moments; follow them when stressed.
 
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s: ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP: ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA: ../front-matter/03-survival-priorities.html#ooda
-- ☑️ Survival Priorities → PACE Comms Plan: ../front-matter/03-survival-priorities.html#pace-communications-plan
-
 ## Scenarios
 
 > 🧭 Scenario (Fog ridge): Wind bites; visibility 30 m; your pulse spikes.

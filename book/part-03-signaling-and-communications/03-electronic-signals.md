@@ -65,12 +65,6 @@ Examples
 - Keep devices warm and with sky view; duty‑cycle checks; carry paper backups.
 - Pre‑program presets and contacts so signaling under stress is one‑button simple.
 
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (battery vs shelter/thermal): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (pause before SOS, verify need): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (iterate on a schedule, update intent): ../front-matter/03-survival-priorities.html#ooda
-- ☑️ Survival Priorities → PACE Comms Plan (primary/alternate paths): ../front-matter/03-survival-priorities.html#pace-communications-plan
-
 ## Scenario
 
 > 🧭 Scenario (Backcountry injury): No cell, two bars sometimes on a ridge, inReach on shoulder.

@@ -82,12 +82,6 @@ Examples
 - Pre‑load maps and waypoints; standardize coordinate formats within the group.
 - Duty cycle location checks and protect batteries from cold; carry a paper fallback.
 
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (don’t trade power for safety): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (pause when devices mislead): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (iterate checks on a schedule): ../front-matter/03-survival-priorities.html#ooda
-- ☑️ Survival Priorities → PACE Comms Plan (Primary/Alternate/Contingency/Emergency): ../front-matter/03-survival-priorities.html#pace-communications-plan
-
 ## Scenario
 
 > 🧭 Scenario (Canyon, 9% phone): The dot is jittery under cliff walls.

@@ -49,10 +49,6 @@ Examples
 - Many codes allow cautious driving; some demand immediate stop.
 - Don’t clear codes blindly—you erase the evidence a tech needs.
 
-## Cross-Links
-- 📝 Survival Priorities → STOP (pull over safely before investigating): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (decide stop vs continue, then reassess): ../front-matter/03-survival-priorities.html#ooda
-
 ## Scenario
 
 > 🧭 Scenario (Flashing MIL on grade): Car stumbles, light flashes.

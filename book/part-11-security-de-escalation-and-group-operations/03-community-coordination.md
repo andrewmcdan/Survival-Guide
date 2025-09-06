@@ -75,13 +75,6 @@ Examples
 - Train with CERT if available; borrow ICS concepts as needed.
 - Verify information; share only what you’d stake your name on.
 
-## Cross-Links
-- ☑️ Survival Priorities → PACE Comms Plan (community channel/time standards): ../front-matter/03-survival-priorities.html#pace-communications-plan
-- 📝 Survival Priorities → OODA (brief → execute → debrief cycles): ../front-matter/03-survival-priorities.html#ooda
-
-## Cross-Links
-- ☑️ Survival Priorities → PACE Comms Plan (community channel/time standards): ../front-matter/03-survival-priorities.html#pace-communications-plan
-
 ## Scenario
 
 > 🧭 Scenario (Text tree in outage): Power out; rumors fly.

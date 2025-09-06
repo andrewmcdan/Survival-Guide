@@ -148,11 +148,6 @@ Examples
 - Avoid water crossings and glass zones; keep comms and light on person.
 - For floods/wildfire/tornado, triggers and early action save lives.
 
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (air/shelter decisions): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (reset, then act deliberately): ../front-matter/03-survival-priorities.html#stop
-- ☑️ Survival Priorities → PACE Comms Plan (alerts, rendezvous): ../front-matter/03-survival-priorities.html#pace-communications-plan
-
 ## Scenarios
 
 > 🧭 Scenario (Flash flood reroute): Underpass pooled with fast water.

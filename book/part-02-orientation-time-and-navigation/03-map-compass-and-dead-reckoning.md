@@ -103,12 +103,6 @@ Examples
 - Use handrails and attack points to reduce error; set backstops to prevent overshoot.
 - Keep a running log of bearings, distances, and times; it’s your breadcrumb trail.
 
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (don’t outrank shelter/thermal): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (reset if lost): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (re‑orient and iterate): ../front-matter/03-survival-priorities.html#ooda
-- ☑️ Survival Priorities → PACE Comms Plan (timed check‑ins and rendezvous): ../front-matter/03-survival-priorities.html#pace-communications-plan
-
 ## Scenario
 
 > 🧭 Scenario (Whiteout timberline): Trail vanishes; you can see two distinct peaks briefly through clouds.

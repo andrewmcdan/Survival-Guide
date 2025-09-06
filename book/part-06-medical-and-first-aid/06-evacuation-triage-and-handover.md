@@ -5,6 +5,9 @@ layout: default
 
 # Evacuation, Triage & Handover
 
+## Overview
+In multi‑patient or remote incidents, sort first, lifesave fast, prevent hypothermia, and move safely. Use simple triage models (START/SALT), package patients to protect airway/spine and warmth, and give structured handoffs (MIST/SAMPLE) with times.
+
 ## START
 Simple triage to prioritize care in multi‑patient incidents.
 
@@ -49,16 +52,17 @@ Examples
 
 ---
 
+## Common Mistakes
+- Jumping into detailed treatment before triage; misallocating scarce time and resources.
+- Omitting hypothermia prevention during packaging and transport.
+- Excessive patient movement without indications for spinal protection or stabilization.
+- Poor documentation and handoffs (missing times, treatments, vitals trends).
+- Failing to reassess and update triage as conditions and resources change.
+
 ## Key Takeaways
 - Triage fast and fairly; lifesaving interventions come before detailed treatment.
 - Prevent hypothermia and secure packaging; reassess continuously during movement.
 - Deliver structured handoffs (MIST/SAMPLE) with times to speed higher care.
-
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (airway/bleeding/thermal): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (reset if overwhelmed): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (update triage and plan as resources change): ../front-matter/03-survival-priorities.html#ooda
-- ☑️ Survival Priorities → PACE Comms Plan (coordinate rendezvous/transport): ../front-matter/03-survival-priorities.html#pace-communications-plan
 
 ## Scenario
 

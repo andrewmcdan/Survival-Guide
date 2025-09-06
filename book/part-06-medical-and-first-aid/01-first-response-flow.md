@@ -92,12 +92,6 @@ Examples
 - Prevent hypothermia early; reassess vitals and interventions regularly.
 - Communicate clearly and document times, treatments, and changes.
 
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (airway/breathing and thermal first): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (reset if overwhelmed): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (iterate assessment and actions): ../front-matter/03-survival-priorities.html#ooda
-- ☑️ Survival Priorities → PACE Comms Plan (who calls, when, and how): ../front-matter/03-survival-priorities.html#pace-communications-plan
-
 ## Scenario
 
 > 🧭 Scenario (Bike crash): Rider down, bleeding, breathing fast, shivering in drizzle.

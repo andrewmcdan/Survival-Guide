@@ -69,12 +69,6 @@ Examples
 - Prefer legal, non‑destructive options; involve authorities early for access and movement.
 - Document reasons and actions when you intervene; transparency reduces misunderstandings.
 
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (prioritize life threats and thermal protection): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (reset before consequential choices): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (iterate decisions as conditions change): ../front-matter/03-survival-priorities.html#ooda
-- ☑️ Survival Priorities → PACE Comms Plan (contact trees, rendezvous, alternates): ../front-matter/03-survival-priorities.html#pace-communications-plan
-
 ## Scenario
 
 > 🧭 Scenario (Storm, locked lobby): A glass‑walled office tower is the only dry place in a hailstorm. A person is bleeding outside.

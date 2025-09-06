@@ -1,0 +1,24 @@
+default: true
+
+# Allow long lines in narrative and lists
+MD013: false
+
+# Enforce single H1 per file
+MD025: true
+
+# Disallow duplicate headings
+MD024: true
+
+# Require proper heading spacing
+MD022: true
+
+# List style consistency
+MD004:
+  style: dash
+
+# Allow inline HTML if needed (Pandoc/LaTeX markers in parts)
+MD033: false
+
+# Trailing spaces disallowed
+MD009: true
+

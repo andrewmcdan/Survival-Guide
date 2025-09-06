@@ -46,9 +46,6 @@ Examples
 - Pick clear rendezvous and comms schedules; avoid “we’ll figure it out.”
 - Include pets/meds; carry printed copies.
 
-## Cross-Links
-- ☑️ Survival Priorities → PACE Comms Plan (operational details): ../front-matter/03-survival-priorities.html#pace-communications-plan
-
 ## Scenario
 
 > 🧭 Scenario (Hurricane advisory): 36 hours out.

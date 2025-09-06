@@ -63,12 +63,6 @@ Examples
 - Avoid cyanobacteria blooms and any chemical odors—move on if in doubt.
 - Maintain sanitation distances from water to protect the source and yourself.
 
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (water vs shelter timing): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (don’t rush into unsafe water): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (reassess source and treatment as conditions change): ../front-matter/03-survival-priorities.html#ooda
-- ☑️ Survival Priorities → PACE Comms Plan (check‑ins before/after water runs): ../front-matter/03-survival-priorities.html#pace-communications-plan
-
 ## Scenarios
 
 > 🧭 Scenario (Temperate creek post‑storm): Water runs brown.

@@ -57,10 +57,6 @@ Examples
 - Match series/parallel properly; don’t mix old/new cells.
 - Bring at least one full spare set for critical devices.
 
-## Cross-Links
-- 📝 Survival Priorities → OODA (power check cycles and priorities): ../front-matter/03-survival-priorities.html#ooda
-- ☑️ Survival Priorities → PACE Comms Plan (charging windows, device priorities): ../front-matter/03-survival-priorities.html#pace-communications-plan
-
 ## Scenario
 
 > 🧭 Scenario (Winter headlamp save): 0°C and windy; light dims.

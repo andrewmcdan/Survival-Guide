@@ -51,7 +51,7 @@ Snow shelters insulate well if built and ventilated correctly.
 Vehicles are solid wind/rain shelters with major caveats.
 
 - Ventilation: Crack windows on the lee side; avoid running engine for heat due to CO risk. If you must run it, do so intermittently with tailpipe completely clear of snow/debris and CO detector if available.
-- Heat retention: Insulate windows with reflectix/foam/clothing; block convective drafts; use sleeping bags/pads on seats or floor.
+- Heat retention: Insulate windows with foil-faced bubble insulation (e.g., Reflectix)/foam/clothing; block convective drafts; use sleeping bags/pads on seats or floor.
 - Signals: Place reflective triangle/lights; conserve battery; avoid draining to 0%.
 
 ⚠️ Caution: Never sleep with engine running. Check tailpipe frequently in snow.
@@ -92,12 +92,6 @@ The forecast lied. Wind veered, rain thickened, and the first pitch flapped like
 - Insulate the ground first; a warm back beats a fancy roof.
 - Pitch small and low in storms; add ventilation to control condensation.
 - Vehicles and buildings can be excellent shelters if you manage ventilation and CO risk.
-
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (thermal outranks water/food): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (reset before committing to a build): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (iterate as weather and energy change): ../front-matter/03-survival-priorities.html#ooda
-- ☑️ Survival Priorities → PACE Comms Plan (signal schedule from shelter): ../front-matter/03-survival-priorities.html#pace-communications-plan
 
 ## Scenarios
 

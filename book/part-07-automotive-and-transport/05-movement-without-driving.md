@@ -50,10 +50,6 @@ Examples
 - Communicate clearly; small controlled moves beat risky lunges.
 - Call a tow when conditions exceed manpower, gear, or safety.
 
-## Cross-Links
-- 📝 Survival Priorities → STOP (don’t rush into crush zones): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (choose push vs tow vs wait): ../front-matter/03-survival-priorities.html#ooda
-
 ## Scenario
 
 > 🧭 Scenario (Garage push): Dead battery, car nose‑in.

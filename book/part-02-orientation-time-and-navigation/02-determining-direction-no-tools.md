@@ -18,7 +18,7 @@ Shadow tip method (quick east–west line):
 Morning/evening heuristic:
 - Morning: Sun is roughly in the east; shadows point roughly west. Evening: reverse.
 
-⚠️ Caution: High latitudes and daylight savings of intuition make these rough. Verify with at least one other cue.
+⚠️ Caution: High latitudes and seasonal daylight changes reduce accuracy. Verify with at least one other cue.
 
 ## Polaris (Northern Hemisphere)
 Find true north at night.
@@ -66,12 +66,6 @@ Examples
 - Prefer celestial methods for cardinal directions; verify with terrain cues.
 - Set visual “attack points” along your line to reduce drift over distance.
 - If cues conflict, stop (STOP), rebuild the picture (OODA), and choose anew.
-
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (don’t outrank shelter/thermal): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (reset when cues conflict): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (iterate as visibility changes): ../front-matter/03-survival-priorities.html#ooda
-- ☑️ Survival Priorities → PACE Comms Plan (timed check‑ins if separated): ../front-matter/03-survival-priorities.html#pace-communications-plan
 
 ## Scenarios
 

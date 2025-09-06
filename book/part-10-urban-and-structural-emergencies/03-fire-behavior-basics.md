@@ -40,10 +40,6 @@ Examples
 - Staying low and closing doors saves lives.
 - Practice escape routes; alarms and extinguishers ready.
 
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (air first): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (avoid panic, act in order): ../front-matter/03-survival-priorities.html#stop
-
 ## Scenario
 
 > 🧭 Scenario (Closed‑door survivability): Night fire on another floor.

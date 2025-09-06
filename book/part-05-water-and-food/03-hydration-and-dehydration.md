@@ -71,12 +71,6 @@ Examples
 - Use ORS proportions precisely; small, steady sips beat chugging when ill.
 - Treat heat illness early with shade, cooling, and ORS; call for help with stroke signs.
 
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (prioritize thermal/hydration correctly): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (pause when symptoms start): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (adjust pace/rest/fluids as signs evolve): ../front-matter/03-survival-priorities.html#ooda
-- ☑️ Survival Priorities → PACE Comms Plan (status check‑ins during heat events): ../front-matter/03-survival-priorities.html#pace-communications-plan
-
 ## Scenarios
 
 > 🧭 Scenario (Exposed ridge, heat): No shade for 2 km; wind hot.

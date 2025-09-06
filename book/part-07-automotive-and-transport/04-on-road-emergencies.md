@@ -50,11 +50,6 @@ Examples
 - Use proper jack points and star pattern; respect donut limits.
 - Plug only tread punctures; patch at shop ASAP.
 
-## Cross-Links
-- 📝 Survival Priorities → STOP (pause before stepping into traffic): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (scene control → fix → reassess): ../front-matter/03-survival-priorities.html#ooda
-- ☑️ Survival Priorities → PACE Comms Plan (notify contacts of delay/location): ../front-matter/03-survival-priorities.html#pace-communications-plan
-
 ## Scenario
 
 > 🧭 Scenario (Night flat, tight shoulder): Traffic fast; little room.

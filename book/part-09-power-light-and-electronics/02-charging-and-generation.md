@@ -69,10 +69,6 @@ Morning sun warmed the folding panel on the picnic table. You clipped the MPPT c
 - Solar is quiet and safe; MPPT improves harvest in variable light.
 - Prioritize charges; avoid draining critical devices to zero.
 
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (power vs shelter and water tradeoffs): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (re‑assess before unsafe charging setups): ../front-matter/03-survival-priorities.html#stop
-
 ## Scenario
 
 > 🧭 Scenario (Post‑storm mix): Fridge warming, phones low, generator in garage…

@@ -93,12 +93,6 @@ Sand/soil hourglass:
 - Pace beads and conservative speed estimates prevent late shelters and night travel surprises.
 - Always set a turnaround time; arriving early is free safety.
 
-## Cross-Links
-- 💡 Survival Priorities → Rule of 3s (prioritize thermal/shelter vs movement): ../front-matter/03-survival-priorities.html#rule-of-3s
-- 📝 Survival Priorities → STOP (reset when rushed): ../front-matter/03-survival-priorities.html#stop
-- 📝 Survival Priorities → OODA (re‑estimate ETA on a loop): ../front-matter/03-survival-priorities.html#ooda
-- ☑️ Survival Priorities → PACE Comms Plan (timed check‑ins): ../front-matter/03-survival-priorities.html#pace-communications-plan
-
 ## Scenarios
 
 > 🧭 Scenario (Temperate forest): You set a shadow stick and mark two points. Two fist‑widths to sunset.
