@@ -67,6 +67,9 @@ Examples
 - Chainsaw leg laceration: Direct pressure fails → hemostatic packing + 3 minutes firm pressure → pressure bandage; prepare TQ if strike‑through persists.
 - Arterial arm bleed: Immediate tourniquet high and tight; bleeding stops; time noted; treat for shock, prevent hypothermia; rapid evac.
 
+## Narrative — Three Minutes That Matter
+The shirt was already soaked. You dropped to a knee, gloved, and pushed a wad of gauze straight into the deepest part of the wound. “Hold this,” someone said—“No,” you answered, “I am holding. Don’t peek.” Ninety seconds in, the edges oozed; you packed more gauze, fingertip seeking the pulsing point, then pressed again. At three minutes, you wrapped a pressure bandage, checked the distal pulse, and only then looked for a tourniquet—ready, but not needed. A jacket under and over the patient kept the shivers at bay while you called in the location and time.
+
 ## Scenario
 
 > 🧭 Scenario (Chainsaw gash): Deep thigh laceration; bleeding heavily.
@@ -76,6 +79,15 @@ Examples
 > 🏋️ Drill: Pack a wound trainer (or towel in bottle) for 3 minutes without peeking.
 
 ---
+
+## Common Mistakes
+- Peeking during pressure; lifting gauze breaks clots. Add more on top instead.
+- Tourniquet too loose or over a joint; failure to note time; loosening in the field.
+- Packing shallowly; not pressing directly on the bleeding source.
+- Using stretchy/rope improvised TQs without a windlass; they fail under motion/pain.
+- Delaying TQ on clear life‑threatening limb bleeding.
+- Forgetting hypothermia prevention; cold blood doesn’t clot.
+- Giving food/drink to unstable patients; risking aspiration and complicating care.
 
 ## Key Takeaways
 - Pressure works; commit to firm, sustained pressure before escalating.

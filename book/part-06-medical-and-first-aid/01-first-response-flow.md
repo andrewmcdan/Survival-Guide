@@ -78,6 +78,14 @@ Examples
 
 ---
 
+## Common Mistakes
+- Skipping scene safety and entering traffic, fire, or unstable structures; becoming a second casualty.
+- Treating minor wounds before life‑threats; not following MARCH‑E.
+- Leaving patients on cold ground; rapid hypothermia worsens outcomes.
+- Unnecessary movement of suspected spinal injuries without clear benefit.
+- Delaying the call for help; failing to give exact location and patient count early.
+- Poor documentation: No times for TQ/application or changes in status.
+
 ## Key Takeaways
 - Safety first; your first patient is you. Control hazards or retreat.
 - Use MARCH‑E to find and fix life‑threats before anything else.

@@ -25,6 +25,9 @@ If water rises around a vehicle:
 - If power fails: Break side windows (not windshield) with a dedicated tool aimed at corners; kick if needed.
 - Exit and move to higher ground; don’t waste time on belongings.
 
+Narrative — Seconds Count
+Rain hammered so hard the wipers smeared. The underpass ahead looked shallow—until a truck’s wake slapped your bumper. You stopped before the deepest pool, shifted to reverse, and felt the tires lose bite. The door locks clicked. You unbuckled, hit all four window switches. Two slid; two stuttered. You shoved a glass‑break tool into the rear side window corner and popped it with a sharp push. Kids out first—one by one through the opening—then you. Wallet and phone stayed behind. On the sidewalk, you watched taillights disappear under the brown water you didn’t enter.
+
 ☑️ Checklist — Flood Safety
 - Avoid water crossings; turn around
 - Know low‑water/flood‑prone routes and avoid in storms

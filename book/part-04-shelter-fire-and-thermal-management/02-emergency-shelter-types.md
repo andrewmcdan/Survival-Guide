@@ -74,7 +74,19 @@ Examples
 - Cold rain, minimal gear: Low A‑frame with all edges tight; thick bed of duff; hot drink; set whistle/flash schedule.
 - Deep snow: Snow trench with tarp roof; vent hole; raised bed; candle for minimal warmth (monitored, ventilated).
 
+## Narrative — Emergency Tarp Night
+The forecast lied. Wind veered, rain thickened, and the first pitch flapped like a flag. You dropped the ridgeline a forearm and slid the windward stakes a handspan toward the ground until the tarp became a low, tight wedge. One corner flipped forward as a beak; the lee edge came down just enough to keep a palm‑wide gap for airflow. A trash bag under your pad stopped ground‑chill; your spare clothes stuffed into a pillowcase became a door plug. The world shrank to a dry, warm triangle—quiet enough to sleep.
+
 ---
+
+## Common Mistakes
+- Pitching too high and wide in storms; flappy tarps leak heat and water.
+- Ignoring ground insulation; cold ground robs heat faster than thin roofs save it.
+- Setting up in drainages or depressions; sites become streams at 02:00.
+- Zero ventilation; condensation soaks gear—leave a small gap or vent.
+- Burning stoves/fires in enclosed spaces; CO risk is real even with small flames.
+- Cutting live branches or damaging protected areas; violates rules and ethics.
+- Skipping the overhead scan; widowmakers and ice fall at night.
 
 ## Key Takeaways
 - Insulate the ground first; a warm back beats a fancy roof.

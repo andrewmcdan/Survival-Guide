@@ -72,6 +72,14 @@ Examples
 
 ---
 
+## Common Mistakes
+- Camping in low spots, dry creek beds, or floodplains—good views, bad drainage.
+- Ignoring overhead hazards (dead limbs, ice, glass façades); wind shifts at night.
+- Perching on windward ridges or saddles that accelerate wind; step to the lee shoulder instead.
+- Sleeping in cold sinks when a short climb gains warmer air.
+- Sitting too close to water for convenience; spray, condensation, and flood risk soak gear.
+- Urban: Choosing glass‑heavy rooms for “light” instead of interior safe rooms.
+
 ## Key Takeaways
 - Dry, wind‑sheltered, hazard‑free ground beats most gear shortcomings.
 - Think in three layers: drainage (ground), wind (air), radiation (surfaces/sky).

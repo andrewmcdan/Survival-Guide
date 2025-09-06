@@ -26,12 +26,27 @@ Cut bottles into funnels/scoops; cans into windshields/pot stands (deburr edges)
 ## Reflectors & Containers
 Space blanket as signal or radiant barrier; nested bags/liners to store water; label clean vs dirty.
 
+## Zippers, Buckles, and Straps
+- Zipper slider pinch: Many “broken” zips are loose sliders. Pinch the slider gently with pliers to restore grip on teeth; replace lost pulls with cord.
+- Buckles: Carry spare side‑release buckles that thread onto existing webbing; field‑replace broken pack buckles without sewing.
+- Webbing repairs: Bar‑tack by hand (tight back‑and‑forth stitches) or fold‑over and stitch through with heavy thread; reinforce with tape until home fix.
+
+## Footwear Patches
+- Sole peel: Clean/dry; contact cement both sides; wait until tacky; press and clamp overnight.
+- Laces: Replace with paracord inner strands in a pinch; tape lace tips to form aglets.
+
+## Adhesives & Cure Windows
+Contact cements (Barge, repair glues) need time: apply thin coats to both surfaces, wait until tacky, then press. Epoxies vary—carry the label or note cure times.
+
 ☑️ Checklist — Micro Repair Kit
 - 2 m heavy tape (flat‑packed), 2 m electrical tape
 - Baling wire or twist ties; zip ties assortment
 - Heavy needle + strong thread; small sail needle; safety pins
 - 2‑part epoxy putty; small tube contact cement
 - Spare buckles/webbing; patches; sandpaper scrap
+
+Narrative — The Strap That Didn’t End the Trip
+Halfway up the trail, your pack’s hip‑belt buckle snapped on a rock. The trip wasn’t over. You threaded a field‑replaceable buckle onto the webbing, pinched a stubborn zipper slider back to life on a pocket, and wrapped a frayed strap end with tape to stop the creep. Ten minutes later you were moving again—with notes to order real parts at home.
 
 Examples
 - Tent pole crack: Splint with tent stake and tape; reinforce with wire; plan replacement.

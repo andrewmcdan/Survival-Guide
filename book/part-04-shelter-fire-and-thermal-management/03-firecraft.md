@@ -91,6 +91,14 @@ Examples
 
 ---
 
+## Common Mistakes
+- Building big before building hot; smothering tinder with heavy fuel.
+- Gathering wet ground wood instead of splitting to dry inner wood.
+- Lighting under low branches or near duff in wind; poor clearances start spot fires.
+- Ignoring fire bans or leaving half‑out fires; burying coals instead of cold‑out.
+- Running stoves or open flames in enclosed shelters or vehicles; CO hazards.
+- On snow: No platform—fire sinks and drowns; build a base of green sticks/bark.
+
 ## Key Takeaways
 - Fire is a tool, not a goal—use it when it improves safety, warmth, or signaling.
 - Structure airflow and dry inner wood; build small and controlled, especially in wind/wet.

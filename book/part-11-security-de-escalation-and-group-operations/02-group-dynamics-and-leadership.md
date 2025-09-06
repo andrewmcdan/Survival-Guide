@@ -31,11 +31,33 @@ Brief: Purpose, key tasks, end state, hazards, comms. Debrief: What went well, w
 ## Logs & Task Boards
 Whiteboard/notebook for tasks, owners, status. Timestamp decisions.
 
+## Decision-Making & Comms Patterns
+- Closed‑loop: Sender states task; receiver repeats back; sender confirms. Avoid “copy?” without read‑back.
+- 1‑3‑1: Present 1 situation, 3 options, 1 recommendation to speed decisions.
+- Brief format (lightweight SMEAC): Situation → Mission → Execution (who/what/when) → Admin/Log → Comms.
+
+## Conflict & De‑Escalation Inside Teams
+- Name tensions early; use short, neutral language: “Let’s pause. We have two views. We’ll pick one in 60 seconds.”
+- Separate people from problem; assign a timebox; pick a plan and move; debrief later.
+- Default to safety/energy preservation when in doubt; avoid ego or sunk‑cost fights under fatigue.
+
+## Hand Signals (Noisy/Low‑Light)
+- Stop: Raised fist.
+- Gather: Arm up, slow circle.
+- Move/Advance: Flat hand forward, push motion.
+- Slow/Quiet: Palm down, patting motion.
+- Point: Two taps on chest, then point to your destination/interest.
+
 ☑️ Checklist — Group Cadence
 - Roles assigned; buddy pairs in place
 - Check‑ins scheduled; closed‑loop comms enforced
 - Rest/food/water cycles set; morale monitored
 - Brief → execute → debrief loop active
+
+Examples — Comms Scripts
+- Tasking: “Alex, take Sam. Clear the east trail to the bend. Report back in 10 minutes.”
+- Read‑back: “Copy: Sam and I clear east trail to bend, back in 10.”
+- Turnaround: “Weather closing. Turn at 14:30 no matter where we are.”
 
 Examples
 - Trail team: Navigator calls 30‑min checks; Comms logs times/locations; Medic runs warmth checks; Leader sets turnaround time.
@@ -49,6 +71,7 @@ Examples
 - Rest cycles and morale checks prevent quiet failures.
 
 ## Cross-Links
+- 📝 Survival Priorities → OODA (loop decisions and checks): ../front-matter/03-survival-priorities.html#ooda
 - ☑️ Survival Priorities → PACE Comms Plan (roles, check‑ins, rendezvous): ../front-matter/03-survival-priorities.html#pace-communications-plan
 
 ## Scenario

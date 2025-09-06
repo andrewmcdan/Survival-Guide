@@ -82,7 +82,18 @@ Examples
 - Murky desert pool: Settle overnight, decant, filter (0.1 µm), add chlorine dioxide; wait full Crypto time.
 - Post‑flood urban: Prefer bottled/packaged water. If none, filter + activated carbon + chlorine; avoid water with chemical odors.
 
+Narrative — The Boil‑Only Kitchen
+The power was out, and the faucet sputtered. You found a stockpot, two clean jars with lids, and half a fuel canister. Rather than chase cups at a time, you settled silt from a bucket, poured the clear top into the pot, and brought it to a rolling boil—three minutes, because of the mountain sticker on the fridge. One jar got a strip of blue tape—“TREATED”—and the other “RAW.” The rule was simple: raw water only touches the big pot and the “RAW” jar; hands and cups touch the blue‑taped jar. Fuel stayed enough for breakfast because you boiled once, not five times.
+
 ---
+
+## Common Mistakes
+- Cross‑contamination: Using the same lid/container for raw and treated water.
+- Under‑treating Crypto: Not waiting the full time for chlorine dioxide in cold water.
+- Relying on filters after they’ve frozen; hollow fibers may be cracked.
+- Assuming filters remove chemicals/heavy metals; they don’t without specific media.
+- Skipping rolling boil or elevation adjustment; short boils risk survival of pathogens.
+- Using iodine in pregnancy/thyroid disease or for prolonged periods.
 
 ## Key Takeaways
 - Combine steps: pre‑filter + disinfect. Match the method to the threat profile.

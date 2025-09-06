@@ -15,6 +15,10 @@ Different jobs, different cells.
 - NiMH (rechargeable AA/AAA): Good cold performance; low‑self‑discharge types (e.g., Eneloop) store well.
 - Li‑ion (18650/21700/phone packs): High energy density; good cold performance; needs proper chargers.
 
+## Capacity in Context
+- mAh vs Wh: Convert to Wh for apples‑to‑apples. Wh ≈ (mAh × nominal voltage) ÷ 1000. AA NiMH ~1.2 V, Li‑ion ~3.6–3.7 V.
+- Estimating power bank reality: A “10,000 mAh” (at 3.7 V) is ~37 Wh; expect ~30–33 Wh usable after conversion losses.
+
 ## Series vs Parallel
 Series adds voltage; parallel adds capacity (current/runtime). Match cell types and states; do not mix new/old cells or chemistries. Use protected packs when possible.
 
@@ -23,6 +27,10 @@ Keep cells warm close to the body; insulate devices; warm spare cells in a pocke
 
 ## Estimating Runtime
 Runtime (h) ≈ capacity (mAh) ÷ draw (mA). Duty cycle extends life: a headlamp at 200 mA with a 3,000 mAh 18650 runs ~15 h at 100% on—more at lower modes and intermittent use.
+
+## Safety Notes (Li‑ion)
+- Use reputable cells and chargers; avoid damaged wraps; store spares in cases, not loose with metal.
+- Don’t fully discharge Li‑ion regularly; store long‑term at ~40–60% in a cool place.
 
 ☑️ Checklist — Power Planning
 - Inventory devices and cell types (AA/AAA/18650/USB‑C)
@@ -36,6 +44,13 @@ Examples
 - Home blackout: NiMH AAs rotated; lantern on low; device charging plan by priority.
 
 ---
+
+## Common Mistakes
+- Mixing new and old cells or chemistries in series devices; leaks and failures.
+- Storing alkalines in devices long‑term; leakage damages gear—remove for storage.
+- Pocketing bare Li‑ion cells with keys/coins; shorting/fire risk—use cases.
+- Charging unattended with cheap/unvetted chargers; prefer reputable, protected chargers.
+- Leaving cells in hot cars or freezing conditions for long periods; capacity loss/damage.
 
 ## Key Takeaways
 - Standardize cells; plan duty cycles; keep batteries warm.

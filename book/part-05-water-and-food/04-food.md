@@ -60,6 +60,9 @@ Examples
 - Get‑home bag (24–36 h): 2,500–3,000 kcal of no‑cook foods; 2× electrolyte packets/day; cold‑soak oats overnight.
 - Storm shelter‑in‑place (48–72 h): Pantry cans (beans, soups, tuna), crackers, nut butters; rotate stock every 6–12 months.
 
+Narrative — The No‑Cook Menu That Worked
+Dinner didn’t need a flame. You laid out tortillas, tuna packets, and a squeeze of mayo—one plate, no heat. Oats cold‑soaked in a jar with a pinch of salt and a handful of raisins sat on the counter for morning. Mid‑day was trail mix and a square of chocolate. It wasn’t glamorous, but no pot needed washing and the stove fuel was still full when the lights blinked back on.
+
 ---
 
 ## Key Takeaways
