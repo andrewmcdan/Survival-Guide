@@ -1,14 +1,14 @@
-# **Working Title**
+# Working Title
 
 **Fieldcraft for the Unplanned: A Practical Guide to Emergencies & Survival**
 
 # **Front Matter**
 
--   **Disclaimer & Scope** (legal, medical, jurisdictional notes; when to call for help)
+- **Disclaimer & Scope** (legal, medical, jurisdictional notes; when to call for help)
 
--   **How to Use This Book** (color tabs, icons, “at-a-glance” cards)
+- **How to Use This Book** (color tabs, icons, “at-a-glance” cards)
 
--   **Survival Priorities** (“Rule of 3s”, STOP & OODA, PACE communications plan)
+- **Survival Priorities** (“Rule of 3s”, STOP & OODA, PACE communications plan)
 
 ---
 
@@ -355,32 +355,32 @@
 
 # **Quick-Reference Appendices**
 
--   **At-a-Glance Cards:** MARCH-E, hypothermia/hyperthermia, dehydration ORS recipe
+- **At-a-Glance Cards:** MARCH-E, hypothermia/hyperthermia, dehydration ORS recipe
 
--   **Signal Library:** Morse code, whistle patterns, ground-to-air symbols (full page)
+- **Signal Library:** Morse code, whistle patterns, ground-to-air symbols (full page)
 
--   **Knots & Lashings:** one-page visuals
+- **Knots & Lashings:** one-page visuals
 
--   **Water Purification Dosages & Boil Times**
+- **Water Purification Dosages & Boil Times**
 
--   **Conversion Tables:** metric/imperial, distance-pace, temp/wind chill
+- **Conversion Tables:** metric/imperial, distance-pace, temp/wind chill
 
--   **Radio Cheat Sheet:** simple channel plan templates, phonetic alphabet
+- **Radio Cheat Sheet:** simple channel plan templates, phonetic alphabet
 
--   **Checklists:** EDC, Get-Home Bag, 72-Hour Bag, Vehicle Kit, Home Blackout Kit
+- **Checklists:** EDC, Get-Home Bag, 72-Hour Bag, Vehicle Kit, Home Blackout Kit
 
--   **Blank ICS-Style Forms:** simple message form, task log, situation board
+- **Blank ICS-Style Forms:** simple message form, task log, situation board
 
 ---
 
 ## **Notes on Your Original Bullets (integrated above)**
 
--   **Timekeeping & Orientation** → Part II, Ch. 1–2
+- **Timekeeping & Orientation** → Part II, Ch. 1–2
 
--   **Automotive Basics** → Part VII (with a clear legal/safety stance on hotwiring)
+- **Automotive Basics** → Part VII (with a clear legal/safety stance on hotwiring)
 
--   **Shelter & Fire** → Part IV
+- **Shelter & Fire** → Part IV
 
--   **Dehydration / Snake Bites / Insect Bites/Stings** → Part VI (Medical)
+- **Dehydration / Snake Bites / Insect Bites/Stings** → Part VI (Medical)
 
--   **Fires (Smoke Signals) / Mirrors / Ground-to-Air / Whistle / Shouting / Gunshots** → Part III (Signaling & Comms)
+- **Fires (Smoke Signals) / Mirrors / Ground-to-Air / Whistle / Shouting / Gunshots** → Part III (Signaling & Comms)
