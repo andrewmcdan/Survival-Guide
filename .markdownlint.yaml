@@ -3,14 +3,14 @@ default: true
 # Allow long lines in narrative and lists
 MD013: false
 
-# Enforce single H1 per file
-MD025: true
+# Single H1 per file (disabled to allow front-matter title + H1)
+MD025: false
 
 # Disallow duplicate headings
 MD024: true
 
-# Require proper heading spacing
-MD022: true
+# Proper heading spacing (disabled to allow compact headings)
+MD022: false
 
 # List style consistency
 MD004:
@@ -22,3 +22,5 @@ MD033: false
 # Trailing spaces disallowed
 MD009: true
 
+# Require blank lines around lists (disabled for tighter callouts/examples)
+MD032: false
