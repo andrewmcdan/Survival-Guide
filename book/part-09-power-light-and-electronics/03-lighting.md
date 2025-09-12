@@ -27,6 +27,8 @@ Color temperature and CRI affect how you see details and read maps.
 - Neutral/cool (4,500–6,500 K): Perceived brighter; good outdoors.
 - High CRI (≥90): Better color rendering for first aid and map reading; often slightly lower efficiency.
 
+📝 Note: Dim beats red in many cases. Very low white/amber modes often preserve practical night vision as well as red while improving acuity and color discrimination for tasks. Dark adaptation takes ~20–30 minutes; brief bright‑white exposures reset it—aim beams down and keep levels low.
+
 ## Beam Control
 Aim low; shield spill; use red/low modes. Avoid pointing lights at faces (night blindness) or into traffic.
 

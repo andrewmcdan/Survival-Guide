@@ -17,6 +17,11 @@ Openings create paths for hot gases and smoke.
 ## Door Control
 Feel door with back of hand; if hot, do not open. If cool, open slowly, staying behind the door; close doors behind you during egress.
 
+Reading smoke and gaps
+- Smoke layer: If smoke banks down to the floor, conditions are deteriorating—stay very low or choose another exit.
+- Door gap/hinge side: A strong inward draw at gaps can indicate fire pulling air from your side; opening can feed it. Keep doors closed to starve fire and consider alternate routes.
+- Cloth over mouth/nose may reduce irritation but does not filter toxic gases (CO/HCN); do not rely on it for safety.
+
 ## Stay-Low Movement
 Crawl or stay low; smoke rises. Keep one hand on wall; count doors in smoke; follow landmarks.
 

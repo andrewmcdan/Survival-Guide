@@ -27,6 +27,10 @@ Fast, weatherworthy shelter for rain/wind.
 - Edges: Stake taut; add mid‑panel guylines for strength; dig a small drip trench only where permitted.
 - Ground: Use a groundsheet; slope away; add a pad and extra insulation.
 
+Anchors & angles (sand/snow)
+- Deadman anchors: Bury sticks/stakes/stuff sacks filled with snow/sand at least 20–30 cm deep with guylines attached; tamp and let set.
+- Guyline geometry: Aim for ~45° between guyline and ground for best holding; add two guylines in a “V” on the windward ridgeline when gusts rise.
+
 💡 Tip: Add a short beak/porch by offsetting one corner or using a second small sheet.
 
 ## Lean-To
@@ -44,6 +48,8 @@ Snow shelters insulate well if built and ventilated correctly.
 - Snow trench: Dig a narrow trench just longer than you; roof with skis/branches and a tarp/snow blocks; cover with ≥30–60 cm of snow. Add a small vent hole.
 - Quinzhee (snow mound): Pile snow into a dome; let sinter 60–90 minutes; tunnel in and hollow to 30–40 cm wall thickness (check with sticks). Cut a vent; raise a sleeping platform above floor to trap cold air.
 - Entrances: Small, low entrance on leeward side; create a cold‑air sump near the door.
+ 
+💡 Tip: Smooth the interior ceiling of snow shelters to reduce dripping as it warms.
 
 ⚠️ Caution: Collapse risk. Probe roof regularly; never build where roof failure buries you in hazard (tree wells, over streams). Keep a shovel inside.
 

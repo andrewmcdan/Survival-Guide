@@ -28,6 +28,8 @@ Seek medical care for:
 ### Flush
 For chemical exposures, flush immediately with copious clean water or saline for at least 15–20 minutes; hold eyelids open; roll eyes to expose all surfaces.
 
+💡 Tip: For dry powders (e.g., cement/lime), gently brush off excess before irrigation to reduce heat when water is added.
+
 ### Patch
 Do not put pressure on a suspected penetrating injury. Use a rigid eye shield (or taped paper cup) rather than a pressure patch; evacuate urgently.
 
@@ -39,6 +41,8 @@ Rinse mouth gently; cover sharp edges with dental wax/sugarless gum; pain contro
 
 ### Preservation Medium
 For an avulsed (knocked‑out) adult tooth: Handle by the crown (white part), not the root; gently rinse debris (don’t scrub); if the patient is conscious and cooperative, reimplant immediately and have them bite on gauze. If not, store in tooth preservation solution (e.g., Save‑a‑Tooth), cold milk, or saliva (cheek pouch). Seek dental care urgently—best outcomes within 30–60 minutes.
+
+⚠️ Caution: Do not reimplant primary (baby) teeth—risk to developing permanent teeth. Never store teeth dry or wrapped in tissue.
 
 ☑️ Checklist — Burns/Eye/Dental
 - Cool burns 10–20 minutes; no ice/oils; remove constricting items

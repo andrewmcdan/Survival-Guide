@@ -35,6 +35,7 @@ Examples
 - Declination = −8° (west). Magnetic 70° → True 62°. True 250° → Magnetic 258°.
 
 ⚠️ Caution: Know whether your compass has adjustable declination. If it’s set in the baseplate, don’t do math twice.
+📝 Note: Declination shifts over time. Check your local value annually and update your compass/baseplate notes; many topo maps show the year and annual change.
 ⚠️ Caution: Keep compasses away from ferrous metal, vehicles, and phones when taking bearings. Step 3–5 m away, level the compass, and re‑check to avoid magnetic interference.
 
 ## Triangulation
@@ -59,6 +60,8 @@ Setup
 Usage
 - Slide one lower bead each 100 m; at 1 km, reset lowers and slide one upper.
 - Record terrain changes and bearing checks at each kilometer in a small log.
+
+💡 Tip: Quick time estimate with Naismith’s Rule (on foot): ~1 hour per 5 km plus ~1 hour per 600 m of ascent (adjust for load, terrain, and fitness).
 
 ## Terrain Association
 Use visible features to confirm your location constantly.

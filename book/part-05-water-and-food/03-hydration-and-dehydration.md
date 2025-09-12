@@ -24,6 +24,10 @@ Replace fluids steadily; avoid chugging.
 - Temperature: Cool fluids (~15–20°C / 59–68°F) are absorbed well and aid cooling in heat.
 - Sips > gulps: Take frequent small drinks; add electrolytes when sweating heavily.
 
+Upper limits and pacing
+- Most people can absorb ~0.5–1.0 L per hour during exertion; more than that can slosh and increase hyponatremia risk. Let thirst and urine guide you.
+- On long hot efforts, aim for a light, steady electrolyte intake rather than plain water only; pair fluids with food/salt.
+
 ⛑️ First Aid: If vomiting, try 5–10 mL every 2–3 minutes; escalate if unable to keep fluids or if mental status worsens.
 
 ## Electrolytes

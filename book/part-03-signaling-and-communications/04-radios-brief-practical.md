@@ -15,6 +15,16 @@ Know your service and its limits (U.S. examples—verify your country’s rules)
 - GMRS (General Mobile Radio Service): License required in U.S.; higher power (up to 50 W mobile); detachable antennas; can use repeaters.
 - “Privacy codes”: CTCSS/DCS sub‑audible tones reduce nuisance traffic but do not secure your comms.
 
+FRS power and channels (U.S. summary)
+- Ch 8–14: 0.5 W max
+- Ch 1–7, 15–22: up to 2 W (fixed antennas only)
+
+GMRS repeater quick note (U.S.)
+- Repeaters typically listen on 467.x MHz and transmit on 462.x MHz with a tone. If legal and available, program the output channel, input (with +5 MHz), and correct tone per repeater info.
+
+Weather alerts (SAME)
+- Weather radios can filter alerts to your county via SAME codes. Look up and program your local SAME codes; keep a printed card with county names/codes in your kit.
+
 Range reality
 - Open ridge to ridge: many miles. Forest/urban clutter: hundreds of meters to a few km. Inside buildings: highly variable.
 

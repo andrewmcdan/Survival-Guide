@@ -57,6 +57,13 @@ Protect and monitor.
 - Layers: Non‑adherent layer (if available) over wound, then absorbent pads, then wrap to secure.
 - Monitoring: Check for strike‑through (bleed‑through) and distal circulation; elevate injured limb if appropriate.
 
+## Impaled Objects
+Do not remove impaled objects in the field unless they obstruct the airway or prevent effective CPR.
+
+- Stabilize: Build bulky dressings on both sides and secure to prevent movement; avoid pressure on the object’s tip.
+- Shorten only if necessary: If transport is impossible otherwise and it is safe to do so, carefully shorten the exposed end without moving the embedded portion.
+- Exceptions: For small cheek or lip impalements interfering with airway, removal may be appropriate with immediate bleeding control—only if trained and safe.
+
 ☑️ Checklist — Bleed/TQ Pack
 - Gloves, gauze rolls/pads, hemostatic gauze
 - Tourniquet with windlass (CAT/SOF‑T style) ×2

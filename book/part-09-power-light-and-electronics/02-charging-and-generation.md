@@ -39,8 +39,18 @@ Load management
 - Prioritize cold chain (fridge/freezer) and critical medical devices; cycle loads to keep average power low.
 - Extension cords: Heavy‑gauge outdoor cords; fully uncoil to avoid heat; keep connections off wet ground.
 
+Appliance inrush and duty cycle
+- Many compressors (fridges/freezers) draw 5–10× their running current for a fraction of a second at startup. Size generators/inverters with headroom or stagger starts to avoid trips.
+- A fridge often runs only 20–40% of the time. Short generator runs (e.g., 1–2 h every 4–6 h with doors closed) can maintain safe temps with less fuel—confirm with a thermometer.
+
 Backfeed warning
 - Do not backfeed a home via dryer outlets or improvised cords; it endangers line workers and can start fires. Use a transfer switch installed by a professional.
+
+Electronics and generator quality
+- Sensitive electronics prefer clean power. Inverter‑type generators typically have low total harmonic distortion (THD) and are gentler on chargers. Add surge protection and avoid cheap, unregulated inverters for laptops/medical gear.
+
+Measure, don’t guess
+- A plug‑in power meter helps you learn real running watts and inrush behavior of devices. Measure before an outage and keep a card with typical draws for prioritization.
 
 ☑️ Checklist — Charging Plan
 - Prioritize critical devices; schedule charge windows

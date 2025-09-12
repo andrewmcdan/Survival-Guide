@@ -32,6 +32,11 @@ Continue cautiously: Solid MIL with stable performance; EVAP codes; O2 sensor co
 ## Clearing Codes Pitfalls
 Clearing codes erases freeze‑frame and readiness monitors. This can hide intermittent problems and cause inspection failures until monitors reset.
 
+Readiness monitors & drive cycles
+- After clearing codes or battery disconnect, monitors (e.g., catalyst, EVAP, O2) show “not ready” until certain conditions are met.
+- EVAP often requires a specific temperature range and fuel level (typically between 1/4 and 3/4 tank). Keep that range if you’re trying to set monitors.
+- Mixed city/highway driving over 1–3 days usually resets most monitors; avoid clearing codes right before inspection.
+
 ☑️ Checklist — OBD‑II Use
 - Read codes before changing anything; note freeze‑frame data
 - Decide stop/continue based on severity, not annoyance

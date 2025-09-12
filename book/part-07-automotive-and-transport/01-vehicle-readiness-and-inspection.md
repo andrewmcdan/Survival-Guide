@@ -23,6 +23,10 @@ Inspect for cracks, glazing, fraying; hoses for bulges, soft spots, or leaks. Sq
 ## Tire Health
 Use a gauge; inspect tread wear patterns (center wear = overinflated, edges = underinflated, cupping = suspension issues). Verify spare or repair kit readiness.
 
+Tire age
+- Find the DOT date code (last 4 digits on sidewall): week and year (e.g., “2319” = 23rd week of 2019). Many manufacturers recommend replacing tires around 6–10 years regardless of tread due to age‑related degradation.
+- Check the spare’s age and inflation too; spares often age out unnoticed.
+
 ## Lights
 Carry a spare bulb/fuse where practical; clean lenses; aim headlights properly.
 

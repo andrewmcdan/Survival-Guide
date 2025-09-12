@@ -29,6 +29,11 @@ Fastest reliable flame; protect from wind/wet.
 - Shield with your body; create a small windbreak; pre‑split kindling so flame contacts edges.
 - Carry two lighters in separate places; tape one’s fuel button to prevent discharge.
 
+Cold‑weather notes
+- Butane struggles below ~0–5°C (32–41°F). Keep lighters warm in a pocket; use stormproof matches or a ferro rod as backup.
+- Remote‑canister stoves with a preheat tube can run canisters inverted in cold (liquid feed) if the manufacturer specifies—do not invert upright‑canister burners without a preheat loop.
+- Windscreens around upright canister stoves can trap heat and increase CO; keep gaps for airflow and watch for yellow, sooty flames (poor combustion).
+
 ### Battery + Steel Wool (Safety)
 For emergencies when other methods fail.
 

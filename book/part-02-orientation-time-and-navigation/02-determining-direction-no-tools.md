@@ -20,6 +20,9 @@ Morning/evening heuristic:
 
 ⚠️ Caution: High latitudes and seasonal daylight changes reduce accuracy. Verify with at least one other cue.
 
+Polarization hint (overcast)
+- On bright overcast, polarized sunglasses may reveal faint dark bands 90° from the sun’s position due to sky polarization. Use as a weak cue alongside other methods; do not rely on it alone.
+
 ## Polaris (Northern Hemisphere)
 Find true north at night.
 

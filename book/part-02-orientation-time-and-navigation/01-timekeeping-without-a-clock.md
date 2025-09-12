@@ -31,6 +31,9 @@ Crude but quick estimates by sun position.
 
 💡 Tip: Combine with a set turnaround time (e.g., “Two fists to sunset → stop forward progress now and set shelter”).
 
+Twilight buffers
+- “Sunset” is not full darkness. Civil twilight (sun 0–6° below horizon) often provides usable light for ~30 minutes after sunset—shorter in the tropics, longer at higher latitudes in summer. Add a buffer for setup and navigation; don’t plan tight arrivals at dusk.
+
 ## Star “Clock” Basics
 Use the rotation of a star pattern around the celestial pole to estimate hours at night.
 

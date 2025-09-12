@@ -36,6 +36,12 @@ Block wind without moving into a venturi or rotor.
 
 📝 Note: Cold air pools in valley bottoms and hollows. Even a 10–30 m rise can be markedly warmer on still nights.
 
+Diurnal wind patterns
+- Day: Sun warms slopes; upslope/valley breezes can build through afternoon and spill over saddles.
+- Night: Cold, dense air drains downslope (katabatic). Expect downslope trickles into gullies and basins; avoid camping in drainages even if dry.
+
+⚠️ Caution: Lightning risk grows on exposed ridges and near tall isolated trees. Follow 30/30 guidance (see Risk Assessment) and move off high ground when storms approach.
+
 ## Radiant Hazards
 Manage heat gain/loss from nearby surfaces.
 
@@ -87,14 +93,16 @@ Examples
 
 ## Scenarios
 
-> 🧭 Scenario (Temperate storm): Two benches—one near creek, one lee of a low ridge.
-> 🔍 Decisions: Drainage vs wind vs overhead hazards.
-> ✅ Outcome: You pick the lee bench, stake low, trench lightly where allowed, and stay dry.
-> 🧠 Lessons: Drainage + wind break beats “pretty view”
-> 🏋️ Drill: Walk a park after rain and map water flow.
->
-> 🧭 Scenario (Urban smoke): AQI spikes; ash falling.
-> 🔍 Decisions: SIP room vs leave; sealing; ventilation.
-> ✅ Outcome: You choose an interior room, seal, run HEPA, and monitor alerts.
-> 🧠 Lessons: Interior, sealable rooms win smoke days
-> 🏋️ Drill: Stage tape/towels in your chosen room.
+```
+🧭 Scenario (Temperate storm): Two benches—one near creek, one lee of a low ridge.
+🔍 Decisions: Drainage vs wind vs overhead hazards.
+✅ Outcome: You pick the lee bench, stake low, trench lightly where allowed, and stay dry.
+🧠 Lessons: Drainage + wind break beats “pretty view”
+🏋️ Drill: Walk a park after rain and map water flow.
+
+🧭 Scenario (Urban smoke): AQI spikes; ash falling.
+🔍 Decisions: SIP room vs leave; sealing; ventilation.
+✅ Outcome: You choose an interior room, seal, run HEPA, and monitor alerts.
+🧠 Lessons: Interior, sealable rooms win smoke days
+🏋️ Drill: Stage tape/towels in your chosen room.
+```

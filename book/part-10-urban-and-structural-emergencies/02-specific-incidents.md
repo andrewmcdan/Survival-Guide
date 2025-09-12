@@ -101,6 +101,9 @@ Shelter‑in‑place (airborne particulates/irritants)
 - Choose an interior room; close/lock windows/doors; turn off HVAC; seal gaps with tape/towels; run HEPA if available.
 - N95/KN95 helps for particulates (smoke/dust); they do not protect against gases (e.g., chlorine, ammonia).
 
+DIY room air cleaner (wildfire smoke)
+- A simple “Corsi‑Rosenthal box” (4–5 MERV‑13 filters taped into a cube with a box fan on top) can significantly reduce indoor PM2.5. Seal edges with tape; run on low/medium for noise and efficiency; position centrally in the room you occupy most.
+
 Chemical releases
 - If you see/smell a chemical cloud, move perpendicular to wind to exit plume; follow official directions promptly.
 - Decon basics: Remove outer clothing; bag it; shower with soap and water (not harsh chemicals); avoid spreading contaminant.

@@ -58,6 +58,10 @@ Passive, low‑resource method for sunny conditions.
 - Use clear PET bottles (≤2 L), fill with clear water; place on reflective surface in full sun for 6 hours (or 2 consecutive sunny days in partial cloud). Shake to oxygenate before exposure.
 - Works best in equatorial/sunny climates; unreliable in high latitudes/winter.
 
+💡 Tip: PET bottles pass UV‑A better than many hard plastics (e.g., some polycarbonates) and heat rapidly when placed on dark or reflective surfaces. Painting the lower half of a dedicated bottle black (outside) or placing bottles on dark metal can raise temperature and speed treatment—mark and reserve such bottles for SODIS only.
+
+⚠️ Caution: SODIS needs clear water. Pre‑filter turbidity first. Avoid tinted or UV‑blocking containers.
+
 ## Field-Expedient Containers
 Improvise when standard containers fail.
 

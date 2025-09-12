@@ -33,6 +33,8 @@ Large, high‑contrast letters or symbols laid on the ground.
 - Scale: Each stroke ≥ 6–10 m long and 1–3 m wide; wider in open terrain. Keep area around symbols clear for contrast.
 - Placement: Open areas near handrails (shorelines, ridge clearings, river bends, meadows). Avoid under canopy where aerial visibility is blocked.
 
+💡 Tip: Bright signal panels (e.g., VS‑17 style) and high‑vis tarps are excellent day markers. On water, dye markers or brightly colored fabric spread on the surface can improve contrast.
+
 ## Common Ground-to-Air Symbols
 Use standard symbols for clarity.
 
