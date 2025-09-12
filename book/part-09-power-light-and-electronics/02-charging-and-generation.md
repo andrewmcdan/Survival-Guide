@@ -33,6 +33,8 @@ Power bank strategy
 ## Generator Safety (CO)
 Place outdoors, downwind, far from openings; use CO detectors indoors. Store fuel safely (approved cans), stabilize gas, and cool before refueling.
 
+⛑️ First Aid: Suspected CO exposure — headache, dizziness, nausea, confusion, or unusual sleepiness. Move victims to fresh air immediately, call emergency services, place in recovery position if needed, and monitor breathing. Do not re‑enter enclosed spaces.
+
 Load management
 - Prioritize cold chain (fridge/freezer) and critical medical devices; cycle loads to keep average power low.
 - Extension cords: Heavy‑gauge outdoor cords; fully uncoil to avoid heat; keep connections off wet ground.

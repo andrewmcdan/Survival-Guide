@@ -60,6 +60,7 @@ To set expectations, we may label tasks:
 - Time: 24-hour format for logs and plans; use local time zone.
 - Coordinates: Show format and datum (e.g., 37.7749° N, 122.4194° W; WGS84) and include UTM/MGRS when relevant.
 - Terms: The first appearance of a model or acronym expands in-line (e.g., PACE: Primary, Alternate, Contingency, Emergency).
+- See also: Glossary & Acronyms (Appendices) for quick reference.
 
 ## Safety First
 When a step trades time for safety, we prefer safety. If a task exceeds your training, stop, stabilize, and seek help. See: Disclaimer & Scope.

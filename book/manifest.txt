@@ -87,3 +87,4 @@ book/appendices/05-conversion-tables.md
 book/appendices/06-radio-cheat-sheet.md
 book/appendices/07-checklists.md
 book/appendices/08-blank-ics-style-forms.md
+book/appendices/09-glossary-and-abbreviations.md

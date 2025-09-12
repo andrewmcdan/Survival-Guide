@@ -25,6 +25,8 @@ Unscented household bleach (sodium hypochlorite)
 - Clear water: 2 drops/L (about 8 drops/gal) for 6%; 1–2 drops/L (6 drops/gal) for 8.25%.
 - Cloudy water: Double the dose. Mix well; wait 30 minutes; a slight chlorine smell should be present. If not, add the same dose again and wait 15 more minutes.
 
+📝 Note: Bleach degrades with age, heat, and sunlight. Use plain, unscented, recently purchased bleach when possible. If there is no chlorine smell after the contact time, re‑dose and wait again before drinking.
+
 Chlorine dioxide tablets/drops
 - Effective against bacteria, viruses, and Giardia; needs up to 4 hours for Cryptosporidium (follow manufacturer directions).
 - Better taste than bleach; works over a wider pH range.

@@ -29,6 +29,22 @@ Hyperthermia
 
 Sip steadily; if vomiting, 5–10 mL every 2–3 minutes.
 
+## GAR (Green/Amber/Red) Quick Card
+People — warm, hydrated, uninjured? If cold/injured → Red/controls.
+Environment — stable weather, safe terrain? Thunder, high winds, flood risk → Red.
+Equipment — light, layers, comms, nav working? Missing critical gear → Amber/Red.
+Plan — Go/No‑Go thresholds set? Decision points and backstops noted? If not → Amber.
+
+Decide: Green = proceed; Amber = proceed with controls; Red = stop/change plan.
+
+## PACE Comms Quick Card
+Primary: call — ___
+Alternate: text/app — ___
+Contingency: radio Ch ___ / Tone ___ @ __:__ for __ minutes
+Emergency: Rendezvous at __________ by __:__ if comms fail
+
+Message: WHO / WHERE / WHEN / WHAT / INTENT
+
 ---
 
 Print, cut, and laminate for kits.

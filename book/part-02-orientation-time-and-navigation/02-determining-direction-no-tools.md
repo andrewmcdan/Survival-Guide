@@ -27,12 +27,18 @@ Find true north at night.
 - Polaris sits close to true north (within ~1°). Face Polaris → you face north; east is right, west is left, south is behind you.
 - Polaris altitude above the horizon ≈ your latitude (useful for rough location awareness).
 
+📝 Note: Visual cue — The two outer bowl stars of the Big Dipper “point” about five times their spacing to Polaris (true north).
+<!-- TODO: Figure: fig-polaris-pointer.svg — Big Dipper with pointer stars line to Polaris (true north). -->
+
 ## Southern Cross (Southern Hemisphere)
 Find true south at night.
 
 - Locate Crux (Southern Cross). Extend the long axis of the Cross ~4.5× to the south celestial pole (SCP).
 - From the SCP, drop a line straight down to the horizon—that point is true south.
 - Alpha and Beta Centauri (“the Pointers”) can help verify the long axis orientation.
+
+📝 Note: Visual cue — Extend the long axis of the Southern Cross ~4.5× to estimate the south celestial pole, then drop to the horizon for true south.
+<!-- TODO: Figure: fig-southern-cross-scp.svg — Southern Cross long axis extended to SCP; drop line to horizon for true south. -->
 
 ## Local Cues
 Terrain and ecology sometimes hint direction. Treat as supporting, not primary.

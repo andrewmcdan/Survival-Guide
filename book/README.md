@@ -98,3 +98,4 @@ Download: [Latest Release (PDF & EPUB)](https://github.com/andrewmcdan/Survival-
 - [Radio Cheat Sheet](appendices/06-radio-cheat-sheet.html)
 - [Checklists](appendices/07-checklists.html)
 - [Blank ICS-Style Forms](appendices/08-blank-ics-style-forms.html)
+- [Glossary & Acronyms](appendices/09-glossary-and-abbreviations.html)

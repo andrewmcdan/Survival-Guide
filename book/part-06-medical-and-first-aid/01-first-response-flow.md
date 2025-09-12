@@ -21,7 +21,7 @@ Scan before you touch.
 Fast check for life‑threats in this order; shout for help or assign tasks as you go.
 
 - Responsiveness: AVPU (Alert, responds to Voice, to Pain, Unresponsive).
-- Airway/Breathing: Is the airway open? Are they breathing? If not, start CPR if trained and appropriate.
+- Airway/Breathing: Is the airway open? Are they breathing? If not, start CPR if trained and appropriate. Attach an AED if available and follow prompts; minimize interruptions to compressions and resume immediately after shocks per device instructions.
 - Massive bleeding: Look for and control heavy external bleeding immediately.
 - Position: Place on back for assessment unless vomiting (recovery position) or trauma suggests spinal care.
 

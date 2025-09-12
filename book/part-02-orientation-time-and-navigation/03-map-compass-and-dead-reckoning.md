@@ -35,6 +35,7 @@ Examples
 - Declination = −8° (west). Magnetic 70° → True 62°. True 250° → Magnetic 258°.
 
 ⚠️ Caution: Know whether your compass has adjustable declination. If it’s set in the baseplate, don’t do math twice.
+⚠️ Caution: Keep compasses away from ferrous metal, vehicles, and phones when taking bearings. Step 3–5 m away, level the compass, and re‑check to avoid magnetic interference.
 
 ## Triangulation
 Fix your position by intersecting lines from two (ideally three) known points.

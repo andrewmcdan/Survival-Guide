@@ -40,6 +40,8 @@ If prescribed or available for known allergy, give epinephrine at first sign of 
 - Use auto‑injector into outer thigh (through clothing if needed). Hold 3–10 seconds (per device); massage briefly.
 - Call EMS. If symptoms persist, a second dose may be needed after 5–15 minutes.
 
+📝 Note: Typical auto‑injector dosing is 0.15 mg for children under ~30 kg (66 lb) and 0.3 mg for larger children and adults. Carry two if possible and protect from heat/cold per label.
+
 ## Hypothermia
 Early: Shivering, fumbling, mild confusion. Moderate/severe: Shivering stops, slurred speech, drowsy, slow pulse.
 

@@ -27,3 +27,13 @@ Radio Etiquette
 - Battery charged; spare available
 - Channel and tone set; volume tested
 - Antenna vertical; move to higher/clearer ground for range
+
+## PACE Card
+Fill, print, and share within your group.
+
+- Primary (P): __________ Ch ___ / Tone ___ — Check‑ins at __:__ / __:__
+- Alternate (A): ________ Ch ___ / Tone ___ — or SMS on the hour
+- Contingency (C): Monitor Ch ___ from __:__ to __:__ (mins past hour)
+- Emergency (E): Rendezvous at __________ by __:__ if comms fail
+
+Message format (all channels): WHO / WHERE / WHEN / WHAT / INTENT

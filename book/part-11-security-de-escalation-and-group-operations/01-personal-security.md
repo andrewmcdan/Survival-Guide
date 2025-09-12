@@ -44,6 +44,14 @@ At night or in shared spaces, reduce signatures to avoid attention.
 - Set emergency SOS/shortcut on your phone; pre‑configure emergency contacts.
 - Share ETA and live location when walking alone; use a code word with family for “pick me up now.”
 
+## Defensive Tools (Where Legal)
+Where lawful and appropriate, some readers carry defensive tools. Prioritize avoidance and exit; tools are last‑resort aids to break contact and leave.
+
+- Accessibility: Carry so it can be reached quickly under stress (not buried in a bag). Practice safe, legal carry per local law.
+- Pepper spray basics: Aim at eyes/nose; short bursts; move off‑line and create distance; leave the area. Beware wind direction and confined spaces.
+- Legal caveat: Laws vary widely on possession/use; know local rules before carrying or deploying any tool.
+- Decontamination: Fresh air first; copious water and mild soap; avoid oils/creams that trap irritant; remove/contain contaminated clothing.
+
 ☑️ Checklist — Street Smarts
 - Route chosen for light/people/visibility
 - Phone away; earbuds low/one ear
