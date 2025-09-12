@@ -109,8 +109,10 @@ Examples
 
 ## Scenario
 
-> 🧭 Scenario (Whiteout timberline): Trail vanishes; you can see two distinct peaks briefly through clouds.
-> 🔍 Decisions: Wander vs resection; write bearings or keep in head.
-> ✅ Outcome: You take two magnetic bearings, convert to true, draw back‑bearings, and fix position in a small triangle; you choose a handrail to a shelter.
-> 🧠 Lessons: Resection > wandering; write both true/mag
-> 🏋️ Drill: Do a two‑point resection at a city park.
+```
+🧭 Scenario (Whiteout timberline): Trail vanishes; you can see two distinct peaks briefly through clouds.
+🔍 Decisions: Wander vs resection; write bearings or keep in head.
+✅ Outcome: You take two magnetic bearings, convert to true, draw back‑bearings, and fix position in a small triangle; you choose a handrail to a shelter.
+🧠 Lessons: Resection > wandering; write both true/mag
+🏋️ Drill: Do a two‑point resection at a city park.
+```

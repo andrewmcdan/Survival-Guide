@@ -84,8 +84,10 @@ Examples
 
 ## Scenario
 
-> 🧭 Scenario (Temperate forest, lost): Drizzle, late day. You have a whistle and a tiny light.
-> 🔍 Decisions: Shout vs whistle; move vs signal; cadence.
-> ✅ Outcome: You set three whistle blasts every two minutes, sweep your light in ··· ——— ··· when fog thins, and rest between cycles.
-> 🧠 Lessons: Pattern + schedule + listening windows
-> 🏋️ Drill: Practice a 10‑minute signal cycle with rests.
+```
+🧭 Scenario (Temperate forest, lost): Drizzle, late day. You have a whistle and a tiny light.
+🔍 Decisions: Shout vs whistle; move vs signal; cadence.
+✅ Outcome: You set three whistle blasts every two minutes, sweep your light in ··· ——— ··· when fog thins, and rest between cycles.
+🧠 Lessons: Pattern + schedule + listening windows
+🏋️ Drill: Practice a 10‑minute signal cycle with rests.
+```

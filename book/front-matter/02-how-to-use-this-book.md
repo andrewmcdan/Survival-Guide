@@ -74,19 +74,21 @@ If you spot a mistake or have a practical improvement, open an issue or submit a
 
 ## Scenarios
 
-> 🧭 Scenario (Urban outage, commute): Power fails at dusk. Elevators stop, data crawls, streets clog. Your GHB is under the desk.
-> 🔍 Decisions: Stairwell vs wait; route to busier exit; call or text; conserve battery; walk vs rideshare.
-> ✅ Outcome: You take stairs, text a short WHO/WHERE/WHEN/WHAT/INTENT update, switch to offline map, walk a known route with headlamp on low.
-> 🧠 Lessons:
-> - PACE: voice → text → radio → rendezvous
-> - Offline maps + battery bank ≫ random scrolling
-> - Keep light and whistle on-person
-> 🏋️ Drill: Walk your route once in daylight; save an offline map and set a one‑page PACE card.
->
-> 🧭 Scenario (Trail day, light rain): Your phone is at 20%. A friend twists an ankle 3 km from trailhead.
-> 🔍 Decisions: Duty‑cycle phone; signal; split or stay; shelter now or move.
-> ✅ Outcome: You STOP, build a quick A‑frame, send a timed text, then hobble together on a handrail to a known rendezvous.
-> 🧠 Lessons:
-> - Safety, shelter, signaling before distance
-> - “One page” checklists reduce flailing
-> 🏋️ Drill: Pack your bag to hit the checklists without digging.
+```
+🧭 Scenario (Urban outage, commute): Power fails at dusk. Elevators stop, data crawls, streets clog. Your GHB is under the desk.
+🔍 Decisions: Stairwell vs wait; route to busier exit; call or text; conserve battery; walk vs rideshare.
+✅ Outcome: You take stairs, text a short WHO/WHERE/WHEN/WHAT/INTENT update, switch to offline map, walk a known route with headlamp on low.
+🧠 Lessons:
+- PACE: voice → text → radio → rendezvous
+- Offline maps + battery bank ≫ random scrolling
+- Keep light and whistle on-person
+🏋️ Drill: Walk your route once in daylight; save an offline map and set a one‑page PACE card.
+
+🧭 Scenario (Trail day, light rain): Your phone is at 20%. A friend twists an ankle 3 km from trailhead.
+🔍 Decisions: Duty‑cycle phone; signal; split or stay; shelter now or move.
+✅ Outcome: You STOP, build a quick A‑frame, send a timed text, then hobble together on a handrail to a known rendezvous.
+🧠 Lessons:
+- Safety, shelter, signaling before distance
+- “One page” checklists reduce flailing
+🏋️ Drill: Pack your bag to hit the checklists without digging.
+```

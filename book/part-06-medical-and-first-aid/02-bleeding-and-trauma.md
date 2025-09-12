@@ -79,11 +79,13 @@ The shirt was already soaked. You dropped to a knee, gloved, and pushed a wad of
 
 ## Scenario
 
-> 🧭 Scenario (Chainsaw gash): Deep thigh laceration; bleeding heavily.
-> 🔍 Decisions: Pressure vs tourniquet first; hemostatic packing; documentation.
-> ✅ Outcome: You apply a high, tight tourniquet until bleeding stops, pack residual cavity with hemostatic gauze, and note TQ time on the patient.
-> 🧠 Lessons: Don’t hesitate on life‑threatening limb bleeds; pack and press
-> 🏋️ Drill: Pack a wound trainer (or towel in bottle) for 3 minutes without peeking.
+```
+🧭 Scenario (Chainsaw gash): Deep thigh laceration; bleeding heavily.
+🔍 Decisions: Pressure vs tourniquet first; hemostatic packing; documentation.
+✅ Outcome: You apply a high, tight tourniquet until bleeding stops, pack residual cavity with hemostatic gauze, and note TQ time on the patient.
+🧠 Lessons: Don’t hesitate on life‑threatening limb bleeds; pack and press
+🏋️ Drill: Pack a wound trainer (or towel in bottle) for 3 minutes without peeking.
+```
 
 ---
 

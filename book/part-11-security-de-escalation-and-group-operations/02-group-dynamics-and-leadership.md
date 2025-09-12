@@ -72,8 +72,10 @@ Examples
 
 ## Scenario
 
-> 🧭 Scenario (Trail team cadence): Four hikers, changing weather.
-> 🔍 Decisions: Who leads; check‑in schedule; turnaround time.
-> ✅ Outcome: You assign roles, run 30‑minute checks, and turn at the planned time, beating the storm.
-> 🧠 Lessons: Roles + cadence prevent quiet failures
-> 🏋️ Drill: Run a 15‑minute “brief → execute → debrief” on a small task today.
+```
+🧭 Scenario (Trail team cadence): Four hikers, changing weather.
+🔍 Decisions: Who leads; check‑in schedule; turnaround time.
+✅ Outcome: You assign roles, run 30‑minute checks, and turn at the planned time, beating the storm.
+🧠 Lessons: Roles + cadence prevent quiet failures
+🏋️ Drill: Run a 15‑minute “brief → execute → debrief” on a small task today.
+```

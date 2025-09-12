@@ -59,8 +59,10 @@ Examples
 
 ## Scenario
 
-> 🧭 Scenario (Storm tarp holds): Wind shifts at 02:00.
-> 🔍 Decisions: Re‑tie corners; add trucker’s hitch; adjust taut‑lines.
-> ✅ Outcome: You tighten guylines with trucker’s hitches, reset taut‑lines, and sleep through the squall.
-> 🧠 Lessons: Bowline + trucker’s + taut‑line = shelter toolkit
-> 🏋️ Drill: Tie these three knots in under 60 seconds, eyes closed.
+```
+🧭 Scenario (Storm tarp holds): Wind shifts at 02:00.
+🔍 Decisions: Re‑tie corners; add trucker’s hitch; adjust taut‑lines.
+✅ Outcome: You tighten guylines with trucker’s hitches, reset taut‑lines, and sleep through the squall.
+🧠 Lessons: Bowline + trucker’s + taut‑line = shelter toolkit
+🏋️ Drill: Tie these three knots in under 60 seconds, eyes closed.
+```

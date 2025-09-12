@@ -69,13 +69,15 @@ Examples
 
 ## Scenario
 
-> 🧭 Scenario (Bus stop at night): A man paces, talking loudly to no one. A car idles with lights off near your route.
-> 🔍 Decisions: Wait vs move; cross early vs commit; call someone now vs later.
-> ✅ Outcome: You cross early to a lit store, call a friend on speaker, and take a longer, well‑lit route.
-> 🧠 Lessons:
-> - Baseline/Anomaly → distance and alternatives
-> - Pre‑decided exits make choices fast
-> 🏋️ Drill: On arrival anywhere, speak your 10‑second baseline aloud.
+```
+🧭 Scenario (Bus stop at night): A man paces, talking loudly to no one. A car idles with lights off near your route.
+🔍 Decisions: Wait vs move; cross early vs commit; call someone now vs later.
+✅ Outcome: You cross early to a lit store, call a friend on speaker, and take a longer, well‑lit route.
+🧠 Lessons:
+- Baseline/Anomaly → distance and alternatives
+- Pre‑decided exits make choices fast
+🏋️ Drill: On arrival anywhere, speak your 10‑second baseline aloud.
+```
 
 ---
 

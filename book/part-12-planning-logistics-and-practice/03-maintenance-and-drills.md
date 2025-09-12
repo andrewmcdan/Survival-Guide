@@ -50,8 +50,10 @@ Examples
 
 ## Scenario
 
-> 🧭 Scenario (30‑minute blackout drill): You flip the main breaker at 20:00.
-> 🔍 Decisions: Light plan; fridge times; comms; AAR notes.
-> ✅ Outcome: You discover two dead batteries, fix placements, and add a fridge thermometer; notes assigned to owners with dates.
-> 🧠 Lessons: Small drills reveal cheap fixes
-> 🏋️ Drill: Put a monthly 30‑minute sprint on the calendar.
+```
+🧭 Scenario (30‑minute blackout drill): You flip the main breaker at 20:00.
+🔍 Decisions: Light plan; fridge times; comms; AAR notes.
+✅ Outcome: You discover two dead batteries, fix placements, and add a fridge thermometer; notes assigned to owners with dates.
+🧠 Lessons: Small drills reveal cheap fixes
+🏋️ Drill: Put a monthly 30‑minute sprint on the calendar.
+```

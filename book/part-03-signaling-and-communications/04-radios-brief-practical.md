@@ -81,8 +81,10 @@ Examples
 
 ## Scenario
 
-> 🧭 Scenario (Neighborhood after storm): Power out, cell congested. Family and two neighbors check in on FRS Ch 2.
-> 🔍 Decisions: Check‑in cadence; message format; who logs.
-> ✅ Outcome: You run top‑of‑hour check‑ins with WHO/WHERE/WHEN/WHAT/INTENT; readbacks confirm; you log decisions.
-> 🧠 Lessons: Cadence + format + readbacks = clarity
-> 🏋️ Drill: Do a 10‑minute radio net with prowords at home.
+```
+🧭 Scenario (Neighborhood after storm): Power out, cell congested. Family and two neighbors check in on FRS Ch 2.
+🔍 Decisions: Check‑in cadence; message format; who logs.
+✅ Outcome: You run top‑of‑hour check‑ins with WHO/WHERE/WHEN/WHAT/INTENT; readbacks confirm; you log decisions.
+🧠 Lessons: Cadence + format + readbacks = clarity
+🏋️ Drill: Do a 10‑minute radio net with prowords at home.
+```

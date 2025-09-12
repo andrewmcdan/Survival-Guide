@@ -52,8 +52,10 @@ Examples
 
 ## Scenario
 
-> 🧭 Scenario (Night flat, tight shoulder): Traffic fast; little room.
-> 🔍 Decisions: Change here vs call; triangle placement; donut limits.
-> ✅ Outcome: You call roadside, place triangles far back, wear high‑viz, and wait behind a barrier.
-> 🧠 Lessons: Visibility and space beat DIY under risk
-> 🏋️ Drill: Practice star‑pattern torque on a safe driveway.
+```
+🧭 Scenario (Night flat, tight shoulder): Traffic fast; little room.
+🔍 Decisions: Change here vs call; triangle placement; donut limits.
+✅ Outcome: You call roadside, place triangles far back, wear high‑viz, and wait behind a barrier.
+🧠 Lessons: Visibility and space beat DIY under risk
+🏋️ Drill: Practice star‑pattern torque on a safe driveway.
+```

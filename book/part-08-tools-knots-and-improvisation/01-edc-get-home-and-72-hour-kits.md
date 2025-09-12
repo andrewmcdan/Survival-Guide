@@ -45,8 +45,10 @@ Examples
 
 ## Scenario
 
-> 🧭 Scenario (Office evac walk): Transit down, 14 km home.
-> 🔍 Decisions: Shoes vs dress flats; water; route; weight.
-> ✅ Outcome: You change to trail runners and socks from the GHB, sip steadily, and walk a safe route in 3 hours.
-> 🧠 Lessons: Weight you carry is the kit you use
-> 🏋️ Drill: Weigh your GHB and try a 5 km loop.
+```
+🧭 Scenario (Office evac walk): Transit down, 14 km home.
+🔍 Decisions: Shoes vs dress flats; water; route; weight.
+✅ Outcome: You change to trail runners and socks from the GHB, sip steadily, and walk a safe route in 3 hours.
+🧠 Lessons: Weight you carry is the kit you use
+🏋️ Drill: Weigh your GHB and try a 5 km loop.
+```

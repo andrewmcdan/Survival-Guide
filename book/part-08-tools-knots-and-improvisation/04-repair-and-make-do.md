@@ -61,8 +61,10 @@ Examples
 
 ## Scenario
 
-> 🧭 Scenario (Tent pole snap): Wind cracks a pole at camp.
-> 🔍 Decisions: Pack up vs splint; materials.
-> ✅ Outcome: You sleeve with a stake, tape tight, add wire wrap, and finish the trip.
-> 🧠 Lessons: Tape + wire + spare stake = portable sleeve
-> 🏋️ Drill: Pre‑pack a flat tape roll and short wire wrap.
+```
+🧭 Scenario (Tent pole snap): Wind cracks a pole at camp.
+🔍 Decisions: Pack up vs splint; materials.
+✅ Outcome: You sleeve with a stake, tape tight, add wire wrap, and finish the trip.
+🧠 Lessons: Tape + wire + spare stake = portable sleeve
+🏋️ Drill: Pre‑pack a flat tape roll and short wire wrap.
+```

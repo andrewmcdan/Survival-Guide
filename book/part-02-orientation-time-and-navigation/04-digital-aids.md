@@ -84,8 +84,10 @@ Examples
 
 ## Scenario
 
-> 🧭 Scenario (Canyon, 9% phone): The dot is jittery under cliff walls.
-> 🔍 Decisions: Trust GPS vs terrain; battery burn vs duty cycle.
-> ✅ Outcome: You switch to airplane + GPS, check position on a 30‑minute cadence, and use handrails; power bank stays warm in jacket.
-> 🧠 Lessons: Duty cycle + terrain association prevents dead‑battery detours
-> 🏋️ Drill: Configure offline maps and a 30‑minute reminder.
+```
+🧭 Scenario (Canyon, 9% phone): The dot is jittery under cliff walls.
+🔍 Decisions: Trust GPS vs terrain; battery burn vs duty cycle.
+✅ Outcome: You switch to airplane + GPS, check position on a 30‑minute cadence, and use handrails; power bank stays warm in jacket.
+🧠 Lessons: Duty cycle + terrain association prevents dead‑battery detours
+🏋️ Drill: Configure offline maps and a 30‑minute reminder.
+```

@@ -72,8 +72,10 @@ Dinner didn’t need a flame. You laid out tortillas, tuna packets, and a squeez
 
 ## Scenario
 
-> 🧭 Scenario (No‑cook 48 h): Power out; you shelter in place.
-> 🔍 Decisions: Ration plan; morale food; protein balance.
-> ✅ Outcome: You set 3 small meals/day with nuts, bars, tuna, crackers; add broth and a square of chocolate for morale.
-> 🧠 Lessons: Simple, dense, low‑risk foods keep you sharp
-> 🏋️ Drill: Build a 48‑hour no‑cook menu from your pantry today.
+```
+🧭 Scenario (No‑cook 48 h): Power out; you shelter in place.
+🔍 Decisions: Ration plan; morale food; protein balance.
+✅ Outcome: You set 3 small meals/day with nuts, bars, tuna, crackers; add broth and a square of chocolate for morale.
+🧠 Lessons: Simple, dense, low‑risk foods keep you sharp
+🏋️ Drill: Build a 48‑hour no‑cook menu from your pantry today.
+```

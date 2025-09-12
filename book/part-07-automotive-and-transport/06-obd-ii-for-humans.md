@@ -56,8 +56,10 @@ Examples
 
 ## Scenario
 
-> 🧭 Scenario (Flashing MIL on grade): Car stumbles, light flashes.
-> 🔍 Decisions: Push to the top vs exit now; read codes or tow.
-> ✅ Outcome: You back off, exit safely, read a P0303 misfire, and tow to avoid catalyst damage.
-> 🧠 Lessons: Flashing MIL = stop soon; code first, then plan
-> 🏋️ Drill: Plug in your reader at home and read a sample code.
+```
+🧭 Scenario (Flashing MIL on grade): Car stumbles, light flashes.
+🔍 Decisions: Push to the top vs exit now; read codes or tow.
+✅ Outcome: You back off, exit safely, read a P0303 misfire, and tow to avoid catalyst damage.
+🧠 Lessons: Flashing MIL = stop soon; code first, then plan
+🏋️ Drill: Plug in your reader at home and read a sample code.
+```

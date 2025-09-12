@@ -67,8 +67,10 @@ Examples
 
 ## Scenario
 
-> 🧭 Scenario (Backcountry injury): No cell, two bars sometimes on a ridge, inReach on shoulder.
-> 🔍 Decisions: Preset vs custom; move for sky view vs stay.
-> ✅ Outcome: You send a preset with precise coords and intent to shelter; you keep the device with sky view and duty‑cycle checks.
-> 🧠 Lessons: Presets + sky view + patience
-> 🏋️ Drill: Program three useful presets today.
+```
+🧭 Scenario (Backcountry injury): No cell, two bars sometimes on a ridge, inReach on shoulder.
+🔍 Decisions: Preset vs custom; move for sky view vs stay.
+✅ Outcome: You send a preset with precise coords and intent to shelter; you keep the device with sky view and duty‑cycle checks.
+🧠 Lessons: Presets + sky view + patience
+🏋️ Drill: Program three useful presets today.
+```

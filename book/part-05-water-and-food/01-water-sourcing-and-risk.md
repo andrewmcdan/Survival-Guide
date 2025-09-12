@@ -69,14 +69,16 @@ Examples
 
 ## Scenarios
 
-> 🧭 Scenario (Temperate creek post‑storm): Water runs brown.
-> 🔍 Decisions: Scoop now vs wait to settle vs walk upstream.
-> ✅ Outcome: You walk upstream away from camp runoff, collect mid‑stream, and pre‑filter cloth before treatment.
-> 🧠 Lessons: Upstream check + pre‑filter beats muddy filters
-> 🏋️ Drill: Practice mid‑column collection without stirring sediment.
->
-> 🧭 Scenario (Urban high‑rise): Mains off, you need water.
-> 🔍 Decisions: Heater tank vs toilet tank; close main first?
-> ✅ Outcome: You close the main, drain the water heater, cool and treat.
-> 🧠 Lessons: Building systems = emergency reservoirs
-> 🏋️ Drill: Locate your heater drain and the main shutoff.
+```
+🧭 Scenario (Temperate creek post‑storm): Water runs brown.
+🔍 Decisions: Scoop now vs wait to settle vs walk upstream.
+✅ Outcome: You walk upstream away from camp runoff, collect mid‑stream, and pre‑filter cloth before treatment.
+🧠 Lessons: Upstream check + pre‑filter beats muddy filters
+🏋️ Drill: Practice mid‑column collection without stirring sediment.
+
+🧭 Scenario (Urban high‑rise): Mains off, you need water.
+🔍 Decisions: Heater tank vs toilet tank; close main first?
+✅ Outcome: You close the main, drain the water heater, cool and treat.
+🧠 Lessons: Building systems = emergency reservoirs
+🏋️ Drill: Locate your heater drain and the main shutoff.
+```

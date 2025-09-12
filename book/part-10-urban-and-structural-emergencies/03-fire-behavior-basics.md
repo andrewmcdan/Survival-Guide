@@ -47,8 +47,10 @@ Examples
 
 ## Scenario
 
-> 🧭 Scenario (Closed‑door survivability): Night fire on another floor.
-> 🔍 Decisions: Door closed vs open; stay or go; window signal.
-> ✅ Outcome: You keep the door closed, seal gaps, signal at the window, and survive until firefighters arrive.
-> 🧠 Lessons: Close before you doze; door control saves lives
-> 🏋️ Drill: Close bedroom doors nightly.
+```
+🧭 Scenario (Closed‑door survivability): Night fire on another floor.
+🔍 Decisions: Door closed vs open; stay or go; window signal.
+✅ Outcome: You keep the door closed, seal gaps, signal at the window, and survive until firefighters arrive.
+🧠 Lessons: Close before you doze; door control saves lives
+🏋️ Drill: Close bedroom doors nightly.
+```

@@ -43,8 +43,10 @@ Examples
 
 ## Scenarios
 
-> 🧭 Scenario (Apartment smoke in hall): Alarm sounds; door feels cool.
-> 🔍 Decisions: SIP vs stairs; materials to seal; keys.
-> ✅ Outcome: You gather keys, phone, go‑bag; crack door cautiously; stairwell is clear; you evacuate. If smoke, you’d seal and signal.
-> 🧠 Lessons: Door control + pre‑staged kit
-> 🏋️ Drill: Time your grab‑and‑go to the stair door.
+```
+🧭 Scenario (Apartment smoke in hall): Alarm sounds; door feels cool.
+🔍 Decisions: SIP vs stairs; materials to seal; keys.
+✅ Outcome: You gather keys, phone, go‑bag; crack door cautiously; stairwell is clear; you evacuate. If smoke, you’d seal and signal.
+🧠 Lessons: Door control + pre‑staged kit
+🏋️ Drill: Time your grab‑and‑go to the stair door.
+```

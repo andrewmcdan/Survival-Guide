@@ -108,8 +108,10 @@ The power was out, and the faucet sputtered. You found a stockpot, two clean jar
 
 ## Scenario
 
-> 🧭 Scenario (Desert pool, murky): Sun drops in 90 minutes.
-> 🔍 Decisions: Boil muddy water vs settle/filter/chemical.
-> ✅ Outcome: You settle, decant, cloth pre‑filter, filter 0.1 µm, then chlorine dioxide for Crypto overnight; you sip your reserve with salt while waiting.
-> 🧠 Lessons: Multi‑barrier tailored to turbidity
-> 🏋️ Drill: Time how much clearer water gets after 30 minutes of settling.
+```
+🧭 Scenario (Desert pool, murky): Sun drops in 90 minutes.
+🔍 Decisions: Boil muddy water vs settle/filter/chemical.
+✅ Outcome: You settle, decant, cloth pre‑filter, filter 0.1 µm, then chlorine dioxide for Crypto overnight; you sip your reserve with salt while waiting.
+🧠 Lessons: Multi‑barrier tailored to turbidity
+🏋️ Drill: Time how much clearer water gets after 30 minutes of settling.
+```

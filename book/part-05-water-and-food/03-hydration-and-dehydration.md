@@ -77,14 +77,16 @@ Examples
 
 ## Scenarios
 
-> 🧭 Scenario (Exposed ridge, heat): No shade for 2 km; wind hot.
-> 🔍 Decisions: Pace/sip cadence; electrolyte now vs later; rest timing.
-> ✅ Outcome: You slow pace, sip 150–200 mL every 15 minutes with light electrolytes, and take 10‑minute rests each hour in micro‑shade.
-> 🧠 Lessons: Cadence + electrolytes prevent spirals
-> 🏋️ Drill: Mark a bottle in 100 mL increments and practice steady intake.
->
-> 🧭 Scenario (GI upset): Nausea, small sips only.
-> 🔍 Decisions: ORS mixing; micro‑doses vs gulps.
-> ✅ Outcome: You mix ORS precisely and give 5–10 mL every 2–3 minutes; nausea eases and urine returns.
-> 🧠 Lessons: Tiny sips win when vomiting
-> 🏋️ Drill: Measure ORS without a spoon using packet or bottle caps (note conversions).
+```
+🧭 Scenario (Exposed ridge, heat): No shade for 2 km; wind hot.
+🔍 Decisions: Pace/sip cadence; electrolyte now vs later; rest timing.
+✅ Outcome: You slow pace, sip 150–200 mL every 15 minutes with light electrolytes, and take 10‑minute rests each hour in micro‑shade.
+🧠 Lessons: Cadence + electrolytes prevent spirals
+🏋️ Drill: Mark a bottle in 100 mL increments and practice steady intake.
+
+🧭 Scenario (GI upset): Nausea, small sips only.
+🔍 Decisions: ORS mixing; micro‑doses vs gulps.
+✅ Outcome: You mix ORS precisely and give 5–10 mL every 2–3 minutes; nausea eases and urine returns.
+🧠 Lessons: Tiny sips win when vomiting
+🏋️ Drill: Measure ORS without a spoon using packet or bottle caps (note conversions).
+```

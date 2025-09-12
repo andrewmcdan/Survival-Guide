@@ -83,8 +83,10 @@ Morning sun warmed the folding panel on the picnic table. You clipped the MPPT c
 
 ## Scenario
 
-> 🧭 Scenario (Post‑storm mix): Fridge warming, phones low, generator in garage…
-> 🔍 Decisions: Where to run generator; vehicle charging; solar angle.
-> ✅ Outcome: You wheel the generator outdoors downwind, run it in intervals with CO alarms inside, vehicle‑charge phones, and top power banks on solar midday.
-> 🧠 Lessons: CO kills—outside only; staggered charging works
-> 🏋️ Drill: Place your generator’s “safe spot” now and mark it.
+```
+🧭 Scenario (Post‑storm mix): Fridge warming, phones low, generator in garage…
+🔍 Decisions: Where to run generator; vehicle charging; solar angle.
+✅ Outcome: You wheel the generator outdoors downwind, run it in intervals with CO alarms inside, vehicle‑charge phones, and top power banks on solar midday.
+🧠 Lessons: CO kills—outside only; staggered charging works
+🏋️ Drill: Place your generator’s “safe spot” now and mark it.
+```

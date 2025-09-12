@@ -46,8 +46,10 @@ Examples
 
 ## Scenario
 
-> 🧭 Scenario (Underpass fills fast): Rain bursts; water rises around cars.
-> 🔍 Decisions: Proceed vs back out; alternate route.
-> ✅ Outcome: You reverse out early and reroute; later you learn cars were stranded.
-> 🧠 Lessons: Early retreat beats getting stuck
-> 🏋️ Drill: Save an alt route in your map app.
+```
+🧭 Scenario (Underpass fills fast): Rain bursts; water rises around cars.
+🔍 Decisions: Proceed vs back out; alternate route.
+✅ Outcome: You reverse out early and reroute; later you learn cars were stranded.
+🧠 Lessons: Early retreat beats getting stuck
+🏋️ Drill: Save an alt route in your map app.
+```

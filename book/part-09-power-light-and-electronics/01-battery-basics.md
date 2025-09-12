@@ -59,8 +59,10 @@ Examples
 
 ## Scenario
 
-> 🧭 Scenario (Winter headlamp save): 0°C and windy; light dims.
-> 🔍 Decisions: Swap cell now; warm spare; duty cycle.
-> ✅ Outcome: You warm a spare 18650 in a pocket, swap, and finish safely on low mode.
-> 🧠 Lessons: Warm cells work; spares buy safety
-> 🏋️ Drill: Standardize your devices on one cell type if possible.
+```
+🧭 Scenario (Winter headlamp save): 0°C and windy; light dims.
+🔍 Decisions: Swap cell now; warm spare; duty cycle.
+✅ Outcome: You warm a spare 18650 in a pocket, swap, and finish safely on low mode.
+🧠 Lessons: Warm cells work; spares buy safety
+🏋️ Drill: Standardize your devices on one cell type if possible.
+```

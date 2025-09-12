@@ -77,8 +77,10 @@ Examples
 
 ## Scenario
 
-> 🧭 Scenario (Text tree in outage): Power out; rumors fly.
-> 🔍 Decisions: Which info to share; channel/time; roles.
-> ✅ Outcome: You run hourly check‑ins on FRS Ch 2, post a simple board in the lobby, and squash a false evacuation rumor.
-> 🧠 Lessons: ICS‑lite + verification prevents chaos
-> 🏋️ Drill: Make a one‑page block plan with channels/times.
+```
+🧭 Scenario (Text tree in outage): Power out; rumors fly.
+🔍 Decisions: Which info to share; channel/time; roles.
+✅ Outcome: You run hourly check‑ins on FRS Ch 2, post a simple board in the lobby, and squash a false evacuation rumor.
+🧠 Lessons: ICS‑lite + verification prevents chaos
+🏋️ Drill: Make a one‑page block plan with channels/times.
+```

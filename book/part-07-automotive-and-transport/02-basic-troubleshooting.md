@@ -103,8 +103,10 @@ Examples
 
 ## Scenario
 
-> 🧭 Scenario (Grocery lot no‑start): Rapid clicks, dome light dim.
-> 🔍 Decisions: Battery vs starter; jump pack vs call; immobilizer light?
-> ✅ Outcome: You spot a loose terminal, tighten, jump with a pack, and drive to test the alternator.
-> 🧠 Lessons: Terminals first; jump packs are gold
-> 🏋️ Drill: Identify your fuse box and battery tie‑downs at home.
+```
+🧭 Scenario (Grocery lot no‑start): Rapid clicks, dome light dim.
+🔍 Decisions: Battery vs starter; jump pack vs call; immobilizer light?
+✅ Outcome: You spot a loose terminal, tighten, jump with a pack, and drive to test the alternator.
+🧠 Lessons: Terminals first; jump packs are gold
+🏋️ Drill: Identify your fuse box and battery tie‑downs at home.
+```

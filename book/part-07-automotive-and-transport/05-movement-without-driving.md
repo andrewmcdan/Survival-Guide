@@ -52,8 +52,10 @@ Examples
 
 ## Scenario
 
-> 🧭 Scenario (Garage push): Dead battery, car nose‑in.
-> 🔍 Decisions: Shift lock; pushers; chocks; comms.
-> ✅ Outcome: You use the shift lock, assign one driver + two pushers + one spotter, set small chocks, and roll out cleanly for a jump.
-> 🧠 Lessons: Roles + signals = safe micro‑moves
-> 🏋️ Drill: Find and test your shift‑lock release.
+```
+🧭 Scenario (Garage push): Dead battery, car nose‑in.
+🔍 Decisions: Shift lock; pushers; chocks; comms.
+✅ Outcome: You use the shift lock, assign one driver + two pushers + one spotter, set small chocks, and roll out cleanly for a jump.
+🧠 Lessons: Roles + signals = safe micro‑moves
+🏋️ Drill: Find and test your shift‑lock release.
+```

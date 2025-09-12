@@ -101,14 +101,16 @@ The forecast lied. Wind veered, rain thickened, and the first pitch flapped like
 
 ## Scenarios
 
-> 🧭 Scenario (Squall line): Wind shifts and rain hits hard.
-> 🔍 Decisions: Low A‑frame vs lean‑to; beak or not; vent gap.
-> ✅ Outcome: You pitch a low A‑frame, beak one end, keep a small vent, and sleep dry.
-> 🧠 Lessons: Small/low/vented beats flappy palaces
-> 🏋️ Drill: Time yourself pitching low in 3 minutes.
->
-> 🧭 Scenario (Deep snow, calm):
-> 🔍 Decisions: Trench vs quinzhee; venting; platform.
-> ✅ Outcome: You dig a trench with a tarp roof and a raised sleeping shelf; vent hole open.
-> 🧠 Lessons: Cold‑air sump + raised bed = warmest sleep
-> 🏋️ Drill: Build a mock trench without snow using gear layout.
+```
+🧭 Scenario (Squall line): Wind shifts and rain hits hard.
+🔍 Decisions: Low A‑frame vs lean‑to; beak or not; vent gap.
+✅ Outcome: You pitch a low A‑frame, beak one end, keep a small vent, and sleep dry.
+🧠 Lessons: Small/low/vented beats flappy palaces
+🏋️ Drill: Time yourself pitching low in 3 minutes.
+
+🧭 Scenario (Deep snow, calm):
+🔍 Decisions: Trench vs quinzhee; venting; platform.
+✅ Outcome: You dig a trench with a tarp roof and a raised sleeping shelf; vent hole open.
+🧠 Lessons: Cold‑air sump + raised bed = warmest sleep
+🏋️ Drill: Build a mock trench without snow using gear layout.
+```

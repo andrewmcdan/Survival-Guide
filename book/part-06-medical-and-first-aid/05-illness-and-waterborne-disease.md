@@ -49,8 +49,10 @@ Examples
 
 ## Scenario
 
-> 🧭 Scenario (Camp GI spread): Two of four have diarrhea after a river swim.
-> 🔍 Decisions: Keep moving vs rest; anti‑diarrheals; hygiene controls.
-> ✅ Outcome: You rest, mix ORS, improve water treatment, separate cook gear, and recover next day.
-> 🧠 Lessons: Hydration + hygiene > speed
-> 🏋️ Drill: Pack ORS packets in each kit and learn the home recipe by heart.
+```
+🧭 Scenario (Camp GI spread): Two of four have diarrhea after a river swim.
+🔍 Decisions: Keep moving vs rest; anti‑diarrheals; hygiene controls.
+✅ Outcome: You rest, mix ORS, improve water treatment, separate cook gear, and recover next day.
+🧠 Lessons: Hydration + hygiene > speed
+🏋️ Drill: Pack ORS packets in each kit and learn the home recipe by heart.
+```

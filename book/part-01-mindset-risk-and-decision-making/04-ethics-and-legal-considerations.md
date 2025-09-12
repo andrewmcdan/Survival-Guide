@@ -71,10 +71,12 @@ Examples
 
 ## Scenario
 
-> 🧭 Scenario (Storm, locked lobby): A glass‑walled office tower is the only dry place in a hailstorm. A person is bleeding outside.
-> 🔍 Decisions: Break in vs shelter under overhang; call security or 911; consent to treat?
-> ✅ Outcome: You move under the overhang, call 911 and building security, control bleeding with pressure, and avoid illegal entry.
-> 🧠 Lessons:
-> - Render aid within training and consent
-> - Prefer legal, safe alternatives; involve authorities
-> 🏋️ Drill: Write your “why I didn’t break in” note to yourself now, so it’s easy later.
+```
+🧭 Scenario (Storm, locked lobby): A glass‑walled office tower is the only dry place in a hailstorm. A person is bleeding outside.
+🔍 Decisions: Break in vs shelter under overhang; call security or 911; consent to treat?
+✅ Outcome: You move under the overhang, call 911 and building security, control bleeding with pressure, and avoid illegal entry.
+🧠 Lessons:
+- Render aid within training and consent
+- Prefer legal, safe alternatives; involve authorities
+🏋️ Drill: Write your “why I didn’t break in” note to yourself now, so it’s easy later.
+```

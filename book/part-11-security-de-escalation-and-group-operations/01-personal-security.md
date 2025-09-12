@@ -76,8 +76,10 @@ Examples
 
 ## Scenario
 
-> 🧭 Scenario (Boundary at bus stop): Someone closes distance, asks for money aggressively.
-> 🔍 Decisions: Verbal boundary; move; call; crowd proximity.
-> ✅ Outcome: You put up a hand, say “Stop. I don’t want trouble. I’m leaving,” cross to a lit store, and phone a friend.
-> 🧠 Lessons: Clear boundary + movement + witnesses
-> 🏋️ Drill: Practice your boundary phrase aloud, calmly.
+```
+🧭 Scenario (Boundary at bus stop): Someone closes distance, asks for money aggressively.
+🔍 Decisions: Verbal boundary; move; call; crowd proximity.
+✅ Outcome: You put up a hand, say “Stop. I don’t want trouble. I’m leaving,” cross to a lit store, and phone a friend.
+🧠 Lessons: Clear boundary + movement + witnesses
+🏋️ Drill: Practice your boundary phrase aloud, calmly.
+```

@@ -153,20 +153,22 @@ Examples
 
 ## Scenarios
 
-> 🧭 Scenario (Flash flood reroute): Underpass pooled with fast water.
-> 🔍 Decisions: Push through vs turn around; alt route time.
-> ✅ Outcome: You turn, take a higher parallel street, and arrive late but safe.
-> 🧠 Lessons: “Turn around, don’t drown” saves lives
-> 🏋️ Drill: Identify three low spots on your commute and alternates.
->
-> 🧭 Scenario (Quake aftershock): Stairs or shelter in place?
-> 🔍 Decisions: Wait for shaking to stop; check for hazards; exit path.
-> ✅ Outcome: You wait, grab go‑bag, avoid glass curtain wall, and descend via stairs to the rally point.
-> 🧠 Lessons: Two exits known in advance beat panic
-> 🏋️ Drill: Walk two exits for home/work/school.
->
-> 🧭 Scenario (Wildfire smoke day): AQI spikes; distant plume shifts toward town.
-> 🔍 Decisions: Leave now vs monitor; mask; route selection.
-> ✅ Outcome: You don N95s, shut HVAC, load go‑bags, and depart on the upwind alternate before routes clog.
-> 🧠 Lessons: Pre‑set triggers + early departure prevent being trapped
-> 🏋️ Drill: Pick two wildfire evacuation triggers for your area.
+```
+🧭 Scenario (Flash flood reroute): Underpass pooled with fast water.
+🔍 Decisions: Push through vs turn around; alt route time.
+✅ Outcome: You turn, take a higher parallel street, and arrive late but safe.
+🧠 Lessons: “Turn around, don’t drown” saves lives
+🏋️ Drill: Identify three low spots on your commute and alternates.
+
+🧭 Scenario (Quake aftershock): Stairs or shelter in place?
+🔍 Decisions: Wait for shaking to stop; check for hazards; exit path.
+✅ Outcome: You wait, grab go‑bag, avoid glass curtain wall, and descend via stairs to the rally point.
+🧠 Lessons: Two exits known in advance beat panic
+🏋️ Drill: Walk two exits for home/work/school.
+
+🧭 Scenario (Wildfire smoke day): AQI spikes; distant plume shifts toward town.
+🔍 Decisions: Leave now vs monitor; mask; route selection.
+✅ Outcome: You don N95s, shut HVAC, load go‑bags, and depart on the upwind alternate before routes clog.
+🧠 Lessons: Pre‑set triggers + early departure prevent being trapped
+🏋️ Drill: Pick two wildfire evacuation triggers for your area.
+```

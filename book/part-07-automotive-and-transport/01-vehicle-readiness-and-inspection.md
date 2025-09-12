@@ -61,8 +61,10 @@ Examples
 
 ## Scenario
 
-> 🧭 Scenario (Pre‑trip save): A drywall screw in a rear tire on the walkaround.
-> 🔍 Decisions: Drive anyway vs plug now; compressor ready?
-> ✅ Outcome: You plug the tread, air to placard pressure, and avoid a freeway shoulder change at night.
-> 🧠 Lessons: Five minutes saves hours
-> 🏋️ Drill: Plug a tire on an old carcass or practice on a demo kit.
+```
+🧭 Scenario (Pre‑trip save): A drywall screw in a rear tire on the walkaround.
+🔍 Decisions: Drive anyway vs plug now; compressor ready?
+✅ Outcome: You plug the tread, air to placard pressure, and avoid a freeway shoulder change at night.
+🧠 Lessons: Five minutes saves hours
+🏋️ Drill: Plug a tire on an old carcass or practice on a demo kit.
+```

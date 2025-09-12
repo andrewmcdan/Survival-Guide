@@ -50,8 +50,10 @@ Examples
 
 ## Scenario
 
-> 🧭 Scenario (Saw bind avoided): Limb under load; saw starts to pinch.
-> 🔍 Decisions: Force vs wedge; change cut; PPE.
-> ✅ Outcome: You wedge the kerf, change the angle, and finish safely.
-> 🧠 Lessons: Let the saw cut; wedge binds
-> 🏋️ Drill: Practice kerf wedging on scrap wood.
+```
+🧭 Scenario (Saw bind avoided): Limb under load; saw starts to pinch.
+🔍 Decisions: Force vs wedge; change cut; PPE.
+✅ Outcome: You wedge the kerf, change the angle, and finish safely.
+🧠 Lessons: Let the saw cut; wedge binds
+🏋️ Drill: Practice kerf wedging on scrap wood.
+```

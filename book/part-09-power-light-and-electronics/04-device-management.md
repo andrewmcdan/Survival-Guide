@@ -62,8 +62,10 @@ Your phone stayed off in a jacket pocket next to the warm power bank. Your partn
 
 ## Scenario
 
-> 🧭 Scenario (Family power ladder): Outage for two days.
-> 🔍 Decisions: Which device stays on; who carries the bank; check cadence.
-> ✅ Outcome: One phone stays on for alerts, others cycle off; banks rotate; check‑ins hourly then 6‑hourly overnight.
-> 🧠 Lessons: Prioritize life‑safety devices; schedule the rest
-> 🏋️ Drill: Make a “device priority” sticky for the fridge.
+```
+🧭 Scenario (Family power ladder): Outage for two days.
+🔍 Decisions: Which device stays on; who carries the bank; check cadence.
+✅ Outcome: One phone stays on for alerts, others cycle off; banks rotate; check‑ins hourly then 6‑hourly overnight.
+🧠 Lessons: Prioritize life‑safety devices; schedule the rest
+🏋️ Drill: Make a “device priority” sticky for the fridge.
+```
