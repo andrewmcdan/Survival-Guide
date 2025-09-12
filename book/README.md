@@ -59,6 +59,7 @@ Download: [Latest Release (PDF & EPUB)](https://github.com/andrewmcdan/Survival-
 - [4. On-Road Emergencies](part-07-automotive-and-transport/04-on-road-emergencies.html)
 - [5. Movement Without Driving](part-07-automotive-and-transport/05-movement-without-driving.html)
 - [6. OBD-II for Humans](part-07-automotive-and-transport/06-obd-ii-for-humans.html)
+- [7. Hotwiring — Legal Considerations & Alternatives](part-07-automotive-and-transport/07-hotwiring-legal-considerations-and-alternatives.html)
 
 ## Part VIII — Tools, Knots & Improvisation
 - [1. EDC, Get-Home, and 72-Hour Kits](part-08-tools-knots-and-improvisation/01-edc-get-home-and-72-hour-kits.html)

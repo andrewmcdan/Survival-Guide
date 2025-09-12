@@ -48,6 +48,7 @@ book/part-07-automotive-and-transport/03-basic-vehicle-fluids.md
 book/part-07-automotive-and-transport/04-on-road-emergencies.md
 book/part-07-automotive-and-transport/05-movement-without-driving.md
 book/part-07-automotive-and-transport/06-obd-ii-for-humans.md
+book/part-07-automotive-and-transport/07-hotwiring-legal-considerations-and-alternatives.md
 
 book/_parts/27-part-08.md
 book/part-08-tools-knots-and-improvisation/01-edc-get-home-and-72-hour-kits.md
