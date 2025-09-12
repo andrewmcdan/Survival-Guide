@@ -22,10 +22,10 @@ To keep callouts consistent and readable across browsers, we use simple Unicode 
 
 Formatting pattern (choose one of the two styles):
 
-1) Inline callout
+1. Inline callout
 > ⚠️ Caution: Hot exhaust can ignite dry grass.
 
-2) Label prefix on its own line
+1. Label prefix on its own line
 ⚠️ Caution
 - Park on bare soil or pavement before working under a vehicle.
 
@@ -82,7 +82,7 @@ If you spot a mistake or have a practical improvement, open an issue or submit a
 > - Offline maps + battery bank ≫ random scrolling
 > - Keep light and whistle on-person
 > 🏋️ Drill: Walk your route once in daylight; save an offline map and set a one‑page PACE card.
-
+>
 > 🧭 Scenario (Trail day, light rain): Your phone is at 20%. A friend twists an ankle 3 km from trailhead.
 > 🔍 Decisions: Duty‑cycle phone; signal; split or stay; shelter now or move.
 > ✅ Outcome: You STOP, build a quick A‑frame, send a timed text, then hobble together on a handrail to a known rendezvous.

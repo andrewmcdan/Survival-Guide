@@ -92,7 +92,7 @@ Examples
 > - Rule of 3s: thermal outranks water/food
 > - STOP resets panic into action
 > 🏋️ Drill: Practice a 2‑minute STOP under a cold fan.
-
+>
 > 🧭 Scenario (Urban blackout): Power down, cell data jammed, elderly neighbor on oxygen.
 > 🔍 Decisions: Check neighbor vs drive; signal family; power priorities.
 > ✅ Outcome: You check neighbor, send WHO/WHERE/WHEN/WHAT/INTENT by SMS, set hourly check‑ins, and avoid risky driving.

@@ -38,10 +38,10 @@ Plan — Go/No‑Go thresholds set? Decision points and backstops noted? If not 
 Decide: Green = proceed; Amber = proceed with controls; Red = stop/change plan.
 
 ## PACE Comms Quick Card
-Primary: call — ___
-Alternate: text/app — ___
-Contingency: radio Ch ___ / Tone ___ @ __:__ for __ minutes
-Emergency: Rendezvous at __________ by __:__ if comms fail
+Primary: call — [fill]
+Alternate: text/app — [fill]
+Contingency: radio Ch [ch] / Tone [tone] @ [hh:mm] for [mins]
+Emergency: Rendezvous at [place] by [hh:mm] if comms fail
 
 Message: WHO / WHERE / WHEN / WHAT / INTENT
 

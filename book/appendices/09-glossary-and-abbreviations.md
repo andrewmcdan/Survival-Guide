@@ -2,7 +2,7 @@
 title: Glossary & Acronyms
 layout: default
 ---
-
+ 
 # Glossary & Acronyms
 
 Terms and abbreviations used throughout the book. Use as quick reference; see chapters for context and procedures.
@@ -40,4 +40,3 @@ Navigation
 
 Legal/Ethics
 - Good Samaritan: Jurisdiction‑specific protections for lay responders acting in good faith within training; limits vary.
-

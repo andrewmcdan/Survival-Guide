@@ -8,10 +8,10 @@ layout: default
 ## Channel Plans
 Template (fill in and share)
 
-- Primary: FRS/GMRS Ch __, tone __, check‑ins at __:__ and __:__
-- Alternate: FRS/GMRS Ch __, tone __ (or SMS on the hour)
-- Contingency: Monitor Ch __ 10 minutes past the hour
-- Emergency: Meet at __ by __; emergency services via __
+- Primary: FRS/GMRS Ch [ch], tone [tone], check‑ins at [hh:mm] and [hh:mm]
+- Alternate: FRS/GMRS Ch [ch], tone [tone] (or SMS on the hour)
+- Contingency: Monitor Ch [ch] 10 minutes past the hour
+- Emergency: Meet at [place] by [hh:mm]; emergency services via [method]
 
 ## Phonetic Alphabet
 NATO Phonetic
@@ -31,9 +31,9 @@ Radio Etiquette
 ## PACE Card
 Fill, print, and share within your group.
 
-- Primary (P): __________ Ch ___ / Tone ___ — Check‑ins at __:__ / __:__
-- Alternate (A): ________ Ch ___ / Tone ___ — or SMS on the hour
-- Contingency (C): Monitor Ch ___ from __:__ to __:__ (mins past hour)
-- Emergency (E): Rendezvous at __________ by __:__ if comms fail
+- Primary (P): Channel [ch] / Tone [tone] — Check‑ins at [hh:mm] / [hh:mm]
+- Alternate (A): Channel [ch] / Tone [tone] — or SMS on the hour
+- Contingency (C): Monitor Ch [ch] from [hh:mm] to [hh:mm] (mins past hour)
+- Emergency (E): Rendezvous at [place] by [hh:mm] if comms fail
 
 Message format (all channels): WHO / WHERE / WHEN / WHAT / INTENT

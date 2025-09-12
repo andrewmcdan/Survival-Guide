@@ -79,7 +79,7 @@ Examples
 > ✅ Outcome: You sweep mirror flashes toward the lane and tramp a giant V on the sand near a headland.
 > 🧠 Lessons: Contrast + movement near handrails = detection
 > 🏋️ Drill: Practice mirror sighting at 500 m.
-
+>
 > 🧭 Scenario (Snowfield): Helicopter heard faintly.
 > 🔍 Decisions: Symbol choice; stroke length.
 > ✅ Outcome: You stamp a huge X and stand clear; they spot you.

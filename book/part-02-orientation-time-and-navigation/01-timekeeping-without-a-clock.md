@@ -102,7 +102,7 @@ Sand/soil hourglass:
 > - Timeboxing beats wishful thinking
 > - Fist rule + turnaround saves daylight
 > 🏋️ Drill: Count fist‑widths to sunset three evenings in a row.
-
+>
 > 🧭 Scenario (Alpine morning): You need 90 minutes to traverse talus before storms.
 > 🔍 Decisions: Pace count vs phone timer; rest cadence.
 > ✅ Outcome: You use beads and 30‑min checks; you beat the storm line.

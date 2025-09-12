@@ -80,7 +80,7 @@ Examples
 > ✅ Outcome: You build a quick A→B shadow line for east–west, choose a distant butte on your bearing, and walk leg‑to‑leg.
 > 🧠 Lessons: Two cues beat one; pick attack points
 > 🏋️ Drill: Practice shadow‑line in 20 minutes.
-
+>
 > 🧭 Scenario (Southern hemisphere night): You find the Southern Cross.
 > 🔍 Decisions: Which way is south? Which landmark to pick?
 > ✅ Outcome: Extend Crux, drop to horizon for south; you mark a dune and travel to it deliberately.

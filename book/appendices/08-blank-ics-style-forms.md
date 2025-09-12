@@ -3,6 +3,8 @@ title: Blank ICS-Style Forms
 layout: default
 ---
 
+<!-- markdownlint-disable MD035 -->
+
 # Blank ICS-Style Forms
 
 ## Message Form
@@ -30,8 +32,7 @@ ________________________________________
 Notes/Updates (time‑stamped):
 - ____ — ___________________________________
 - ____ — ___________________________________
-
-
+ 
 ## Situation Board
 Incident: ______________________________  Start: ____  Current: ____
 
