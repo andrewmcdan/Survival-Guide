@@ -1,6 +1,4 @@
-# Working Title
-
-**Fieldcraft for the Unplanned: A Practical Guide to Emergencies & Survival**
+# Fieldcraft for the Unplanned: A Practical Guide to Emergencies & Survival
 
 # **Front Matter**
 
