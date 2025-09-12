@@ -100,7 +100,7 @@ The forecast lied. Wind veered, rain thickened, and the first pitch flapped like
 > ✅ Outcome: You pitch a low A‑frame, beak one end, keep a small vent, and sleep dry.
 > 🧠 Lessons: Small/low/vented beats flappy palaces
 > 🏋️ Drill: Time yourself pitching low in 3 minutes.
-
+>
 > 🧭 Scenario (Deep snow, calm):
 > 🔍 Decisions: Trench vs quinzhee; venting; platform.
 > ✅ Outcome: You dig a trench with a tarp roof and a raised sleeping shelf; vent hole open.

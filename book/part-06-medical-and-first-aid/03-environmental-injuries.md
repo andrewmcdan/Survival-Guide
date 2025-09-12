@@ -104,7 +104,7 @@ Examples
 > ✅ Outcome: You immobilize, keep limb at heart level, mark swelling times, and evacuate without walking far; you call Poison Control.
 > 🧠 Lessons: No cutting/sucking; immobilize and go
 > 🏋️ Drill: Practice a snug pressure wrap on a partner (elapid regions).
-
+>
 > 🧭 Scenario (Bee swarm, urban): Two stings; hives spread; wheeze starts.
 > 🔍 Decisions: Epi now or wait; antihistamine; EMS.
 > ✅ Outcome: You give Epi promptly, call EMS, and monitor airway.

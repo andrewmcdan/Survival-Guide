@@ -93,4 +93,3 @@ Example — River crossing decision (shoulder‑season):
 - Use simple Green/Amber/Red language to make risk visible and actionable.
 - Share Leader’s Intent so teammates can improvise toward the same end state.
 - Write clear if/then triggers tied to observable conditions; rehearse them.
-

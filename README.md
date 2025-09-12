@@ -4,8 +4,8 @@ Practical, online‑first guide to emergencies and short‑term survival for lay
 
 ## Quick Links
 
-- Read the book online: https://andrewmcdan.github.io/Survival-Guide/
-- Download PDF/EPUB (Latest Release): https://github.com/andrewmcdan/Survival-Guide/releases/latest
+- Read the book online: [andrewmcdan.github.io/Survival-Guide](https://andrewmcdan.github.io/Survival-Guide/)
+- Download PDF/EPUB (Latest Release): [GitHub Releases](https://github.com/andrewmcdan/Survival-Guide/releases/latest)
 - Table of Contents (in repo): `book/README.md`
 
 ## About the Project
@@ -16,4 +16,3 @@ Practical, online‑first guide to emergencies and short‑term survival for lay
 ## Contributing
 
 Spot an error or have a practical improvement? Open an issue or submit a PR with small, focused changes. Real‑world observations that improve clarity and safety are welcome.
-

@@ -21,4 +21,3 @@ Guidelines
 - Use short, imperative text after the label.
 - Prefer one actionable sentence; keep lists to 3–5 bullets.
 - Place medical and legal notes near relevant steps; don’t bury critical warnings.
-

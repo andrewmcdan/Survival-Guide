@@ -84,4 +84,3 @@ Examples
 - Label anomalies and verify before acting; prioritize by proximity and momentum toward you.
 - Pre‑build 2–3 what‑if branches for top risks; tie them to triggers and actions.
 - Control light, sound, and scent signatures deliberately; don’t let them control you.
-

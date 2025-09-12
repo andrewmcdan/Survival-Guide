@@ -94,4 +94,3 @@ The shirt was already soaked. You dropped to a knee, gloved, and pushed a wad of
 - Tourniquets save lives when used early and correctly; don’t loosen in the field.
 - Pack deep wounds with hemostatic gauze and hold pressure long enough to clot.
 - Splint and dress to protect; reassess circulation and bleeding frequently.
-

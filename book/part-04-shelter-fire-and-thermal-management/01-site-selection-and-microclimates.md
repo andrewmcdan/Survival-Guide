@@ -92,7 +92,7 @@ Examples
 > ✅ Outcome: You pick the lee bench, stake low, trench lightly where allowed, and stay dry.
 > 🧠 Lessons: Drainage + wind break beats “pretty view”
 > 🏋️ Drill: Walk a park after rain and map water flow.
-
+>
 > 🧭 Scenario (Urban smoke): AQI spikes; ash falling.
 > 🔍 Decisions: SIP room vs leave; sealing; ventilation.
 > ✅ Outcome: You choose an interior room, seal, run HEPA, and monitor alerts.

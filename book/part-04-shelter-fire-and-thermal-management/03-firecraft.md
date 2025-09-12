@@ -111,7 +111,7 @@ Examples
 > ✅ Outcome: You split to dry cores, carve feather sticks, light cotton/vaseline with a ferro rod, and build a small log cabin; hot drink restores morale.
 > 🧠 Lessons: Dry inner wood + structure + patience
 > 🏋️ Drill: Start a fire in rain under a tarp edge.
-
+>
 > 🧭 Scenario (High fire danger):
 > 🔍 Decisions: Fire vs stove vs no flame.
 > ✅ Outcome: You skip open flame, use a stove on mineral soil, and rely on insulation.
