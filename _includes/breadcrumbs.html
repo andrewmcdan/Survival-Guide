@@ -1,0 +1,23 @@
+{% assign url = page.url %}
+{% if url == '/' or url == '/index.html' %}
+  {% comment %}no breadcrumbs on homepage{% endcomment %}
+{% else %}
+{% assign path_parts = url | split: '/' %}
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+  <ol>
+    <li><a href="{{ '/' | relative_url }}">Home</a></li>
+    {% if path_parts.size > 1 and path_parts[1] == 'book' %}
+      <li><a href="{{ '/book/README.html' | relative_url }}">Contents</a></li>
+      {% if path_parts.size > 2 and path_parts[2] contains 'part-' %}
+        {% assign words = path_parts[2] | split: '-' %}
+        {% capture part_num %}{{ words[1] }}{% endcapture %}
+        {% capture part_label %}{% for w in words %}{% if forloop.index > 2 %}{{ w | replace: 'and', 'and' | capitalize }}{% unless forloop.last %} {% endunless %}{% endif %}{% endfor %}{% endcapture %}
+        {% if part_label != '' %}
+          <li aria-current="false">Part {{ part_num }} — {{ part_label }}</li>
+        {% endif %}
+      {% endif %}
+    {% endif %}
+    <li aria-current="page">{{ page.title }}</li>
+  </ol>
+  </nav>
+{% endif %}
