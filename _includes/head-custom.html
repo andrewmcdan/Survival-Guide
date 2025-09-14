@@ -13,6 +13,7 @@
   color: #000000;
 }
 .breadcrumbs li { color: #000000; }
+.breadcrumbs li[aria-current="page"] { color: #000000 !important; font-weight: 600; }
 .breadcrumbs a { color: #0366d6; text-decoration: none; }
 .breadcrumbs a:hover { text-decoration: underline; }
 .breadcrumbs li+li:before {
@@ -22,8 +23,8 @@
 }
 @media (prefers-color-scheme: dark) {
   .breadcrumbs li { color: #ddd; }
+  .breadcrumbs li[aria-current="page"] { color: #ffffff !important; }
   .breadcrumbs a { color: #58a6ff; }
   .breadcrumbs li+li:before { color: #000000; }
 }
 </style>
-
