@@ -8,6 +8,8 @@ layout: default
 ## Overview
 Shelter buys you time by slowing heat loss or gain. Prioritize ground insulation, wind control, and moisture management before fancy roofs. Build fast, small, and strong; add comfort later. Ventilate to control condensation and avoid CO risk.
 
+Skill Level: Basic–Intermediate
+
 ## Debris Hut
 Insulated, low profile, good for cold still nights with minimal kit.
 
@@ -26,6 +28,8 @@ Fast, weatherworthy shelter for rain/wind.
 - Orientation: Narrow end toward prevailing wind; leave lee side slightly lower.
 - Edges: Stake taut; add mid‑panel guylines for strength; dig a small drip trench only where permitted.
 - Ground: Use a groundsheet; slope away; add a pad and extra insulation.
+
+📝 See also: For fast pitching and adjustments, tie ridgelines with a trucker’s hitch and use taut‑line hitches on guylines (see: Tools, Knots & Improvisation → Cordage & Knots).
 
 Anchors & angles (sand/snow)
 - Deadman anchors: Bury sticks/stakes/stuff sacks filled with snow/sand at least 20–30 cm deep with guylines attached; tamp and let set.
@@ -52,6 +56,7 @@ Snow shelters insulate well if built and ventilated correctly.
 💡 Tip: Smooth the interior ceiling of snow shelters to reduce dripping as it warms.
 
 ⚠️ Caution: Collapse risk. Probe roof regularly; never build where roof failure buries you in hazard (tree wells, over streams). Keep a shovel inside.
+⛑️ First Aid: Candles can create CO and deplete oxygen in snow shelters. If used at all, keep a clear vent, monitor constantly, and extinguish before sleep. Prefer warm clothing and proper insulation over open flame.
 
 ## Vehicle Sheltering
 Vehicles are solid wind/rain shelters with major caveats.

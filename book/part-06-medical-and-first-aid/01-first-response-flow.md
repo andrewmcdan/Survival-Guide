@@ -8,6 +8,8 @@ layout: default
 ## Overview
 Do the most good without becoming a casualty. Use a simple, repeatable flow: secure the scene, find and treat life‑threats fast (MARCH‑E), then expand care and plan evacuation. Pair this with clear communication and documentation.
 
+Skill Level: Basic
+
 ## Scene Safety
 Scan before you touch.
 
@@ -21,7 +23,7 @@ Scan before you touch.
 Fast check for life‑threats in this order; shout for help or assign tasks as you go.
 
 - Responsiveness: AVPU (Alert, responds to Voice, to Pain, Unresponsive).
-- Airway/Breathing: Is the airway open? Are they breathing? If not, start CPR if trained and appropriate. Attach an AED if available and follow prompts; minimize interruptions to compressions and resume immediately after shocks per device instructions.
+- Airway/Breathing: Is the airway open? Are they breathing? If not, start CPR. Hands‑only chest compressions are appropriate for untrained lay rescuers. Attach an AED if available and follow prompts; minimize interruptions to compressions and resume immediately after shocks per device instructions.
 - Massive bleeding: Look for and control heavy external bleeding immediately.
 - Position: Place on back for assessment unless vomiting (recovery position) or trauma suggests spinal care.
 
@@ -45,6 +47,8 @@ Assess rate, depth, symmetry; expose and look for chest wounds.
 
 - Open chest wounds: Cover with vented chest seal if available; if none, improvise with plastic and monitor for respiratory distress.
 - Support: Sit up or position of comfort if breathing is painful/difficult.
+ 
+⚠️ Caution — Tension Pneumothorax Red Flags: Severe chest trauma with worsening breathing, increasing distress, unequal breath sounds, cyanosis, and signs of shock may indicate a tension pneumothorax. Do not attempt needle decompression unless trained and authorized; prioritize rapid evacuation.
 
 ### Circulation
 Check pulse, skin color/temp/cap refill; manage shock.
@@ -101,3 +105,9 @@ Examples
 🧠 Lessons: MARCH‑E sequence + insulation early
 🏋️ Drill: Say MARCH‑E out loud while laying out your kit.
 ```
+
+See also
+- Bleeding & Trauma: book/part-06-medical-and-first-aid/02-bleeding-and-trauma.html
+- Environmental Injuries: book/part-06-medical-and-first-aid/03-environmental-injuries.html
+- Evacuation, Triage & Handover: book/part-06-medical-and-first-aid/06-evacuation-triage-and-handover.html
+- At‑a‑Glance Cards (MARCH‑E): book/appendices/01-at-a-glance-cards.html

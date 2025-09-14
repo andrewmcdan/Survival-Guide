@@ -8,6 +8,8 @@ layout: default
 ## Overview
 Where you stop often matters more than what you carry. Good sites keep you dry, block wind, reduce radiant heat loss or gain, and avoid overhead and ground hazards. In towns, “safe rooms” protect from glass and debris while preserving breathable air.
 
+Skill Level: Basic
+
 ## Drainage
 Keep water moving past you, not through you.
 
@@ -42,6 +44,8 @@ Diurnal wind patterns
 
 ⚠️ Caution: Lightning risk grows on exposed ridges and near tall isolated trees. Follow 30/30 guidance (see Risk Assessment) and move off high ground when storms approach.
 
+📝 Note: 30/30 Rule — If the time between a lightning flash and the thunder is under 30 seconds, you are close enough to be struck. Get to a safe building or a fully enclosed metal vehicle immediately and wait at least 30 minutes after the last thunder before resuming exposed activities (NOAA Lightning Safety: https://www.weather.gov/safety/lightning-outdoors).
+
 ## Radiant Hazards
 Manage heat gain/loss from nearby surfaces.
 
@@ -58,11 +62,13 @@ Pick spaces that protect from glass, debris, and exterior hazards.
 
 ⚖️ Legal: Know building policies for access and alarms; do not block exits.
 
+💡 Tip: For smoke days, a simple DIY “clean room” air filter (often called a Corsi–Rosenthal box) made from a box fan and MERV‑13 filters can noticeably improve indoor air. Use UL‑listed fans, orient filters correctly, and never leave running unattended in unsafe locations.
+
 ## Standoff Distances (Rules of Thumb)
 - Watercourses: 60–70 m (200–230 ft) setback to reduce flood risk and contamination.
 - Cliffs/cornices: Stay back at least body length + pack from edges; more in snow/corniced ridges.
 - Trees: Avoid within 1.5× tree height of dead/dying trees in wind.
-- Avalanche slopes/runouts: Avoid obvious avalanche paths, loaded lee slopes, and runout zones.
+- Avalanche slopes/runouts: Avoid obvious avalanche paths, loaded lee slopes, and runout zones. Most slab avalanches occur on slopes ~30–45°. Check your local avalanche forecast before travel (e.g., https://avalanche.org) and avoid avalanche terrain entirely without training and proper gear.
 
 ☑️ Checklist — Site Quick Scan
 - Ground drains away from sleeping area
@@ -75,6 +81,8 @@ Pick spaces that protect from glass, debris, and exterior hazards.
 Examples
 - Shoulder‑season storm: Bench 20 m above creek, lee of low ridge, no overhead hazards; pitch low A‑frame, dig shallow trench to shed runoff.
 - Hot urban blackout: Interior hallway room with door; block light leaks, open window only on the shaded side at night, create cross‑breeze with a fan if power exists.
+
+📝 Note: Near water, insect pressure can be intense. In bug seasons, camp 50–100 m off water with slight breeze exposure and use head nets/repellent as needed to balance drainage with comfort.
 
 ---
 
@@ -90,6 +98,10 @@ Examples
 - Dry, wind‑sheltered, hazard‑free ground beats most gear shortcomings.
 - Think in three layers: drainage (ground), wind (air), radiation (surfaces/sky).
 - In towns, pick interior rooms away from glass; in wild, pick benches away from lows/highs.
+
+See also
+- Emergency Shelter Types: book/part-04-shelter-fire-and-thermal-management/02-emergency-shelter-types.html
+- Firecraft: book/part-04-shelter-fire-and-thermal-management/03-firecraft.html
 
 ## Scenarios
 

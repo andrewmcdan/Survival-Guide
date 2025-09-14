@@ -10,6 +10,7 @@ Terms and abbreviations used throughout the book. Use as quick reference; see ch
 - AED: Automated External Defibrillator — portable device that analyzes heart rhythm and gives voice prompts to deliver a shock when indicated.
 - AVPU: Alert, responds to Voice, responds to Pain, Unresponsive — quick responsiveness scale in primary survey.
 - CPR: Cardiopulmonary Resuscitation — chest compressions (and ventilations if trained) for cardiac arrest per local protocols.
+- FAST: Face, Arm, Speech, Time — stroke recognition mnemonic. If stroke is suspected, call emergency services immediately.
 - GAR: Green / Amber / Red — simple risk language for likelihood × severity leading to proceed / proceed-with-controls / stop or change plan.
 - ICS: Incident Command System — common structure for organizing incident response (roles: Incident Commander, Operations, Planning, Logistics, Finance/Admin).
 - MARCH‑E: Massive bleeding → Airway → Respiration → Circulation → Hypothermia/Head → Everything else — trauma assessment/treatment sequence.

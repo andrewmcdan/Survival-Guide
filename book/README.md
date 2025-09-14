@@ -16,35 +16,41 @@ Download: [Latest Release (PDF & EPUB)](https://github.com/andrewmcdan/Survival-
 - [Survival Priorities](front-matter/03-survival-priorities.html)
 
 ## Part I — Mindset, Risk & Decision-Making
+- Quick Card: [At-a-Glance Cards](appendices/01-at-a-glance-cards.html)
 - [1. Survival Psychology](part-01-mindset-risk-and-decision-making/01-survival-psychology.html)
 - [2. Risk Assessment](part-01-mindset-risk-and-decision-making/02-risk-assessment.html)
 - [3. Situational Awareness](part-01-mindset-risk-and-decision-making/03-situational-awareness.html)
 - [4. Ethics & Legal Considerations](part-01-mindset-risk-and-decision-making/04-ethics-and-legal-considerations.html)
 
 ## Part II — Orientation, Time & Navigation
+- Quick Card: [At-a-Glance Cards](appendices/01-at-a-glance-cards.html)
 - [1. Timekeeping Without a Clock](part-02-orientation-time-and-navigation/01-timekeeping-without-a-clock.html)
 - [2. Determining Direction (No Tools)](part-02-orientation-time-and-navigation/02-determining-direction-no-tools.html)
 - [3. Map, Compass & Dead Reckoning](part-02-orientation-time-and-navigation/03-map-compass-and-dead-reckoning.html)
 - [4. Digital Aids (as available)](part-02-orientation-time-and-navigation/04-digital-aids.html)
 
 ## Part III — Signaling & Communications
+- Quick Card: [Signal Library](appendices/02-signal-library.html)
 - [1. Distress Fundamentals](part-03-signaling-and-communications/01-distress-fundamentals.html)
 - [2. Visual Signals](part-03-signaling-and-communications/02-visual-signals.html)
 - [3. Electronic Signals](part-03-signaling-and-communications/03-electronic-signals.html)
 - [4. Radios (Brief, Practical)](part-03-signaling-and-communications/04-radios-brief-practical.html)
 
 ## Part IV — Shelter, Fire & Thermal Management
+- Quick Card: [At-a-Glance Cards](appendices/01-at-a-glance-cards.html)
 - [1. Site Selection & Microclimates](part-04-shelter-fire-and-thermal-management/01-site-selection-and-microclimates.html)
 - [2. Emergency Shelter Types](part-04-shelter-fire-and-thermal-management/02-emergency-shelter-types.html)
 - [3. Firecraft](part-04-shelter-fire-and-thermal-management/03-firecraft.html)
 
 ## Part V — Water & Food
+- Quick Card: [Water Purification Dosages & Boil Times](appendices/04-water-purification-dosages-and-boil-times.html)
 - [1. Water Sourcing & Risk](part-05-water-and-food/01-water-sourcing-and-risk.html)
 - [2. Purification](part-05-water-and-food/02-purification.html)
 - [3. Hydration & Dehydration](part-05-water-and-food/03-hydration-and-dehydration.html)
 - [4. Food](part-05-water-and-food/04-food.html)
 
 ## Part VI — Medical & First Aid
+- Quick Card: [At-a-Glance Cards (MARCH-E, Hypo/Hyper, ORS)](appendices/01-at-a-glance-cards.html)
 - [1. First Response Flow](part-06-medical-and-first-aid/01-first-response-flow.html)
 - [2. Bleeding & Trauma](part-06-medical-and-first-aid/02-bleeding-and-trauma.html)
 - [3. Environmental Injuries](part-06-medical-and-first-aid/03-environmental-injuries.html)
@@ -53,6 +59,7 @@ Download: [Latest Release (PDF & EPUB)](https://github.com/andrewmcdan/Survival-
 - [6. Evacuation, Triage & Handover](part-06-medical-and-first-aid/06-evacuation-triage-and-handover.html)
 
 ## Part VII — Automotive & Transport
+- Quick Card: [Checklists (Vehicle Kit)](appendices/07-checklists.html)
 - [1. Vehicle Readiness & Inspection](part-07-automotive-and-transport/01-vehicle-readiness-and-inspection.html)
 - [2. Basic Troubleshooting](part-07-automotive-and-transport/02-basic-troubleshooting.html)
 - [3. Basic Vehicle Fluids](part-07-automotive-and-transport/03-basic-vehicle-fluids.html)
@@ -62,18 +69,21 @@ Download: [Latest Release (PDF & EPUB)](https://github.com/andrewmcdan/Survival-
 - [7. Hotwiring — Legal Considerations & Alternatives](part-07-automotive-and-transport/07-hotwiring-legal-considerations-and-alternatives.html)
 
 ## Part VIII — Tools, Knots & Improvisation
+- Quick Card: [Knots & Lashings](appendices/03-knots-and-lashings.html)
 - [1. EDC, Get-Home, and 72-Hour Kits](part-08-tools-knots-and-improvisation/01-edc-get-home-and-72-hour-kits.html)
 - [2. Core Tools & Safe Use](part-08-tools-knots-and-improvisation/02-core-tools-and-safe-use.html)
 - [3. Cordage & Knots](part-08-tools-knots-and-improvisation/03-cordage-and-knots.html)
 - [4. Repair & Make-Do](part-08-tools-knots-and-improvisation/04-repair-and-make-do.html)
 
 ## Part IX — Power, Light & Electronics
+- Quick Card: [Radio Cheat Sheet](appendices/06-radio-cheat-sheet.html)
 - [1. Battery Basics](part-09-power-light-and-electronics/01-battery-basics.html)
 - [2. Charging & Generation](part-09-power-light-and-electronics/02-charging-and-generation.html)
 - [3. Lighting](part-09-power-light-and-electronics/03-lighting.html)
 - [4. Device Management](part-09-power-light-and-electronics/04-device-management.html)
 
 ## Part X — Urban & Structural Emergencies
+- Quick Card: [At-a-Glance Cards](appendices/01-at-a-glance-cards.html)
 - [1. Shelter-in-Place vs Evacuate](part-10-urban-and-structural-emergencies/01-shelter-in-place-vs-evacuate.html)
 - [2. Specific Incidents](part-10-urban-and-structural-emergencies/02-specific-incidents.html)
 - [3. Fire Behavior Basics](part-10-urban-and-structural-emergencies/03-fire-behavior-basics.html)
@@ -81,11 +91,13 @@ Download: [Latest Release (PDF & EPUB)](https://github.com/andrewmcdan/Survival-
 - [5. Pets, Kids & Dependent Care](part-10-urban-and-structural-emergencies/05-pets-kids-and-dependent-care.html)
 
 ## Part XI — Security, De-Escalation & Group Operations
+- Quick Card: [At-a-Glance Cards](appendices/01-at-a-glance-cards.html)
 - [1. Personal Security](part-11-security-de-escalation-and-group-operations/01-personal-security.html)
 - [2. Group Dynamics & Leadership](part-11-security-de-escalation-and-group-operations/02-group-dynamics-and-leadership.html)
 - [3. Community Coordination](part-11-security-de-escalation-and-group-operations/03-community-coordination.html)
 
 ## Part XII — Planning, Logistics & Practice
+- Quick Card: [Checklists](appendices/07-checklists.html)
 - [1. Family/Team Emergency Plan](part-12-planning-logistics-and-practice/01-family-team-emergency-plan.html)
 - [2. Documentation & Finances](part-12-planning-logistics-and-practice/02-documentation-and-finances.html)
 - [3. Maintenance & Drills](part-12-planning-logistics-and-practice/03-maintenance-and-drills.html)

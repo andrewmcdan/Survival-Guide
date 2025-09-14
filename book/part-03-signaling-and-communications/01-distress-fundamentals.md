@@ -8,6 +8,8 @@ layout: default
 ## Overview
 Signaling turns a small group’s senses into the world’s. Your goals are to be seen, heard, or located by rescuers without creating new hazards or exhausting yourself. Use repeated, unmistakable patterns, choose high‐visibility positions, and balance signaling with shelter and first aid.
 
+Skill Level: Basic
+
 ## SOS
 Internationally recognized pattern: three short, three long, three short.
 
@@ -91,3 +93,9 @@ Examples
 🧠 Lessons: Pattern + schedule + listening windows
 🏋️ Drill: Practice a 10‑minute signal cycle with rests.
 ```
+
+See also
+- Visual Signals: book/part-03-signaling-and-communications/02-visual-signals.html
+- Electronic Signals: book/part-03-signaling-and-communications/03-electronic-signals.html
+- Radios (Brief, Practical): book/part-03-signaling-and-communications/04-radios-brief-practical.html
+- Signal Library (Appendix): book/appendices/02-signal-library.html

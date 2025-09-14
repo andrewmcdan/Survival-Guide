@@ -6,7 +6,9 @@ layout: default
 # Radios (Brief, Practical)
 
 ## Overview
-Radios connect teams when phones fail. Keep it simple: pick legal services for your region, standardize channels and tones, and practice concise, clear exchanges. Height beats power; line‑of‑sight matters.
+Radios connect teams when phones fail. Keep it simple: pick legal services for your region, standardize channels and tones, and practice concise, clear exchanges. Height beats power; line-of-sight matters.
+
+Skill Level: Basic
 
 ## FRS/GMRS Basics
 Know your service and its limits (U.S. examples—verify your country’s rules).

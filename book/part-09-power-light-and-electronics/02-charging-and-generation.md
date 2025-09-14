@@ -90,3 +90,7 @@ Morning sun warmed the folding panel on the picnic table. You clipped the MPPT c
 🧠 Lessons: CO kills—outside only; staggered charging works
 🏋️ Drill: Place your generator’s “safe spot” now and mark it.
 ```
+
+See also
+- Battery Basics: book/part-09-power-light-and-electronics/01-battery-basics.html
+- Device Management: book/part-09-power-light-and-electronics/04-device-management.html

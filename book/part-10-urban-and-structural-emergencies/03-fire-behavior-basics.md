@@ -22,6 +22,10 @@ Reading smoke and gaps
 - Door gap/hinge side: A strong inward draw at gaps can indicate fire pulling air from your side; opening can feed it. Keep doors closed to starve fire and consider alternate routes.
 - Cloth over mouth/nose may reduce irritation but does not filter toxic gases (CO/HCN); do not rely on it for safety.
 
+## Extinguishers & Kitchen Fires
+- PASS: Pull the pin, Aim at the base, Squeeze, Sweep side to side. Keep your exit at your back; stop if fire grows or smoke thickens.
+- Grease fires: Slide a lid over the pan and turn off heat; do not move the pan; do not use water. A Class K extinguisher is preferred for deep fat fryers; for small stove‑top flare‑ups a Class ABC can work if used promptly.
+
 ## Stay-Low Movement
 Crawl or stay low; smoke rises. Keep one hand on wall; count doors in smoke; follow landmarks.
 
@@ -31,6 +35,7 @@ Know two exits from every room; practice family escape; keep keys near egress; d
 ☑️ Checklist — Home Fire Prep
 - Smoke/CO alarms tested monthly; batteries fresh
 - Extinguishers accessible; know PASS (Pull, Aim, Squeeze, Sweep)
+- Placement: Keep extinguishers in kitchen, garage, and near exits; check gauge monthly and replace or service if low.
 - Two exits per room; meeting point outside
 - Close doors at night; clear egress paths
 

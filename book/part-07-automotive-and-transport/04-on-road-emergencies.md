@@ -8,6 +8,8 @@ layout: default
 ## Overview
 Stay visible, stabilize the scene, and fix the problem without introducing new hazards. If conditions are unsafe (limited shoulder, poor visibility), call for professional help and prioritize occupant safety away from traffic.
 
+Skill Level: Basic
+
 ## Flats
 ### Jack Points
 Use the owner’s manual diagram; typical points are reinforced pinch welds or frame pads. Never crawl under a vehicle supported only by a jack.
@@ -29,6 +31,8 @@ Clear around tires; lay traction aids (sand, mats, branches); use gentle rocking
 
 ## Scene Safety
 Pull as far off as safely possible; turn wheels away from road; hazards on; high‑viz vest. Place triangles: ~10 m, 100 m behind (adjust for speed/curves).
+
+⚠️ Caution (Power): If using portable generators for scene lighting or pumps at home, never backfeed a building via outlets; use only professionally installed transfer switches. Carbon monoxide kills—run engines outdoors, away from openings.
 
 ## Fire Risk Near Fuel Leaks
 No smoking/open flame; shut off engine; evacuate downwind and uphill if possible; call emergency services.

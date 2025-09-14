@@ -8,6 +8,8 @@ layout: default
 ## Overview
 Fire provides heat, light, morale, drying power, signaling, and disinfection—but it also consumes time and fuel, and can create serious hazards. Choose fire only when it materially improves safety or mission. Obey local restrictions and practice Leave No Trace.
 
+Skill Level: Basic–Intermediate
+
 ## Fire Triangle
 All fires need fuel, heat, and oxygen. Balance these for reliable starts.
 
@@ -59,6 +61,8 @@ Pre‑plan for wet. Seek dry from the inside out.
 - Feather sticks: Carve thin curls into split sticks to increase surface area; keep attached; ignite curls first.
 - Platform: Build on a dry base (bark/green sticks) to keep tinder off wet ground or snow.
 - Canopy: Pitch a tarp/poncho partial roof while you work.
+
+💡 Tip: A tiny pencil sharpener makes quick, dry shavings from finger‑thick twigs—excellent tinder in sustained wet.
 
 ## Ember Tending
 Once you have coals, guard them—they’re your banked heat.

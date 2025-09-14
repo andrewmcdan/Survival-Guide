@@ -8,6 +8,8 @@ layout: default
 ## Overview
 Visual signals scale from tiny flashes to giant ground symbols. Think contrast, size, and motion. Day favors smoke, color, and mirrors; night favors flame and light. Choose safe, open areas and prepare multiple methods.
 
+Skill Level: Basic
+
 ## Fires
 Fire can attract attention but adds risk. Use only where safe and permitted.
 
@@ -30,7 +32,7 @@ Mirrors can project bright flashes visible miles away in sunlight.
 Large, high‑contrast letters or symbols laid on the ground.
 
 - Materials: Bright tarps, space blankets (dull side up to avoid glare), clothing, foam pads, rocks contrasting with soil/snow.
-- Scale: Each stroke ≥ 6–10 m long and 1–3 m wide; wider in open terrain. Keep area around symbols clear for contrast.
+- Scale: Each stroke ≥ 6–10 m long and 1–3 m wide; wider in open terrain. Keep a 2–5 m “halo” of cleared area around the symbol for maximum contrast.
 - Placement: Open areas near handrails (shorelines, ridge clearings, river bends, meadows). Avoid under canopy where aerial visibility is blocked.
 
 💡 Tip: Bright signal panels (e.g., VS‑17 style) and high‑vis tarps are excellent day markers. On water, dye markers or brightly colored fabric spread on the surface can improve contrast.
@@ -89,3 +91,8 @@ Examples
 🧠 Lessons: Big, simple, high‑contrast symbols work
 🏋️ Drill: Pace out 10 m strokes and memorize the look.
 ```
+
+See also
+- Distress Fundamentals: book/part-03-signaling-and-communications/01-distress-fundamentals.html
+- Electronic Signals: book/part-03-signaling-and-communications/03-electronic-signals.html
+- Signal Library (Appendix): book/appendices/02-signal-library.html

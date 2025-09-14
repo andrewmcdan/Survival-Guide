@@ -8,6 +8,8 @@ layout: default
 ## Overview
 Dehydration quietly erodes judgment, strength, and thermoregulation. Plan intake, watch for early signs, and treat with measured fluids and electrolytes. Balance against the risks of hyponatremia (too much plain water) and heat illness.
 
+Skill Level: Basic
+
 ## Signs and Stages
 Recognize progression early to prevent spirals.
 
@@ -29,6 +31,8 @@ Upper limits and pacing
 - On long hot efforts, aim for a light, steady electrolyte intake rather than plain water only; pair fluids with food/salt.
 
 ⛑️ First Aid: If vomiting, try 5–10 mL every 2–3 minutes; escalate if unable to keep fluids or if mental status worsens.
+
+💡 Tip — Estimate Your Sweat Rate: Weigh yourself (or your pack, if you prefer) before and after a one‑hour effort in similar conditions with known fluid intake. Each 0.45 kg (1 lb) lost ≈ ~0.5 L fluid deficit. Use this to plan hourly intake on future days.
 
 ## Electrolytes
 Sodium and potassium help retain water and support muscle/nerve function.
@@ -90,3 +94,7 @@ Examples
 🧠 Lessons: Tiny sips win when vomiting
 🏋️ Drill: Measure ORS without a spoon using packet or bottle caps (note conversions).
 ```
+
+See also
+- Environmental Injuries (heat illness): book/part-06-medical-and-first-aid/03-environmental-injuries.html
+- Water Sourcing & Risk: book/part-05-water-and-food/01-water-sourcing-and-risk.html

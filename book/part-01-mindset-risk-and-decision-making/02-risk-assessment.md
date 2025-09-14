@@ -36,6 +36,8 @@ Write down the lines you will not cross—before you’re at the line.
 
 ⚠️ Caution: If any Red threshold is met, stop arguing. Pivot to the pre‑agreed plan.
 
+📝 Note — 30/30 Rule: If the time between a lightning flash and the thunder is under 30 seconds, you’re close enough to be struck. Move to a safe building or fully enclosed metal vehicle and wait 30 minutes after the last thunder before resuming activities. See NOAA Lightning Safety: https://www.weather.gov/safety/lightning-outdoors
+
 ## Solo vs Group Decisions
 Decide how you’ll decide—before decisions get hard.
 

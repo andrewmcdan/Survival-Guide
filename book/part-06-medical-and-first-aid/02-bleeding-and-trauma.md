@@ -8,6 +8,8 @@ layout: default
 ## Overview
 Uncontrolled bleeding is a leading preventable cause of death in trauma. Find the source fast, apply direct pressure, escalate to hemostatic packing and tourniquets when needed, then protect and reassess. Stabilize fractures to reduce further damage.
 
+Skill Level: Intermediate
+
 ## Direct Pressure
 Most bleeding stops with steady, firm pressure.
 

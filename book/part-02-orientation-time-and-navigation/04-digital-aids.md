@@ -8,6 +8,8 @@ layout: default
 ## Overview
 Phones and handheld GPS units are outstanding—until batteries die, apps crash, or signals fail. Treat digital tools as accelerators for good fundamentals, not replacements. Preload what you need and run a battery‑aware plan.
 
+Skill Level: Basic
+
 ## Offline Map Prep
 Do this at home on Wi‑Fi before travel.
 

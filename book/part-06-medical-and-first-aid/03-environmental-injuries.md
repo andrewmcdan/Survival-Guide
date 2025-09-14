@@ -8,6 +8,8 @@ layout: default
 ## Overview
 Environmental conditions and bites/stings can deteriorate quickly. For venomous bites, immobilize and evacuate—don’t cut, suck, or apply arterial tourniquets. Treat stings by recognizing anaphylaxis early and using epinephrine when indicated. Manage heat and cold injuries decisively with insulation or active cooling, and descend immediately with altitude red flags.
 
+Skill Level: Basic–Intermediate
+
 ## Snake Bites
 ### What Not To Do
 No cutting, sucking, ice, electric shocks, or alcohol. Do not apply arterial tourniquets (can worsen damage). Don’t try to catch/kill the snake.
@@ -42,6 +44,20 @@ If prescribed or available for known allergy, give epinephrine at first sign of 
 
 📝 Note: Typical auto‑injector dosing is 0.15 mg for children under ~30 kg (66 lb) and 0.3 mg for larger children and adults. Carry two if possible and protect from heat/cold per label.
 
+## Ticks
+Prompt removal reduces risk of disease transmission.
+
+### Removal
+- Use fine‑tipped tweezers to grasp the tick as close to the skin’s surface as possible.
+- Pull upward with steady, even pressure; do not twist or jerk. Parts that remain usually come out with normal skin turnover.
+- Do not use petroleum jelly, nail polish, heat, or other folk methods.
+- After removal, clean the bite and your hands with soap and water or an alcohol‑based sanitizer.
+- Save the tick (in a sealed bag/container or a clear photo) and note the date/location; this may help a clinician assess risk.
+
+### Aftercare & When to Seek Care
+- Watch for a spreading rash (especially “bull’s‑eye”), fever, fatigue, joint pain, or flu‑like symptoms in the following days to weeks; seek medical care if these develop.
+- In some regions, clinicians may consider antibiotic prophylaxis for certain high‑risk bites—consult a healthcare professional; do not self‑prescribe.
+
 ## Hypothermia
 Early: Shivering, fumbling, mild confusion. Moderate/severe: Shivering stops, slurred speech, drowsy, slow pulse.
 
@@ -51,7 +67,7 @@ Early: Shivering, fumbling, mild confusion. Moderate/severe: Shivering stops, sl
 ## Hyperthermia
 Heat exhaustion: Heavy sweat, weakness, nausea; cool with shade, water, evaporation, and ORS; rest.
 
-Heat stroke (emergency): Altered mental status, very hot skin; call EMS; aggressive cooling—douse with water and fan hard; ice to neck/groin/armpits.
+Heat stroke (emergency): Altered mental status, very hot skin; call EMS; aggressive cooling—prefer rapid whole‑body cold‑water immersion if feasible and safe; otherwise douse with water and fan hard; ice to neck/groin/armpits.
 
 ## Frostbite vs Trench Foot
 Frostbite: Frozen tissue; numb, waxy, hard skin; blisters after rewarm. Rewarm only if refreezing risk is gone: warm water bath 37–39°C (98–102°F) 15–30 minutes; do not rub. Protect and pad; evacuate.

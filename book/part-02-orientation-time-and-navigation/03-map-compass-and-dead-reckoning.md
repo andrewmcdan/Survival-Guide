@@ -8,6 +8,8 @@ layout: default
 ## Overview
 Navigation is a chain: orient the map, choose a line, follow it with a compass and terrain features, and keep track of distance and time. Use redundant methods—if one link breaks, the others keep you honest.
 
+Skill Level: Basic–Intermediate
+
 ## Bearings
 Two common tasks: ground→map and map→ground.
 
@@ -36,6 +38,7 @@ Examples
 
 ⚠️ Caution: Know whether your compass has adjustable declination. If it’s set in the baseplate, don’t do math twice.
 📝 Note: Declination shifts over time. Check your local value annually and update your compass/baseplate notes; many topo maps show the year and annual change.
+💡 Link: NOAA Magnetic Declination Calculator — https://www.ngdc.noaa.gov/geomag/calculators/magcalc.shtml (check yearly and set adjustable compasses accordingly).
 ⚠️ Caution: Keep compasses away from ferrous metal, vehicles, and phones when taking bearings. Step 3–5 m away, level the compass, and re‑check to avoid magnetic interference.
 
 ## Triangulation
@@ -116,3 +119,7 @@ Examples
 🧠 Lessons: Resection > wandering; write both true/mag
 🏋️ Drill: Do a two‑point resection at a city park.
 ```
+
+See also
+- Timekeeping Without a Clock: book/part-02-orientation-time-and-navigation/01-timekeeping-without-a-clock.html
+- Digital Aids (as available): book/part-02-orientation-time-and-navigation/04-digital-aids.html

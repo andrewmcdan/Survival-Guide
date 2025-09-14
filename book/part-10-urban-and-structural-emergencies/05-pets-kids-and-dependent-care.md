@@ -23,6 +23,10 @@ Maintain 7–14 day supply if possible; rotate. Keep printed list: names, doses,
 ## Documentation
 IDs for kids/pets; copies of medical cards, vaccination records, and care instructions; emergency contacts; consent for caregivers.
 
+## Mobility & Medical Devices
+- Mobility aids: Keep spares/repair kits for wheelchairs, walkers, and canes; plan accessible routes and loading.
+- Powered medical devices: Identify battery needs and runtime (CPAP, oxygen concentrators); stage backup power (fully charged banks/inverters) and charging plan; register with local utility/authority medical baseline programs where available.
+
 ☑️ Checklist — Dependent Evac Ready
 - Car seats staged; practice installation
 - Pet carrier with ID, leash, water; plan for hotels/shelters that accept pets

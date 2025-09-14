@@ -8,6 +8,8 @@ layout: default
 ## Overview
 Use a multi‑barrier approach: pre‑filter to remove sediment, then disinfect by boiling, chemicals, UV, or filtering to an appropriate pore size. No single method is perfect for all threats; choose based on source and context.
 
+Skill Level: Basic
+
 ## Boiling
 Robust and widely effective for microbes.
 
@@ -36,6 +38,15 @@ Iodine (tincture or tablets)
 - Avoid in pregnancy, thyroid disease, or prolonged use; poor efficacy against Cryptosporidium.
 
 ⚠️ Caution: Chemical methods require clear water. Pre‑filter turbid water and extend contact times in cold conditions.
+
+### Calcium Hypochlorite (HTH) Stock Solution (Pool Shock)
+For situations where you must store a compact disinfectant and mix as needed.
+
+- Make a stock solution: In a ventilated area with eye protection, dissolve one heaping teaspoon (~1/4 oz) of high‑test granular calcium hypochlorite (68–73% HTH; no additives) in 2 gallons (7.6 L) of water. This yields ~500 mg/L available chlorine.
+- Dose for drinking water: Add 1 part of this chlorine stock solution to 100 parts of water being treated (about 16 fl oz of stock to 12.5 gallons of water). Mix, wait 30 minutes, and verify a faint chlorine smell; if absent, repeat the dose and wait 15 more minutes.
+- Use only plain HTH without algaecides or other pool additives. Store chemicals safely and label clearly.
+
+Reference: EPA Emergency Disinfection of Drinking Water (EPA 816‑F‑15‑003).
 
 ## Filters
 Mechanical removal of pathogens and particulates.
@@ -115,3 +126,8 @@ The power was out, and the faucet sputtered. You found a stockpot, two clean jar
 🧠 Lessons: Multi‑barrier tailored to turbidity
 🏋️ Drill: Time how much clearer water gets after 30 minutes of settling.
 ```
+
+See also
+- Water Sourcing & Risk: book/part-05-water-and-food/01-water-sourcing-and-risk.html
+- Hydration & Dehydration: book/part-05-water-and-food/03-hydration-and-dehydration.html
+- Water Purification Dosages (Appendix): book/appendices/04-water-purification-dosages-and-boil-times.html

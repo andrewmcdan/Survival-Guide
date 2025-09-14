@@ -8,11 +8,15 @@ layout: default
 ## Overview
 OBD‑II readers turn warning lights into clues. Read codes, interpret the severity, and decide whether to stop, continue cautiously, or seek service. Don’t clear codes blindly—you may erase valuable diagnostic data.
 
+Skill Level: Basic–Intermediate
+
 ## Code Readers
 Simple tools that pay for themselves quickly.
 
 - Standalone: Plug in, read/clear codes, see freeze‑frame data.
 - Bluetooth: Pair with phone apps for more data and logging.
+
+📝 Reference: For generic P0xxx powertrain codes, consult your vehicle’s service information first; trusted summaries of SAE J2012‑based codes are widely available (e.g., manufacturer sites, repair manuals). Avoid clearing codes until you’ve recorded them and any freeze‑frame data.
 
 ## Common Codes
 ### Misfire (P0300-series)

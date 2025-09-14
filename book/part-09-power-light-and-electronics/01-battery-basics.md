@@ -14,6 +14,7 @@ Different jobs, different cells.
 - Alkaline: Cheap, common; poor cold performance; risk of leakage in storage.
 - NiMH (rechargeable AA/AAA): Good cold performance; low‑self‑discharge types (e.g., Eneloop) store well.
 - Li‑ion (18650/21700/phone packs): High energy density; good cold performance; needs proper chargers.
+- LiFePO4 (LFP): Very stable and long‑cycle‑life lithium chemistry common in power stations and 12 V packs. Lower energy density than Li‑ion; heavier for the same capacity; requires a proper BMS/charger. Do not charge below ~0°C/32°F unless the pack is specifically rated/heated.
 
 ## Capacity in Context
 - mAh vs Wh: Convert to Wh for apples‑to‑apples. Wh ≈ (mAh × nominal voltage) ÷ 1000. AA NiMH ~1.2 V, Li‑ion ~3.6–3.7 V.

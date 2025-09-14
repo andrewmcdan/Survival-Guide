@@ -8,6 +8,8 @@ layout: default
 ## Overview
 You can’t operate without water, but unsafe water can incapacitate you. Choose sources with the lowest contamination risk, approach them safely, and assume treatment is required unless you personally control the source. Pair source selection with proper purification from the next chapter.
 
+Skill Level: Basic
+
 ## Moving vs Stagnant Water
 Prefer cold, clear, fast‑moving water emerging from the ground over warm, stagnant pools.
 
@@ -82,3 +84,7 @@ Examples
 🧠 Lessons: Building systems = emergency reservoirs
 🏋️ Drill: Locate your heater drain and the main shutoff.
 ```
+
+See also
+- Purification: book/part-05-water-and-food/02-purification.html
+- Hydration & Dehydration: book/part-05-water-and-food/03-hydration-and-dehydration.html

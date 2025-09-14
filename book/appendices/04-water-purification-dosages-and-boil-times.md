@@ -40,3 +40,6 @@ Notes
 ---
 
 Mark treated vs untreated containers clearly to prevent mixups.
+
+Further Reading
+- EPA: Emergency Disinfection of Drinking Water (EPA 816‑F‑15‑003)

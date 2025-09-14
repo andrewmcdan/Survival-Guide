@@ -53,6 +53,6 @@ Standard (agree with group)
 - 3 blasts: Distress
 
 ## Ground-to-Air Symbols
-Large, high‑contrast symbols (strokes ≥ 6–10 m): V (assistance), X (medical), → (direction), Y/N (yes/no), SOS, F/W (food/water). Place in open areas near handrails.
+Large, high‑contrast symbols (strokes ≥ 6–10 m; 1–3 m wide) with a 2–5 m cleared “halo” around the symbol: V (assistance), X (medical), → (direction), Y/N (yes/no), SOS, F/W (food/water). Place in open areas near handrails.
 
 Rule of Three: Three fires, three flashes, three blasts—repeat with gaps.

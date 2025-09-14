@@ -8,6 +8,8 @@ layout: default
 ## Overview
 When a car won’t start or overheats, a simple, safe triage beats random part swaps. Start with battery/terminals, fuses/relays, and immobilizer clues; then separate no‑crank from crank‑no‑start. Use jump packs carefully, avoid opening hot cooling systems, and decide early whether to stop or limp home.
 
+Skill Level: Basic
+
 ## No-Start Triage
 ### Battery
 Common cause. Dome lights dim? Clicking? Measure if you can: <12.0 V = low, ~12.6 V = full. Look for corrosion/loose terminals.
@@ -55,6 +57,11 @@ Turn off AC; turn heat on high to shed heat; pull over safely. Do not open radia
 ⚠️ Caution: Steam = stop. Don’t douse a hot engine with cold water; avoid spraying water on hot electronics.
 
 💡 Tip: If a hose collapses as RPM rises, suspect a clogged radiator cap or blocked hose.
+
+## EV/Hybrid Notes (Safety)
+- High voltage: Do not cut or probe orange high‑voltage cables; risk of severe injury. Leave hybrid/EV high‑voltage systems to trained techs.
+- 12 V matters: Many EV/hybrids use a 12 V auxiliary battery for systems; a flat 12 V can mimic a no‑start—jumping the 12 V (per manual) may restore functions.
+- Thermal events: If a battery pack is suspected hot/damaged after impact, stay clear and call emergency services.
 
 ## No-Crank vs Crank-No-Start Flow
 No‑crank (key turns but engine doesn’t rotate)
